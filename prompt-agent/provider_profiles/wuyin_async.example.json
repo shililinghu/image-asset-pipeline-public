@@ -1,0 +1,14 @@
+{
+  "profile_id": "wuyin_async_image_gpt",
+  "provider": "wuyin_async",
+  "display_name": "速创 API 异步生图",
+  "api_key_env": "WUYIN_API_KEY",
+  "base_url": "https://api.wuyinkeji.com/api/async",
+  "submit_path": "/image_gpt",
+  "detail_path": "/detail",
+  "model": "wuyin_image_gpt",
+  "size": "auto",
+  "poll_interval": 2,
+  "max_poll_seconds": 180,
+  "download_remote": true
+}

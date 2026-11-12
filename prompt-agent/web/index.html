@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Prompt Pack - Local Console</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter+Tight:wght@300;400;450;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <section class="brand">
+          <div class="mark"><span class="dot"></span><span>Prompt Pack <em>Console</em></span></div>
+          <p class="sub">Local HTML workflow for self-growing prompt packs</p>
+        </section>
+
+        <section class="workspace-switch">
+          <button id="workspaceGenerateBtn" class="workspace-btn active" type="button">生成工作台</button>
+          <button id="workspaceIncubateBtn" class="workspace-btn" type="button">Prompt 包孵化</button>
+          <button id="workspaceSettingsBtn" class="workspace-btn" type="button">设置中心</button>
+        </section>
+
+        <section>
+          <div class="side-label">System Status</div>
+          <div class="stats">
+            <div class="stat"><span class="num" id="packCount">0</span><span class="label">Prompt 包</span></div>
+            <div class="stat"><span class="num" id="itemCount">0</span><span class="label">Prompt Items</span></div>
+            <div class="stat"><span class="num" id="imageCount">0</span><span class="label">图片结果</span></div>
+            <div class="stat"><span class="num" id="reviewCount">0</span><span class="label">自动审核</span></div>
+          </div>
+        </section>
+
+        <section>
+          <div class="side-label">Provider Profile</div>
+          <div class="profile-card">
+            <div class="key">Current</div>
+            <div class="val" id="currentProfile">默认 / Mock Provider</div>
+            <div class="key">TasteLens</div>
+            <div class="val" id="tasteLensStatus">读取中</div>
+          </div>
+        </section>
+
+        <section class="console-form">
+          <div class="side-label">生成控制台</div>
+          <div class="field">
+            <label for="requestSelect">Request</label>
+            <select id="requestSelect"></select>
+          </div>
+          <div class="field">
+            <label for="packSelect">Prompt 包</label>
+            <select id="packSelect"></select>
+          </div>
+          <div class="field">
+            <label for="profileSelect">Provider Profile</label>
+            <select id="profileSelect"></select>
+          </div>
+          <div class="field split">
+            <div>
+              <label for="selectionMode">生成范围</label>
+              <select id="selectionMode">
+                <option value="first_n">前 N 条</option>
+                <option value="range">prompt_id 范围</option>
+                <option value="list">prompt_id 列表</option>
+                <option value="all">全部</option>
+              </select>
+            </div>
+            <div>
+              <label for="selectionValue">Value</label>
+              <input id="selectionValue" value="3" placeholder="3 / P001-P003 / P001,P003" />
+            </div>
+          </div>
+          <div class="field">
+            <label for="imagesPerPrompt">每条 Prompt 生成张数</label>
+            <input id="imagesPerPrompt" type="number" min="1" max="5" value="1" />
+          </div>
+
+          <div class="reference-box">
+            <div class="key">Reference Image</div>
+            <p>可选：上传样图。用于同一个人物/风格的多主题生成。当前 provider 如果不支持参考图，会先作为实验记录保存。</p>
+            <input id="referenceFile" type="file" accept="image/*" />
+            <div class="reference-actions">
+              <button id="uploadReferenceBtn" type="button" class="ghost-btn">上传样图</button>
+              <button id="clearReferenceBtn" type="button" class="ghost-btn">清除样图</button>
+            </div>
+            <select id="referenceSelect"></select>
+            <div id="referencePreview" class="reference-preview empty">未选择样图</div>
+          </div>
+
+          <div class="reference-box">
+            <div class="key">主体一致性</div>
+            <label class="check-row"><input id="subjectLockEnabled" type="checkbox" checked /> 启用主体一致性锁定</label>
+            <textarea id="subjectLockDescription" placeholder="例如：参考样图中的年轻男性，黑发，冷静表情，高级商业摄影气质。保持脸型、发型、年龄感和整体识别感一致。"></textarea>
+            <p>没有样图时，请用文字描述主体，否则系统无法保证主体一致。当前 provider 未确认支持样图直传时，会通过主体描述约束 Prompt。</p>
+          </div>
+
+          <button id="runBtn" class="primary-btn" type="button">运行 Prompt 包生成图片</button>
+          <button id="autoReviewBtn" class="secondary-btn" type="button">自动审核最新图片</button>
+          <button id="refreshBtn" class="ghost-btn full" type="button">刷新数据</button>
+        </section>
+      </aside>
+
+      <main class="content">
+        <header class="hero generation-view">
+          <div>
+            <p class="eyebrow">V0.4 Local Dashboard</p>
+            <h1>自生长 Prompt Pack 控制台</h1>
+            <p class="lede">把终端里的高频操作搬到本地浏览器，仍然调用现有 JSON、runner、reviewer 和 provider profile。</p>
+          </div>
+          <div class="hero-meta">
+            <span class="status-pill" id="heroStatus">idle</span>
+            <span id="lastUpdated">--</span>
+          </div>
+        </header>
+
+        <section class="progress-card idle generation-view" id="progressCard">
+          <div class="progress-head">
+            <div>
+              <p class="eyebrow">Generation Progress</p>
+              <h2 id="progressTitle">等待运行</h2>
+            </div>
+            <div class="progress-percent"><span id="progressPercent">0</span>%</div>
+          </div>
+          <div class="progress-bar"><span id="progressBar"></span></div>
+          <div class="progress-stats">
+            <span>Run <b id="progressRunId">--</b></span>
+            <span>完成 <b id="progressCompleted">0/0</b></span>
+            <span>成功 <b id="progressSuccess">0</b></span>
+            <span>失败 <b id="progressFailed">0</b></span>
+            <span>当前 <b id="progressPrompt">--</b></span>
+          </div>
+          <div class="progress-ticks" id="progressTicks"></div>
+          <div class="progress-log" id="progressLog">尚未开始。</div>
+        </section>
+
+        <section class="panel generation-view" id="generationReviewPanel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Review Gallery</p>
+              <h2>自动审核结果</h2>
+            </div>
+            <span class="status-pill" id="generationReviewStatus">latest</span>
+          </div>
+          <div class="review-tabs" id="generationReviewTabs">
+            <button class="review-tab active" data-gallery="generation" data-review-group="included" type="button">推荐审核区（<span id="generationIncludedCount">0</span>）</button>
+            <button class="review-tab" data-gallery="generation" data-review-group="filtered_out" type="button">AI 筛掉区（<span id="generationFilteredCount">0</span>）</button>
+          </div>
+          <div id="generationReviewGrid" class="grid"></div>
+          <p id="generationReviewSummary" class="muted">自动审核后会在这里显示推荐区和 AI 筛掉区。</p>
+        </section>
+
+        <section class="panel incubation-view hidden" id="incubationWorkspace">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Prompt Pack Incubation</p>
+              <h2>需求驱动的 Prompt 包孵化</h2>
+            </div>
+            <span class="status-pill" id="incubationStatus">idle</span>
+          </div>
+          <div class="incubation-layout">
+            <article class="step-card input-card">
+              <span class="step-num">01</span>
+              <h3>孵化输入区</h3>
+              <p class="muted">填写一个需求并上传样图，系统会自动生成候选 Prompt、小批量出图并完成自动审核。你只需要在审核结果里选择 keep / reject，系统会把通过图片对应的 Prompt 写入新的 Prompt 包。</p>
+              <select id="promptTypeSelect"></select>
+              <input id="incTitle" placeholder="例如：同一人物多主题人像" />
+              <textarea id="incDescription" placeholder="例如：我想基于上传样图中的人物，生成不同主题的人像摄影图。保持人物气质、脸型、发型和整体识别感一致，风格偏高级商业摄影、杂志封面、电影感光影。避免动漫感、塑料皮肤、五官变形、手指错误。"></textarea>
+              <div class="mini-grid">
+                <select id="incProfileSelect"></select>
+                <select id="incRatio">
+                  <option value="3:4" selected>3:4</option>
+                  <option value="1:1">1:1</option>
+                  <option value="4:3">4:3</option>
+                  <option value="16:9">16:9</option>
+                  <option value="9:16">9:16</option>
+                </select>
+                <input id="candidateCount" type="number" min="1" placeholder="建议 6～8" title="候选 Prompt 数量" />
+                <input id="incImagesPerPrompt" type="number" min="1" max="5" placeholder="第一轮建议 1，稳定后可改 2～4" title="每条 Prompt 生成张数" />
+              </div>
+              <input id="incReferenceFiles" type="file" accept=".png,.jpg,.jpeg,.webp,.zip" multiple />
+              <div id="incReferenceList" class="reference-strip"></div>
+              <div class="subject-lock-box">
+                <label class="check-row"><input id="incSubjectLockEnabled" type="checkbox" checked /> 启用主体一致性锁定</label>
+                <textarea id="incSubjectLockDescription" placeholder="例如：参考样图中的年轻男性，黑发，冷静表情，高级商业摄影气质。保持脸型、发型、年龄感和整体识别感一致。"></textarea>
+                <p class="muted">样图将作为主体锚点。如果当前 provider 不支持样图直传，系统仍会把主体描述注入 Prompt。</p>
+              </div>
+              <button id="startIncubationBtn" class="primary-btn" type="button">开始孵化 Prompt 包</button>
+            </article>
+
+            <aside class="step-card feedback-card">
+              <span class="step-num">Feedback</span>
+              <h3>反馈面板</h3>
+              <div class="feedback-stats">
+                <span>keep <b id="fbKeep">0</b></span>
+                <span>high_potential <b id="fbHigh">0</b></span>
+                <span>revise <b id="fbRevise">0</b></span>
+                <span>reject <b id="fbReject">0</b></span>
+                <span>filtered_out <b id="fbFiltered">0</b></span>
+                <span>rescue <b id="fbRescue">0</b></span>
+                <span>平均审美分 <b id="fbAvg">0</b></span>
+                <span>通过率 <b id="fbPassRate">0%</b></span>
+                <span>最终入包 <b id="fbFinal">0</b></span>
+              </div>
+              <input id="incPackName" placeholder="新 Prompt 包名称" />
+              <input id="incMinScore" type="number" min="0" max="100" value="70" />
+              <label class="check-row"><input id="includeHighPotential" type="checkbox" checked /> include high_potential</label>
+              <label class="check-row"><input id="includeRevise" type="checkbox" /> include revise</label>
+              <button id="buildIncPackBtn" class="primary-btn" type="button">生成 Prompt 包</button>
+              <p id="buildPackSummary" class="muted">等待人工审核。</p>
+            </aside>
+          </div>
+          <div class="progress-card idle compact" id="incubationProgress">
+            <div class="progress-head">
+              <div>
+                <p class="eyebrow">Incubation Progress</p>
+                <h2 id="incProgressTitle">等待开始</h2>
+              </div>
+              <div class="progress-percent"><span id="incProgressPercent">0</span>%</div>
+            </div>
+            <div class="progress-bar"><span id="incProgressBar"></span></div>
+            <div class="progress-log" id="incProgressLog">尚未开始。</div>
+          </div>
+          <div class="incubation-review-layout">
+            <div class="review-tabs hidden" id="incubationReviewTabs">
+              <button class="review-tab active" data-gallery="incubation" data-review-group="included" type="button">推荐审核区（<span id="includedCount">0</span>）</button>
+              <button class="review-tab" data-gallery="incubation" data-review-group="filtered_out" type="button">AI 筛掉区（<span id="filteredCount">0</span>）</button>
+            </div>
+            <div id="incubationReviewGrid" class="grid hidden"></div>
+          </div>
+        </section>
+
+        <section class="panel last-run generation-view">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Last Run JSON</p>
+              <h2>最近响应</h2>
+            </div>
+          </div>
+          <pre id="lastRunJson">{}</pre>
+        </section>
+
+        <section class="panel generation-view">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Asset Library</p>
+              <h2>Prompt 包资产库</h2>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table class="pack-table">
+              <thead>
+                <tr>
+                  <th>Prompt 包</th>
+                  <th>pack_id</th>
+                  <th>状态</th>
+                  <th>Items</th>
+                  <th>领域 / 平台 / 用途 / 风格</th>
+                  <th>标签</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="packTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel generation-view">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Image Results</p>
+              <h2>图片结果</h2>
+            </div>
+            <button id="refreshImagesBtn" class="outline-btn" type="button">刷新图片</button>
+          </div>
+          <div id="imageGrid" class="grid"></div>
+        </section>
+
+        <section class="panel settings-view hidden" id="settingsWorkspace">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Settings Center</p>
+              <h2>设置中心</h2>
+            </div>
+            <span class="status-pill" id="settingsMode">local</span>
+          </div>
+          <div class="settings-grid">
+            <article class="step-card">
+              <span class="step-num">01</span>
+              <h3>生图 AI 设置</h3>
+              <div class="field">
+                <label for="settingsImageProvider">Provider</label>
+                <select id="settingsImageProvider">
+                  <option value="mock">mock</option>
+                  <option value="wuyin_async">wuyin_async</option>
+                  <option value="custom_http">custom_http</option>
+                  <option value="openai_gpt_image_2">openai_gpt_image_2</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="settingsProfileSelect">Provider Profile</label>
+                <select id="settingsProfileSelect"></select>
+              </div>
+              <div class="field">
+                <label for="settingsImageModel">Model</label>
+                <input id="settingsImageModel" placeholder="wuyin_image_gpt / gpt-image-2" />
+              </div>
+              <div class="field">
+                <label for="settingsImageKey">API Key</label>
+                <input id="settingsImageKey" type="password" placeholder="留空则不覆盖已有 key" />
+                <p class="muted" id="settingsImageKeyStatus">未读取</p>
+              </div>
+              <button id="saveImageSettingsBtn" class="primary-btn" type="button">保存生图设置</button>
+              <button id="saveImageKeyBtn" class="secondary-btn" type="button">保存 Key</button>
+              <button id="clearImageKeyBtn" class="ghost-btn full" type="button">清除本地 Key</button>
+            </article>
+
+            <article class="step-card">
+              <span class="step-num">02</span>
+              <h3>自动审核 AI 设置</h3>
+              <div class="field">
+                <label for="settingsReviewProvider">审核 Provider</label>
+                <select id="settingsReviewProvider">
+                  <option value="mock">mock</option>
+                  <option value="tastelens_http">tastelens_http</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="settingsReviewUrl">TasteLens API URL</label>
+                <input id="settingsReviewUrl" placeholder="http://127.0.0.1:3000/api/analyze" />
+              </div>
+              <div class="mini-grid">
+                <input id="settingsReviewImageField" placeholder="image" />
+                <input id="settingsReviewScoreField" placeholder="displayScore / overallScore" />
+                <input id="settingsReviewRatingField" placeholder="rating / overallRating" />
+                <input id="settingsReviewReasonField" placeholder="analysis / reason" />
+              </div>
+              <div class="field">
+                <label for="settingsTasteLensKey">TasteLens Key</label>
+                <input id="settingsTasteLensKey" type="password" placeholder="可选，留空不覆盖" />
+                <p class="muted" id="settingsTasteLensKeyStatus">未读取</p>
+              </div>
+              <button id="saveReviewSettingsBtn" class="primary-btn" type="button">保存审核设置</button>
+              <button id="saveTasteLensKeyBtn" class="secondary-btn" type="button">保存 TasteLens Key</button>
+            </article>
+
+            <article class="step-card">
+              <span class="step-num">03</span>
+              <h3>本地服务与端口</h3>
+              <button id="checkPortsBtn" class="secondary-btn" type="button">检查端口</button>
+              <pre id="portsResult" class="settings-output">{}</pre>
+            </article>
+
+            <article class="step-card">
+              <span class="step-num">04</span>
+              <h3>系统自检</h3>
+              <div class="actions-grid">
+                <button id="quickDiagnosticsBtn" type="button">快速自检</button>
+                <button id="aestheticDiagnosticsBtn" type="button">自检 + TasteLens</button>
+                <button id="realImageDiagnosticsBtn" type="button">真实生图自检</button>
+              </div>
+              <div id="diagnosticsSummary" class="status-pill">尚未检查</div>
+              <div id="diagnosticsList" class="diagnostics-list"></div>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

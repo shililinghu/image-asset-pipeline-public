@@ -1,0 +1,1945 @@
+{
+  "pack_id": "ai_portrait_photography_v1",
+  "pack_name": "AI人像摄影 Prompt 包 V1",
+  "description": "由上传压缩包中的 87 个 Markdown 人像摄影提示词整理而成，适合暗调商业人像、时尚肖像、杂志封面、复古海报、户外大片等 AI 人像摄影生成测试。",
+  "domain": "portrait_photography",
+  "platform": "general",
+  "use_case": "portrait_image_generation",
+  "style": "ai_portrait_photography",
+  "ratio": "3:4",
+  "status": "candidate",
+  "version": "v1",
+  "quality_score": 0,
+  "match_tags": [
+    "AI人像摄影",
+    "人像",
+    "肖像",
+    "时尚摄影",
+    "杂志封面",
+    "商业人像",
+    "portrait",
+    "editorial"
+  ],
+  "created_from": "uploaded_markdown_zip",
+  "source_prompt_ids": [],
+  "source_feedback_ids": [],
+  "source_image_result_ids": [],
+  "created_at": "2026-05-26T07:33:04",
+  "updated_at": "2026-05-26T07:33:04",
+  "prompts": [
+    {
+      "prompt_id": "P001",
+      "title": "暗调高端企业人物杂志封面，年轻亚洲女性半身坐姿肖像，利落中短发，低盘发或短发，佩戴透明细框眼镜，自然自信微笑，微微仰头，看向上方或镜头外侧，深蓝色西装外套，灰蓝色衬衫，优雅商务造型，黑色深色背景，低调暖金色文字排版，顶部巨大低透明度衬线标题",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_001",
+      "prompt": "暗调高端企业人物杂志封面，年轻亚洲女性半身坐姿肖像，利落中短发，低盘发或短发，佩戴透明细框眼镜，自然自信微笑，微微仰头，看向上方或镜头外侧，深蓝色西装外套，灰蓝色衬衫，优雅商务造型，黑色深色背景，低调暖金色文字排版，顶部巨大低透明度衬线标题，极简细线装饰，眼镜有轻微蓝紫色反光，脸部柔和高光，暗部深沉，luxury corporate portrait, young Asian woman executive portrait, confident smiling expression, navy suit, gray blue shirt, clear frame glasses, dark studio background, premium leadership magazine cover, vision concept, elegant business editorial, dramatic low key lighting, warm gold typography, large subtle serif title in the background, refined skin texture, sharp eyes, professional personal branding, strategy innovation impact mood, sophisticated corporate aesthetic, realistic photography",
+      "negative_prompt": "男性主体，休闲街拍，甜美少女写真，性感姿势，夸张妆容，普通证件照，明亮白底棚拍，廉价商务头像，过度商业微笑，表情僵硬，复古棕褐海报，红黑拼贴，街头涂鸦，赛博朋克霓虹，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，镜片反光遮住眼睛，头发糊成块，西装结构变形，衬衫领口错误，手指畸形，多余手指，背景杂乱，暗部死黑无细节，脸部过曝，高光死白，金色文字过亮，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度，噪点过重",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暗调高端企业人物杂志封面，年轻亚洲女性半身坐姿肖像，利落中短发，低盘发或短发，佩戴透明细框眼镜，自然自信微笑，微微仰头，看向上方或镜头外侧，深蓝色西装外套，灰蓝色衬衫，优雅商务造型，黑色深色背景，低调暖金色文字排版，顶部巨大低透明度衬线标题，极简细线装饰，眼镜有轻微蓝紫色反光，脸部柔和高光，暗部深沉.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身坐姿肖像，利落中短发或低盘发，佩戴透明细框眼镜，自然自信微笑，微微仰头，看向上方或镜头外侧，深蓝色西装外套，灰蓝色衬衫，黑色深色背景，眼镜有轻微蓝紫色反光，脸部柔和高光，暗部深沉，暗调高端企业人物肖像，luxury corporate portrait, confident executive woman, dramatic low key lighting, refined skin texture, sophisticated leadership mood, premium business editorial photography, realistic photography, no text",
+        "original_title": "暗调高端企业人物杂志封面，年轻亚洲女性半身坐姿肖像，利落中短发，低盘发或短发，佩戴透明细框眼镜，自然自信微笑，微微仰头，看向上方或镜头外侧，深蓝色西装外套，灰蓝色衬衫，优雅商务造型，黑色深色背景，低调暖金色文字排版，顶部巨大低透明度衬线标题，极简细线装饰，眼镜有轻微蓝紫色反光，脸部柔和高光，暗部深沉"
+      }
+    },
+    {
+      "prompt_id": "P002",
+      "title": "近距离男装时尚肖像，年轻男性，凌乱湿感黑发，黑色粗框眼镜，穿黑色西装、白衬衫和黑领带，面无表情直视镜头，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_002",
+      "prompt": "近距离男装时尚肖像，年轻男性，凌乱湿感黑发，黑色粗框眼镜，穿黑色西装、白衬衫和黑领带，面无表情直视镜头，一只手从画面下方拉住他的领带，灰色极简背景，硬质棚拍灯从右前上方照射，强烈明暗对比，墙面硬阴影，cinematic editorial portrait, luxury menswear campaign, 85mm portrait, sharp eyes, high contrast lighting, muted colors, dramatic fashion photography。",
+      "negative_prompt": "动漫感、柔光美颜、笑容、夸张表情、过度磨皮、油腻皮肤、廉价婚纱照风格、背景杂乱、领带变形、手指畸形、眼镜歪斜、低清晰度。这里尤其要注意“手”和“领带”，因为这两个元素在 AI 里很容易出现手指数量错误、领带结构断裂或手和衣服粘连。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/近距离男装时尚肖像，年轻男性，凌乱湿感黑发，黑色粗框眼镜，穿黑色西装、白衬衫和黑领带，面无表情直视镜头，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "近距离男装时尚肖像，年轻男性，凌乱湿感黑发，黑色粗框眼镜，穿黑色西装、白衬衫和黑领带，面无表情直视镜头，"
+      }
+    },
+    {
+      "prompt_id": "P003",
+      "title": "黑白电影感男性肖像，年轻亚洲男性，短寸头，冷峻直视镜头，坐在黑色皮革扶手椅上，穿复古西装外套、衬衫、丝巾领带，手持香烟道具，烟雾缭绕在脸部和头顶，低调暗黑背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_003",
+      "prompt": "黑白电影感男性肖像，年轻亚洲男性，短寸头，冷峻直视镜头，坐在黑色皮革扶手椅上，穿复古西装外套、衬衫、丝巾领带，手持香烟道具，烟雾缭绕在脸部和头顶，低调暗黑背景，dramatic black and white portrait, film noir atmosphere, old gangster boss aesthetic, jazz club mood, cinematic low key lighting, high contrast monochrome, leather chair, smoke haze, sharp eyes, serious expression, luxury suit styling, hard studio light, deep shadows, vintage crime movie still, mysterious masculine editorial portrait, gritty texture, subtle film grain, powerful composition。",
+      "negative_prompt": "彩色照片、明亮棚拍、白色背景、柔光美颜、韩系清新写真、动漫感、塑料皮肤、过度磨皮、廉价黑帮 cosplay、夸张表情、背景杂乱、烟雾太厚挡脸、烟雾像云、脸部过曝、黑位死黑丢细节、五官变形、手指畸形、香烟变形、西装结构错误、椅子变形、低清晰度、过度锐化、噪点太脏、恐怖怪物感。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白电影感男性肖像，年轻亚洲男性，短寸头，冷峻直视镜头，坐在黑色皮革扶手椅上，穿复古西装外套、衬衫、丝巾领带，手持香烟道具，烟雾缭绕在脸部和头顶，低调暗黑背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白电影感男性肖像，年轻亚洲男性，短寸头，冷峻直视镜头，坐在黑色皮革扶手椅上，穿复古西装外套、衬衫、丝巾领带，手持香烟道具，烟雾缭绕在脸部和头顶，低调暗黑背景"
+      }
+    },
+    {
+      "prompt_id": "P004",
+      "title": "红黑高冲击力实验海报，年轻亚洲男性近景肖像，黑色凌乱卷发，冷静锐利眼神，直视镜头，手掌遮住半张脸，只露出一只眼睛，黑色外套，白色内搭，银色链条项链，强烈红橙色灯光，深黑阴影，高对比暖色调，近距离人像构图，面部局部遮挡，竖向切片拼贴，多重曝光",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_004",
+      "prompt": "红黑高冲击力实验海报，年轻亚洲男性近景肖像，黑色凌乱卷发，冷静锐利眼神，直视镜头，手掌遮住半张脸，只露出一只眼睛，黑色外套，白色内搭，银色链条项链，强烈红橙色灯光，深黑阴影，高对比暖色调，近距离人像构图，面部局部遮挡，竖向切片拼贴，多重曝光叠影，半透明黑色竖条，半调网点印刷质感，粗粝颗粒，poster collage design, red and black editorial portrait, experimental magazine cover, bold graphic design, high impact typography, oversized distressed sans serif headline at the bottom, halftone texture, risograph print effect, offset print texture, fragmented vertical strips, layered image slices, intense red lighting, gritty urban mood, contemporary music album cover, avant-garde fashion poster, sharp eyes, dramatic close-up, premium street editorial aesthetic",
+      "negative_prompt": "干净白底棚拍，极简杂志封面，柔和韩系写真，低饱和灰绿色，复古黑白电影照，普通人像摄影，背景太干净，背景杂乱，动漫感，AI插画感，皮肤塑料感，过度磨皮，脸部过曝，眼神涣散，五官变形，手指畸形，多余手指，手掌结构错误，头发糊成块，项链变形，衣服结构变形，拼贴过度混乱，文字乱码，廉价字体，排版拥挤，标题拼错，红色过曝，暗部死黑，颗粒过重，低清晰度，低质感，恐怖血腥感，赛博朋克霓虹过重",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/红黑高冲击力实验海报，年轻亚洲男性近景肖像，黑色凌乱卷发，冷静锐利眼神，直视镜头，手掌遮住半张脸，只露出一只眼睛，黑色外套，白色内搭，银色链条项链，强烈红橙色灯光，深黑阴影，高对比暖色调，近距离人像构图，面部局部遮挡，竖向切片拼贴，多重曝光叠影，半透明黑色竖条，半调网点印刷质感，粗粝颗粒.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "young Asian man close-up portrait, messy black wavy hair, sharp direct eye contact, one hand covering half of the face, only one eye clearly visible, black jacket, white shirt, silver chain necklace, intense red orange lighting, deep black shadows, high contrast warm color grading, vertical sliced collage effect, transparent black strips, double exposure fragments, halftone print texture, gritty grain, risograph poster texture, experimental editorial portrait, contemporary music album cover style, avant-garde fashion poster, dramatic close-up composition, no text",
+        "original_title": "红黑高冲击力实验海报，年轻亚洲男性近景肖像，黑色凌乱卷发，冷静锐利眼神，直视镜头，手掌遮住半张脸，只露出一只眼睛，黑色外套，白色内搭，银色链条项链，强烈红橙色灯光，深黑阴影，高对比暖色调，近距离人像构图，面部局部遮挡，竖向切片拼贴，多重曝光叠影，半透明黑色竖条，半调网点印刷质感，粗粝颗粒"
+      }
+    },
+    {
+      "prompt_id": "P005",
+      "title": "暖色复古几何时尚女装大片，年轻亚洲女性半身坐姿肖像，黑色利落短发，冷静自信表情，佩戴琥珀色透明墨镜，焦糖橙色灯芯绒西装外套，米白色高领毛衣，浅米色长裤，坐在橙色复古圆形椅上，一只手轻托下颌，姿态松弛优雅，黄色与墨绿色几何背景，大面积红色圆形",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_005",
+      "prompt": "暖色复古几何时尚女装大片，年轻亚洲女性半身坐姿肖像，黑色利落短发，冷静自信表情，佩戴琥珀色透明墨镜，焦糖橙色灯芯绒西装外套，米白色高领毛衣，浅米色长裤，坐在橙色复古圆形椅上，一只手轻托下颌，姿态松弛优雅，黄色与墨绿色几何背景，大面积红色圆形图案，窗格阴影投射在背景上，强烈暖色阳光，复古 70 年代配色，warm retro fashion editorial, young Asian woman portrait, amber tinted sunglasses, burnt orange corduroy blazer, cream turtleneck, beige trousers, orange vintage chair, geometric color block background, yellow red and dark green palette, hard sunlight, sharp shadow, mid century modern aesthetic, luxury fashion magazine photography, elegant relaxed pose, refined skin texture, cinematic warm color grading, premium editorial portrait, retro modern design, realistic photography",
+      "negative_prompt": "男性主体，黑白照片，暗黑海报，法庭场景，街头涂鸦，红黑拼贴，赛博朋克霓虹，冷色调，背景杂乱，普通室内写真，廉价影楼感，过度磨皮，塑料皮肤，动漫感，AI插画感，五官变形，眼镜变形，手指畸形，多余手指，托腮姿势错误，西装结构变形，裤子比例错误，椅子结构错误，窗影混乱，红色圆形变形，颜色过饱和，皮肤太橙，脸部过曝，高光死白，暗部死黑，低清晰度，噪点过重，廉价复古滤镜，文字乱码",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暖色复古几何时尚女装大片，年轻亚洲女性半身坐姿肖像，黑色利落短发，冷静自信表情，佩戴琥珀色透明墨镜，焦糖橙色灯芯绒西装外套，米白色高领毛衣，浅米色长裤，坐在橙色复古圆形椅上，一只手轻托下颌，姿态松弛优雅，黄色与墨绿色几何背景，大面积红色圆形图案，窗格阴影投射在背景上，强烈暖色阳光，复古 70 年代配色，.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身坐姿肖像，黑色利落短发，琥珀色透明墨镜，冷静自信表情，焦糖橙色灯芯绒西装外套，米白色高领毛衣，浅米色长裤，坐在橙色复古椅上，一只手轻托下颌，黄色和墨绿色几何背景，大面积红色圆形图案，窗格阴影，强烈暖色阳光，70 年代复古配色，mid century modern fashion editorial, warm retro studio portrait, geometric color block background, hard sunlight and sharp shadows, luxury women fashion magazine aesthetic, realistic photography, no text",
+        "original_title": "暖色复古几何时尚女装大片，年轻亚洲女性半身坐姿肖像，黑色利落短发，冷静自信表情，佩戴琥珀色透明墨镜，焦糖橙色灯芯绒西装外套，米白色高领毛衣，浅米色长裤，坐在橙色复古圆形椅上，一只手轻托下颌，姿态松弛优雅，黄色与墨绿色几何背景，大面积红色圆形图案，窗格阴影投射在背景上，强烈暖色阳光，复古 70 年代配色，"
+      }
+    },
+    {
+      "prompt_id": "P006",
+      "title": "年轻亚洲女性户外登山海报，半身到七分身肖像，穿鲜红色专业冲锋衣，黑色登山裤，黑色手套，背黑色登山包，站在岩石或山地前，轻松自信的表情，户外探险氛围，黄色粗糙纸张背景，黑色高对比中文标题，山野无界，步履不停",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_006",
+      "prompt": "年轻亚洲女性户外登山海报，半身到七分身肖像，穿鲜红色专业冲锋衣，黑色登山裤，黑色手套，背黑色登山包，站在岩石或山地前，轻松自信的表情，户外探险氛围，黄色粗糙纸张背景，黑色高对比中文标题，山野无界，步履不停，outdoor adventure poster, hiking campaign design, mountaineering editorial poster, red technical jacket, yellow and black graphic design, torn paper edges, rugged rock foreground, mountain silhouette collage, explorer standing on mountain inset image, bold distressed Chinese typography, oversized vertical black lettering, grunge paper texture, energetic sports advertising, wilderness spirit, documentary travel poster, strong contrast, premium outdoor brand aesthetic。",
+      "negative_prompt": "城市街拍、咖啡馆生活照、柔光美颜、时尚棚拍、动漫感、塑料皮肤、过度磨皮、普通旅游照、背景杂乱、廉价户外广告、冲锋衣结构错误、背包肩带错乱、手指畸形、脸部变形、红衣服过曝、黄色背景脏成一团、中文乱码、字体廉价、排版拥挤、撕纸边缘太假、山峰贴图低清晰度、低清晰度、过度锐化、颗粒太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性户外登山海报，半身到七分身肖像，穿鲜红色专业冲锋衣，黑色登山裤，黑色手套，背黑色登山包，站在岩石或山地前，轻松自信的表情，户外探险氛围，黄色粗糙纸张背景，黑色高对比中文标题，山野无界，步履不停.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性户外登山海报，半身到七分身肖像，穿鲜红色专业冲锋衣，黑色登山裤，黑色手套，背黑色登山包，站在岩石或山地前，轻松自信的表情，户外探险氛围，黄色粗糙纸张背景，黑色高对比中文标题，山野无界，步履不停"
+      }
+    },
+    {
+      "prompt_id": "P007",
+      "title": "蓝色雾面等待感音乐海报，年轻亚洲女性小比例全身坐姿，短发或低马尾，冷静疏离表情，侧身坐在极简黑色椅子上，深色西装套装，白色衬衫，双手自然放在膝上，蓝色雾气草地背景，远处模糊人影，前景有虚化黑色人物剪影，孤独等待氛围，大面积蓝色天空留白，冷蓝",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_007",
+      "prompt": "蓝色雾面等待感音乐海报，年轻亚洲女性小比例全身坐姿，短发或低马尾，冷静疏离表情，侧身坐在极简黑色椅子上，深色西装套装，白色衬衫，双手自然放在膝上，蓝色雾气草地背景，远处模糊人影，前景有虚化黑色人物剪影，孤独等待氛围，大面积蓝色天空留白，冷蓝色调，深绿色草地，独立音乐专辑封面，melancholic music poster, young Asian woman sitting alone on a chair, blue misty field, blurred human silhouettes, lonely waiting mood, emotional album cover design, cinematic fog, soft diffused light, minimal surreal composition, cold blue color grading, quiet sadness, distant memory feeling, large white bold condensed typography at the top, small poetic text, barcode at the bottom, modern indie pop cover aesthetic, realistic photography mixed with poster design, premium emotional visual",
+      "negative_prompt": "男性主体，明亮阳光户外广告，高饱和冒险海报，山地运动风，复古咖啡馆拼贴，红黑暗黑海报，街头涂鸦，赛博朋克霓虹，甜美写真，性感姿势，复杂背景，室内棚拍，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，身体比例错误，坐姿不自然，椅子结构错误，人影太清晰，人影变成恐怖鬼影，雾气过重遮住主体，背景杂乱，草地过亮，蓝色过饱和，脸部过曝，高光死白，暗部死黑，低清晰度，噪点过重，文字乱码，标题拼错，廉价字体，排版拥挤，条形码变形",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/蓝色雾面等待感音乐海报，年轻亚洲女性小比例全身坐姿，短发或低马尾，冷静疏离表情，侧身坐在极简黑色椅子上，深色西装套装，白色衬衫，双手自然放在膝上，蓝色雾气草地背景，远处模糊人影，前景有虚化黑色人物剪影，孤独等待氛围，大面积蓝色天空留白，冷蓝色调，深绿色草地，独立音乐专辑封面.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性小比例全身坐姿，短发或低马尾，冷静疏离表情，侧身坐在极简黑色椅子上，深色西装套装，白色衬衫，双手自然放在膝上，蓝色雾气草地背景，远处模糊人影，前景有虚化黑色人物剪影，大面积蓝色天空留白，冷蓝色调，孤独等待氛围，melancholic album cover, young Asian woman sitting alone, misty blue field, blurred silhouettes, emotional cinematic poster, soft diffused light, quiet sadness, minimal surreal composition, realistic photography, no text",
+        "original_title": "蓝色雾面等待感音乐海报，年轻亚洲女性小比例全身坐姿，短发或低马尾，冷静疏离表情，侧身坐在极简黑色椅子上，深色西装套装，白色衬衫，双手自然放在膝上，蓝色雾气草地背景，远处模糊人影，前景有虚化黑色人物剪影，孤独等待氛围，大面积蓝色天空留白，冷蓝色调，深绿色草地，独立音乐专辑封面"
+      }
+    },
+    {
+      "prompt_id": "P008",
+      "title": "黑白暗调眼镜广告，年轻亚洲女性近景正面肖像，短发，利落湿感背头，冷静克制表情，正面直视镜头，佩戴黑色窄框墨镜，黑色高领毛衣，黑色西装外套，全黑造型，深灰黑色摄影棚背景，顶部柔和竖向光斑，脸部细腻高光，暗部深沉，横向动态模糊穿过眼部和太阳穴位",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_008",
+      "prompt": "黑白暗调眼镜广告，年轻亚洲女性近景正面肖像，短发，利落湿感背头，冷静克制表情，正面直视镜头，佩戴黑色窄框墨镜，黑色高领毛衣，黑色西装外套，全黑造型，深灰黑色摄影棚背景，顶部柔和竖向光斑，脸部细腻高光，暗部深沉，横向动态模糊穿过眼部和太阳穴位置，速度残影，冷感高级氛围，black and white luxury eyewear campaign, young Asian woman portrait, narrow black sunglasses, black turtleneck, black blazer, frontal close-up portrait, calm emotionless expression, dark studio background, soft vertical spotlight, horizontal motion blur across the face, noir fashion editorial, minimalist monochrome portrait, dramatic low key lighting, refined skin texture, sharp facial contour, mysterious elegant mood, premium fashion magazine aesthetic, cinematic black and white photography, realistic photography",
+      "negative_prompt": "男性主体，彩色照片，明亮白底棚拍，甜美写真，柔和韩系美颜，复古棕褐海报，红黑拼贴，街头涂鸦，赛博朋克霓虹，复杂背景，过度磨皮，塑料皮肤，动漫感，AI插画感，五官变形，眼镜变形，墨镜位置错误，镜片不对称，眼神涣散，头发糊成块，黑色高领糊成一团，西装结构变形，动态模糊过重，残影遮住整张脸，脸部过曝，高光死白，暗部死黑无细节，背景脏乱，低清晰度，噪点过重，廉价滤镜，文字乱码",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白暗调眼镜广告，年轻亚洲女性近景正面肖像，短发，利落湿感背头，冷静克制表情，正面直视镜头，佩戴黑色窄框墨镜，黑色高领毛衣，黑色西装外套，全黑造型，深灰黑色摄影棚背景，顶部柔和竖向光斑，脸部细腻高光，暗部深沉，横向动态模糊穿过眼部和太阳穴位置，速度残影，冷感高级氛围.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性近景正面肖像，短发或利落湿感背头，冷静克制表情，佩戴黑色窄框墨镜，黑色高领毛衣，黑色西装外套，全黑造型，深灰黑色摄影棚背景，顶部柔和竖向光斑，脸部细腻高光和阴影，横向动态模糊穿过眼部和太阳穴位置，速度残影，黑白高级眼镜广告氛围，minimal noir fashion portrait, luxury eyewear editorial, dramatic low key lighting, monochrome photography, refined skin texture, mysterious calm mood, realistic photography, no text",
+        "original_title": "黑白暗调眼镜广告，年轻亚洲女性近景正面肖像，短发，利落湿感背头，冷静克制表情，正面直视镜头，佩戴黑色窄框墨镜，黑色高领毛衣，黑色西装外套，全黑造型，深灰黑色摄影棚背景，顶部柔和竖向光斑，脸部细腻高光，暗部深沉，横向动态模糊穿过眼部和太阳穴位置，速度残影，冷感高级氛围"
+      }
+    },
+    {
+      "prompt_id": "P009",
+      "title": "高饱和超现实田园时装摄影",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_009",
+      "prompt": "城市街景、现代商业广告、赛博朋克、霓虹灯、写实普通草地、普通蓝天白云、旅游照、婚纱照、动漫风、插画风、3D渲染感、AI塑料质感、过度磨皮、甜美网红写真、复杂背景、人物占比过大、正脸大特写、夸张表情、多人杂乱、颜色灰暗、低饱和、柔焦过度、天空脏污、云朵像卡通贴纸、建筑细节过多、手指畸形、腿部变形、衣服结构错误、面部扭曲、文字、水印、logo、乱码、低清晰度、过曝、廉价滤镜。",
+      "negative_prompt": "城市街景、现代商业广告、赛博朋克、霓虹灯、写实普通草地、普通蓝天白云、旅游照、婚纱照、动漫风、插画风、3D渲染感、AI塑料质感、过度磨皮、甜美网红写真、复杂背景、人物占比过大、正脸大特写、夸张表情、多人杂乱、颜色灰暗、低饱和、柔焦过度、天空脏污、云朵像卡通贴纸、建筑细节过多、手指畸形、腿部变形、衣服结构错误、面部扭曲、文字、水印、logo、乱码、低清晰度、过曝、廉价滤镜。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/高饱和超现实田园时装摄影.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "深钴蓝天空，辽阔起伏的红色与墨绿色山坡，远处极简白色小屋、马匹、花田或巨大奶油色云团，一个小比例年轻女性穿复古长裙站在风景中或奔跑，强烈自然阳光，硬阴影，大面积留白，极简构图，高饱和色块，真实摄影质感，复古胶片颗粒，超现实田园风景，dreamlike pastoral landscape, saturated color fields, analog film texture, no text, no logo, no watermark.",
+        "original_title": "高饱和超现实田园时装摄影"
+      }
+    },
+    {
+      "prompt_id": "P010",
+      "title": "雨天城市街头，一位年轻亚洲女性站在积水的柏油路边，画面从高处俯拍，只露出她穿白色长筒袜和黑色漆皮乐福鞋的双腿，人物完整形象以水洼倒影出现，倒影中她穿黑色短外套或黑色裙装，撑一把透明伞，身体安静站立，姿态克制，背景有湿润柏油路、浅灰色积水、局",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_010",
+      "prompt": "雨天城市街头，一位年轻亚洲女性站在积水的柏油路边，画面从高处俯拍，只露出她穿白色长筒袜和黑色漆皮乐福鞋的双腿，人物完整形象以水洼倒影出现，倒影中她穿黑色短外套或黑色裙装，撑一把透明伞，身体安静站立，姿态克制，背景有湿润柏油路、浅灰色积水、局部斑马线，整体黑白灰低饱和，阴天自然柔光，水面反射清晰但略有雨水波纹，画面留白大，冷淡、孤独、都市、纪实、时装感，photorealistic, rainy street photography, puddle reflection, top-down composition, monochrome gray palette, wet asphalt texture, transparent umbrella, minimalist urban fashion, cinematic realism, soft overcast light, high detail, natural reflection.",
+      "negative_prompt": "男性主体、多人合影、阳光明媚、彩色霓虹、复杂街景、室内棚拍、动漫风、插画风、过度电影海报感、夸张姿势、性感摆拍、塑料皮肤、过度磨皮、脸部特写、五官变形、手指畸形、腿部比例错误、鞋子结构错误、袜子破损、伞结构错误、倒影方向错误、水面像镜子一样过度完美、背景杂乱、文字乱码、logo乱码、低清晰度、噪点过重、过曝、过度锐化。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/雨天城市街头，一位年轻亚洲女性站在积水的柏油路边，画面从高处俯拍，只露出她穿白色长筒袜和黑色漆皮乐福鞋的双腿，人物完整形象以水洼倒影出现，倒影中她穿黑色短外套或黑色裙装，撑一把透明伞，身体安静站立，姿态克制，背景有湿润柏油路、浅灰色积水、局部斑马线，整体黑白灰低饱和，阴天自然柔光，水面反射清晰但略有雨水波纹，画面留白大，冷淡、孤独、都市、纪实、时装感.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "雨天城市街头俯拍构图，一位年轻亚洲女性站在湿润柏油路边，画面前景只露出白色长筒袜和黑色漆皮乐福鞋，人物完整身影通过灰色积水倒影呈现，倒影中她穿黑色短外套和裙装，撑透明雨伞，背景有湿润柏油路、浅灰色水洼、局部白色斑马线，低饱和黑白灰色调，阴天自然柔光，雨水波纹和细碎反光，安静冷淡的都市纪实感，photorealistic, top-down rainy street shot, puddle reflection, wet asphalt, minimalist fashion mood, no text, no logo, no watermark.",
+        "original_title": "雨天城市街头，一位年轻亚洲女性站在积水的柏油路边，画面从高处俯拍，只露出她穿白色长筒袜和黑色漆皮乐福鞋的双腿，人物完整形象以水洼倒影出现，倒影中她穿黑色短外套或黑色裙装，撑一把透明伞，身体安静站立，姿态克制，背景有湿润柏油路、浅灰色积水、局部斑马线，整体黑白灰低饱和，阴天自然柔光，水面反射清晰但略有雨水波纹，画面留白大，冷淡、孤独、都市、纪实、时装感"
+      }
+    },
+    {
+      "prompt_id": "P011",
+      "title": "黑白暗调高级时装杂志封面，年轻亚洲女性半身时尚肖像，短发，利落湿感短发，佩戴细金属框眼镜，冷静克制表情，低头看向侧下方，身体微微侧向，一只手放在后颈，另一只手轻抓黑色大衣衣领，黑色宽肩长款大衣，黑色高领内搭，全黑造型，深灰黑色烟雾背景，柔和",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_011",
+      "prompt": "黑白暗调高级时装杂志封面，年轻亚洲女性半身时尚肖像，短发，利落湿感短发，佩戴细金属框眼镜，冷静克制表情，低头看向侧下方，身体微微侧向，一只手放在后颈，另一只手轻抓黑色大衣衣领，黑色宽肩长款大衣，黑色高领内搭，全黑造型，深灰黑色烟雾背景，柔和烟雾质感，低调奢华氛围，black and white luxury fashion magazine cover, young Asian woman portrait, short slick hair, thin metal glasses, oversized black coat, black turtleneck, hand behind neck, hand adjusting collar, calm introspective expression, dark smoky studio background, dramatic low key lighting, refined skin texture, sharp facial contour, quiet power mood, minimalist editorial layout, oversized thin sans serif masthead at the top, elegant serif headline on the left, small editorial text, monochrome fashion photography, premium magazine aesthetic, realistic photography",
+      "negative_prompt": "男性主体，彩色照片，明亮白底棚拍，甜美写真，性感姿势，夸张妆容，红黑拼贴，街头涂鸦，赛博朋克霓虹，复古棕褐海报，复杂背景，廉价影楼感，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，镜片不对称，眼神涣散，头发糊成块，手指畸形，多余手指，后颈手势错误，抓衣领姿势错误，大衣结构变形，肩膀比例错误，黑色衣服糊成一团，烟雾过重遮住人物，背景脏乱，脸部过曝，高光死白，暗部死黑无细节，低清晰度，噪点过重，文字乱码，标题拼错，廉价字体，排版拥挤",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白暗调高级时装杂志封面，年轻亚洲女性半身时尚肖像，短发，利落湿感短发，佩戴细金属框眼镜，冷静克制表情，低头看向侧下方，身体微微侧向，一只手放在后颈，另一只手轻抓黑色大衣衣领，黑色宽肩长款大衣，黑色高领内搭，全黑造型，深灰黑色烟雾背景，柔和烟雾质感，低调奢华氛围.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身时尚肖像，短发或利落湿感短发，细金属框眼镜，冷静克制表情，低头看向侧下方，身体微微侧向，一只手放在后颈，另一只手轻抓黑色大衣衣领，黑色宽肩长款大衣，黑色高领内搭，全黑造型，深灰黑色烟雾背景，柔和烟雾质感，黑白高质感摄影，dramatic low key lighting, luxury womenswear editorial, quiet power mood, minimalist monochrome portrait, refined skin texture, sharp facial contour, realistic photography, no text",
+        "original_title": "黑白暗调高级时装杂志封面，年轻亚洲女性半身时尚肖像，短发，利落湿感短发，佩戴细金属框眼镜，冷静克制表情，低头看向侧下方，身体微微侧向，一只手放在后颈，另一只手轻抓黑色大衣衣领，黑色宽肩长款大衣，黑色高领内搭，全黑造型，深灰黑色烟雾背景，柔和烟雾质感，低调奢华氛围"
+      }
+    },
+    {
+      "prompt_id": "P012",
+      "title": "复古福音音乐专辑封面，年轻男性时尚人像，浅金色凌乱蓬松头发，黑色粗框眼镜，白色衬衫，黑色背带，身体前倾，双臂交叠在前景，头部微微倾斜，忧郁但直视镜头，深青蓝纯色背景，暖黄色电影灯光，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_012",
+      "prompt": "复古福音音乐专辑封面，年轻男性时尚人像，浅金色凌乱蓬松头发，黑色粗框眼镜，白色衬衫，黑色背带，身体前倾，双臂交叠在前景，头部微微倾斜，忧郁但直视镜头，深青蓝纯色背景，暖黄色电影灯光，70s vintage editorial portrait, retro gospel album cover, cinematic warm tone, soft focus lens, shallow depth of field, film grain, faded print texture, black poster border, yellow typography layout, handwritten glowing calligraphy title across the center, small uppercase sans serif captions, vertical scripture text on the side, elegant magazine poster design, nostalgic Christian music cover, analog photography, dreamy but gritty texture。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古福音音乐专辑封面，年轻男性时尚人像，浅金色凌乱蓬松头发，黑色粗框眼镜，白色衬衫，黑色背带，身体前倾，双臂交叠在前景，头部微微倾斜，忧郁但直视镜头，深青蓝纯色背景，暖黄色电影灯光，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "复古福音音乐专辑封面，年轻男性时尚人像，浅金色凌乱蓬松头发，黑色粗框眼镜，白色衬衫，黑色背带，身体前倾，双臂交叠在前景，头部微微倾斜，忧郁但直视镜头，深青蓝纯色背景，暖黄色电影灯光，"
+      }
+    },
+    {
+      "prompt_id": "P013",
+      "title": "白底奢侈男装时尚广告，年轻亚洲男性坐姿肖像，短黑发，细框浅色墨镜，棕色格纹双排扣西装，白色衬衫，深蓝色领带，黑色皮鞋，银色腕表，低姿态坐在白色影棚地面，冷静直视镜头，干净纯白背景，镜面反射地面，红色绳索斜向穿过前景和中景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_013",
+      "prompt": "白底奢侈男装时尚广告，年轻亚洲男性坐姿肖像，短黑发，细框浅色墨镜，棕色格纹双排扣西装，白色衬衫，深蓝色领带，黑色皮鞋，银色腕表，低姿态坐在白色影棚地面，冷静直视镜头，干净纯白背景，镜面反射地面，红色绳索斜向穿过前景和中景，luxury menswear editorial campaign, high fashion studio portrait, minimal white cyclorama, glossy reflective floor, red velvet rope diagonal composition, oversized red tall serif typography in the background, clean luxury advertising layout, sharp tailoring, polished leather shoes, elegant masculine mood, premium magazine spread, controlled studio lighting, crisp details, modern fashion campaign aesthetic。品牌字样最好不要直接交给 AI 生成，可以用“luxury menswear brand text”替代，后期再手动排。",
+      "negative_prompt": "复杂背景、街拍场景、杂乱道具、廉价商务照、证件照姿势、动漫感、过度美颜、塑料皮肤、五官变形、眼镜变形、手指畸形、腿部比例错误、西装格纹错乱、鞋子变形、反射不真实、红绳像电线、背景脏污、文字乱码、品牌名乱码、廉价字体、排版拥挤、低清晰度、过曝、阴影太脏、过度锐化。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/白底奢侈男装时尚广告，年轻亚洲男性坐姿肖像，短黑发，细框浅色墨镜，棕色格纹双排扣西装，白色衬衫，深蓝色领带，黑色皮鞋，银色腕表，低姿态坐在白色影棚地面，冷静直视镜头，干净纯白背景，镜面反射地面，红色绳索斜向穿过前景和中景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "白底奢侈男装时尚广告，年轻亚洲男性坐姿肖像，短黑发，细框浅色墨镜，棕色格纹双排扣西装，白色衬衫，深蓝色领带，黑色皮鞋，银色腕表，低姿态坐在白色影棚地面，冷静直视镜头，干净纯白背景，镜面反射地面，红色绳索斜向穿过前景和中景"
+      }
+    },
+    {
+      "prompt_id": "P014",
+      "title": "黑红命运感暗黑杂志海报，成年亚洲男性近景正面肖像，短寸黑发，冷静强势表情，直视镜头，黑色上衣，细项链，一只手夹着香烟，嘴边和头顶有大量烟雾，黑白高对比人像，深黑背景，烟雾环绕面部，神秘主义氛围，命运主题视觉",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_014",
+      "prompt": "黑红命运感暗黑杂志海报，成年亚洲男性近景正面肖像，短寸黑发，冷静强势表情，直视镜头，黑色上衣，细项链，一只手夹着香烟，嘴边和头顶有大量烟雾，黑白高对比人像，深黑背景，烟雾环绕面部，神秘主义氛围，命运主题视觉，左侧巨大竖排白色衬线标题，底部红色大号衬线标题，右侧竖排中文文字，红色半透明矩形块，细线图形，准星符号，条形码，小号英文栏目文字，black and red dark editorial poster, cinematic smoking portrait, high contrast monochrome photography, smoke cloud around the face, destiny concept, fortune theme, mysterious magazine cover, vertical serif typography, red graphic panels, brutalist editorial layout, occult inspired design, noir atmosphere, luxury street magazine aesthetic, dramatic low key lighting, sharp eyes, gritty print texture, subtle scratches, premium dark poster design, realistic photography",
+      "negative_prompt": "明亮白底棚拍，普通商业写真，柔和韩系写真，干净极简杂志封面，彩色高饱和，街头涂鸦过多，赛博朋克霓虹，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼神涣散，头发糊成块，手指畸形，多余手指，香烟变形，烟雾像火灾，烟雾过重遮住整张脸，项链变形，背景杂乱，红色色块过多，排版拥挤，文字乱码，中文乱码，英文标题拼错，廉价字体，条形码变形，符号堆砌混乱，颗粒过重，低清晰度，过曝，高光死白，暗部死黑，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑红命运感暗黑杂志海报，成年亚洲男性近景正面肖像，短寸黑发，冷静强势表情，直视镜头，黑色上衣，细项链，一只手夹着香烟，嘴边和头顶有大量烟雾，黑白高对比人像，深黑背景，烟雾环绕面部，神秘主义氛围，命运主题视觉.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "成年亚洲男性暗黑人像，短寸黑发，冷静强势表情，直视镜头，黑色上衣，细项链，一只手夹着香烟，嘴边吐烟，头顶和脸部周围有浓重烟雾，黑白高对比摄影，深黑背景，dramatic low key lighting, cinematic smoking portrait, mysterious fortune theme, noir editorial mood, sharp eyes, realistic skin texture, dense smoke cloud, black and gray monochrome portrait, premium dark magazine cover composition, no text",
+        "original_title": "黑红命运感暗黑杂志海报，成年亚洲男性近景正面肖像，短寸黑发，冷静强势表情，直视镜头，黑色上衣，细项链，一只手夹着香烟，嘴边和头顶有大量烟雾，黑白高对比人像，深黑背景，烟雾环绕面部，神秘主义氛围，命运主题视觉"
+      }
+    },
+    {
+      "prompt_id": "P015",
+      "title": "复古心理肖像海报，年轻亚洲女性半身坐姿肖像，短卷发，利落微卷短发，佩戴细金属框眼镜，冷静克制表情，直视镜头，灰褐色复古西装，白色衬衫，黑色领结，双手交叠放在膝前，身体微微前倾，浅米色旧纸背景，棕褐单色调，人物背后有深红色侧脸剪影，红色人格轮",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_015",
+      "prompt": "复古心理肖像海报，年轻亚洲女性半身坐姿肖像，短卷发，利落微卷短发，佩戴细金属框眼镜，冷静克制表情，直视镜头，灰褐色复古西装，白色衬衫，黑色领结，双手交叠放在膝前，身体微微前倾，浅米色旧纸背景，棕褐单色调，人物背后有深红色侧脸剪影，红色人格轮廓，心理暗示视觉，第二人格概念，vintage psychological portrait poster, young Asian woman seated portrait, sepia tone photography, formal suit and bow tie, thin metal glasses, calm direct eye contact, old paper texture, red profile silhouette behind the head, inner self projection, dual identity concept, literary magazine cover, arthouse film poster, muted beige background, antique print texture, subtle grain, soft directional light, refined facial texture, mysterious quiet mood, elegant vintage editorial design, realistic photography",
+      "negative_prompt": "男性主体，现代商业棚拍，明亮白底写真，甜美少女写真，性感姿势，过度时尚大片，赛博朋克霓虹，街头涂鸦，红黑拼贴，撕纸拼贴，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，短发糊成块，西装结构变形，领结变形，手指畸形，多余手指，双手交叠错误，坐姿不自然，红色剪影位置错误，侧脸剪影变成恐怖影子，背景杂乱，纸张质感过脏，颗粒过重，颜色过饱和，脸部过曝，高光死白，暗部死黑，低清晰度，文字乱码，廉价复古滤镜",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古心理肖像海报，年轻亚洲女性半身坐姿肖像，短卷发，利落微卷短发，佩戴细金属框眼镜，冷静克制表情，直视镜头，灰褐色复古西装，白色衬衫，黑色领结，双手交叠放在膝前，身体微微前倾，浅米色旧纸背景，棕褐单色调，人物背后有深红色侧脸剪影，红色人格轮廓，心理暗示视觉，第二人格概念.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身坐姿肖像，短卷发，细金属框眼镜，冷静克制表情，直视镜头，灰褐色复古西装，白色衬衫，黑色领结，双手交叠放在膝前，身体微微前倾，浅米色旧纸背景，棕褐复古单色调，人物背后有深红色侧脸剪影，第二人格投影，心理肖像概念，vintage psychological portrait, sepia tone, old paper texture, red profile silhouette behind the head, dual identity concept, soft directional light, subtle grain, realistic photography, no text",
+        "original_title": "复古心理肖像海报，年轻亚洲女性半身坐姿肖像，短卷发，利落微卷短发，佩戴细金属框眼镜，冷静克制表情，直视镜头，灰褐色复古西装，白色衬衫，黑色领结，双手交叠放在膝前，身体微微前倾，浅米色旧纸背景，棕褐单色调，人物背后有深红色侧脸剪影，红色人格轮廓，心理暗示视觉，第二人格概念"
+      }
+    },
+    {
+      "prompt_id": "P016",
+      "title": "现代极简时尚杂志封面，年轻亚洲男性半身肖像，黑色自然凌乱卷发，冷静直视镜头，黑色高领毛衣，黑色宽肩西装外套，银色链条项链，干净浅灰白摄影棚背景，正面构图，人物居中偏下，留出顶部大标题空间",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_016",
+      "prompt": "现代极简时尚杂志封面，年轻亚洲男性半身肖像，黑色自然凌乱卷发，冷静直视镜头，黑色高领毛衣，黑色宽肩西装外套，银色链条项链，干净浅灰白摄影棚背景，正面构图，人物居中偏下，留出顶部大标题空间，minimal fashion magazine cover, clean studio portrait, modern menswear editorial, luxury magazine layout, soft studio lighting, subtle facial shadow, sharp eyes, refined skin texture, black tailoring, monochrome outfit, high key background, oversized black serif masthead at the top, condensed sans serif cover lines on both sides, bold white bottom headline, elegant editorial typography, clean contemporary design, premium fashion publication aesthetic。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/现代极简时尚杂志封面，年轻亚洲男性半身肖像，黑色自然凌乱卷发，冷静直视镜头，黑色高领毛衣，黑色宽肩西装外套，银色链条项链，干净浅灰白摄影棚背景，正面构图，人物居中偏下，留出顶部大标题空间.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "现代极简时尚杂志封面，年轻亚洲男性半身肖像，黑色自然凌乱卷发，冷静直视镜头，黑色高领毛衣，黑色宽肩西装外套，银色链条项链，干净浅灰白摄影棚背景，正面构图，人物居中偏下，留出顶部大标题空间"
+      }
+    },
+    {
+      "prompt_id": "P017",
+      "title": "黑白撕纸拼贴人物海报，年轻亚洲男性双重人像，黑色微卷短发，黑色西装外套，白色 T 恤，银色链条项链，上半部分正面半身肖像，冷静直视镜头，背景有巨大扭曲粗体标题文字，下半部分近距离眼部特写，戴反光银色未来感遮眼墨镜，手臂遮挡身体，横向撕裂纸张",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_017",
+      "prompt": "黑白撕纸拼贴人物海报，年轻亚洲男性双重人像，黑色微卷短发，黑色西装外套，白色 T 恤，银色链条项链，上半部分正面半身肖像，冷静直视镜头，背景有巨大扭曲粗体标题文字，下半部分近距离眼部特写，戴反光银色未来感遮眼墨镜，手臂遮挡身体，横向撕裂纸张边缘分割画面，black and white zine poster, experimental fashion magazine cover, identity fragment concept, torn paper collage, gritty xerox texture, monochrome editorial portrait, bold distorted sans serif typography, reflective visor sunglasses, barcode sticker, micro typography, star symbol, rough paper grain, distressed print texture, layered portrait composition, underground magazine layout, limited edition poster, raw but premium graphic design。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白撕纸拼贴人物海报，年轻亚洲男性双重人像，黑色微卷短发，黑色西装外套，白色 T 恤，银色链条项链，上半部分正面半身肖像，冷静直视镜头，背景有巨大扭曲粗体标题文字，下半部分近距离眼部特写，戴反光银色未来感遮眼墨镜，手臂遮挡身体，横向撕裂纸张边缘分割画面.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白撕纸拼贴人物海报，年轻亚洲男性双重人像，黑色微卷短发，黑色西装外套，白色 T 恤，银色链条项链，上半部分正面半身肖像，冷静直视镜头，背景有巨大扭曲粗体标题文字，下半部分近距离眼部特写，戴反光银色未来感遮眼墨镜，手臂遮挡身体，横向撕裂纸张边缘分割画面"
+      }
+    },
+    {
+      "prompt_id": "P018",
+      "title": "极简中性女装时尚棚拍，年轻亚洲女性半身偏三分之二肖像，短寸发，利落短发，冷静克制表情，直视镜头，黑色亮面皮夹克，深蓝色牛仔衬衫，斜纹领带，高腰黑色宽松西裤，黑色皮带，一只手轻拉领带，另一只手插进裤袋，浅灰白摄影棚背景，干净极简构图，现代中性",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_018",
+      "prompt": "极简中性女装时尚棚拍，年轻亚洲女性半身偏三分之二肖像，短寸发，利落短发，冷静克制表情，直视镜头，黑色亮面皮夹克，深蓝色牛仔衬衫，斜纹领带，高腰黑色宽松西裤，黑色皮带，一只手轻拉领带，另一只手插进裤袋，浅灰白摄影棚背景，干净极简构图，现代中性风穿搭，androgynous womenswear editorial, young Asian woman portrait, black leather bomber jacket, denim shirt, striped tie, high waisted black trousers, confident direct eye contact, minimalist studio photography, clean beige gray background, soft studio lighting, glossy leather highlights, modern fashion magazine portrait, designer lookbook aesthetic, refined skin texture, sharp eyes, cool attitude, contemporary tailoring, quiet power mood, realistic photography, premium editorial style",
+      "negative_prompt": "男性主体，甜美少女写真，性感姿势，夸张妆容，复古棕褐海报，红黑拼贴，街头涂鸦，暗黑法庭场景，赛博朋克霓虹，复杂背景，廉价影楼感，过度磨皮，塑料皮肤，动漫感，AI插画感，五官变形，眼神涣散，头发糊成块，皮夹克质感塑料，皮革反光过曝，领带变形，衬衫结构错误，手指畸形，多余手指，拉领带姿势错误，插兜姿势错误，裤子比例错误，腰带变形，背景脏污，低清晰度，噪点过重，脸部过曝，高光死白，暗部死黑，文字乱码，廉价滤镜",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/极简中性女装时尚棚拍，年轻亚洲女性半身偏三分之二肖像，短寸发，利落短发，冷静克制表情，直视镜头，黑色亮面皮夹克，深蓝色牛仔衬衫，斜纹领带，高腰黑色宽松西裤，黑色皮带，一只手轻拉领带，另一只手插进裤袋，浅灰白摄影棚背景，干净极简构图，现代中性风穿搭，.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身偏三分之二肖像，短寸发，利落短发，冷静克制表情，直视镜头，黑色亮面皮夹克，深蓝色牛仔衬衫，斜纹领带，高腰黑色宽松西裤，黑色皮带，一只手轻拉领带，另一只手插进裤袋，浅灰白摄影棚背景，干净极简构图，柔和棚拍光，皮革高光清晰，现代中性女装时尚大片，androgynous womenswear editorial, minimalist studio portrait, quiet confident mood, realistic photography, no text",
+        "original_title": "极简中性女装时尚棚拍，年轻亚洲女性半身偏三分之二肖像，短寸发，利落短发，冷静克制表情，直视镜头，黑色亮面皮夹克，深蓝色牛仔衬衫，斜纹领带，高腰黑色宽松西裤，黑色皮带，一只手轻拉领带，另一只手插进裤袋，浅灰白摄影棚背景，干净极简构图，现代中性风穿搭，"
+      }
+    },
+    {
+      "prompt_id": "P019",
+      "title": "近距离时尚人像，年轻男性，凌乱黑发，黑框眼镜，黑色高领毛衣，手靠近脸部，冷峻表情，正面构图，高反差肖像",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_019",
+      "prompt": "如果用 AI 或图像工具复现，思路应该是先生成一张高反差近景人像，再进行平面化后期，而不是直接让模型一次生成完整海报。提示词可以写：近距离时尚人像，年轻男性，凌乱黑发，黑框眼镜，黑色高领毛衣，手靠近脸部，冷峻表情，正面构图，高反差肖像，blue and white halftone poster, risograph print, screen print texture, dense dotted pattern, warped halftone waves, bold serif typography, Y2K graphic design poster, minimalist layout。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/近距离时尚人像，年轻男性，凌乱黑发，黑框眼镜，黑色高领毛衣，手靠近脸部，冷峻表情，正面构图，高反差肖像.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "近距离时尚人像，年轻男性，凌乱黑发，黑框眼镜，黑色高领毛衣，手靠近脸部，冷峻表情，正面构图，高反差肖像"
+      }
+    },
+    {
+      "prompt_id": "P020",
+      "title": "黑白都市权力感男装肖像，成年亚洲男性半身偏全身站姿，短寸凌乱黑发，冷静强势表情，佩戴窄框浅色墨镜，浅色双排扣西装，深色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，身体靠在黑色豪华轿车旁，车门打开，户外城市道路背景，桥梁和栏杆，远",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_020",
+      "prompt": "黑白都市权力感男装肖像，成年亚洲男性半身偏全身站姿，短寸凌乱黑发，冷静强势表情，佩戴窄框浅色墨镜，浅色双排扣西装，深色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，身体靠在黑色豪华轿车旁，车门打开，户外城市道路背景，桥梁和栏杆，远处树影，香烟烟雾缭绕，黑白摄影，高对比灰阶，硬朗自然光，深色阴影，cinematic black and white portrait, urban gangster film still, luxury menswear editorial, powerful street portrait, man in double breasted suit, tinted narrow sunglasses, silk scarf, smoking cigar, smoke drifting in the air, leaning against black luxury car, open car door, gritty city background, dramatic monochrome lighting, sharp facial features, masculine authority, old Hong Kong crime movie mood, mafia boss aesthetic, realistic photography, premium cinematic editorial, 35mm street fashion portrait",
+      "negative_prompt": "彩色高饱和，明亮棚拍，干净白底杂志封面，柔和韩系写真，年轻偶像感，过度美颜，塑料皮肤，动漫感，AI插画感，赛博朋克霓虹，廉价街拍，背景杂乱过度，车体变形，车门结构错误，西装结构变形，丝巾乱掉，墨镜变形，手指畸形，多余手指，香烟变形，烟雾像火灾，烟雾过重遮脸，五官变形，眼神涣散，脸部过曝，高光死白，暗部死黑，低清晰度，噪点过重，过度锐化，恐怖血腥感，文字乱码，廉价滤镜",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白都市权力感男装肖像，成年亚洲男性半身偏全身站姿，短寸凌乱黑发，冷静强势表情，佩戴窄框浅色墨镜，浅色双排扣西装，深色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，身体靠在黑色豪华轿车旁，车门打开，户外城市道路背景，桥梁和栏杆，远处树影，香烟烟雾缭绕，黑白摄影，高对比灰阶，硬朗自然光，深色阴影.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "成年亚洲男性黑白都市肖像，短寸凌乱黑发，窄框浅色墨镜，浅色双排扣西装，深色衬衫，浅色丝巾，一只手插兜，一只手夹着雪茄或香烟，靠在黑色豪华轿车旁，车门打开，户外城市道路，桥梁背景，栏杆和树影，烟雾在头顶漂浮，硬朗自然光，高对比黑白灰阶，cinematic crime film still, luxury menswear editorial, urban mafia boss aesthetic, gritty street portrait, realistic photography, no text",
+        "original_title": "黑白都市权力感男装肖像，成年亚洲男性半身偏全身站姿，短寸凌乱黑发，冷静强势表情，佩戴窄框浅色墨镜，浅色双排扣西装，深色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，身体靠在黑色豪华轿车旁，车门打开，户外城市道路背景，桥梁和栏杆，远处树影，香烟烟雾缭绕，黑白摄影，高对比灰阶，硬朗自然光，深色阴影"
+      }
+    },
+    {
+      "prompt_id": "P021",
+      "title": "暗调法庭权力感人像，年轻男性中近景坐姿，黑色自然微卷短发，冷静克制表情，直视镜头，深灰色西装外套，黑色衬衫，双手交叉放在胸前，坐在黑色皮质高背椅上，深色木质法庭或律师办公室背景，前景有虚化的木槌、玻璃杯、文件和钢笔，深色抛光木桌反光，暖色壁",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_021",
+      "prompt": "暗调法庭权力感人像，年轻男性中近景坐姿，黑色自然微卷短发，冷静克制表情，直视镜头，深灰色西装外套，黑色衬衫，双手交叉放在胸前，坐在黑色皮质高背椅上，深色木质法庭或律师办公室背景，前景有虚化的木槌、玻璃杯、文件和钢笔，深色抛光木桌反光，暖色壁灯，背景局部徽章标识，低机位正面构图，权威感姿态，moody cinematic lawyer portrait, courtroom inspired editorial portrait, powerful seated portrait, dark wood interior, black leather executive chair, clasped hands, serious calm expression, direct eye contact, dramatic low key lighting, warm practical lamp, shallow depth of field, blurred foreground objects, polished wooden desk reflection, legal drama poster, corporate power aesthetic, suspenseful atmosphere, refined skin texture, sharp eyes, realistic photography, premium cinematic portrait, dark brown black and warm gold color palette",
+      "negative_prompt": "明亮白底棚拍，普通证件照，轻松笑容，休闲街拍，杂乱办公室，廉价会议室，普通商务头像，过度商业写真，红黑拼贴海报，撕纸拼贴，半调网点，赛博朋克霓虹，动漫感，AI插画感，皮肤塑料感，过度磨皮，脸部过曝，高光死白，暗部死黑，五官变形，眼神涣散，头发糊成块，西装结构变形，肩膀比例错误，手指畸形，多余手指，双手交叉错误，椅子结构错误，桌面反光混乱，木槌变形，玻璃杯变形，背景徽章乱码，文字乱码，灯光太平，背景过亮，低清晰度，噪点过重，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暗调法庭权力感人像，年轻男性中近景坐姿，黑色自然微卷短发，冷静克制表情，直视镜头，深灰色西装外套，黑色衬衫，双手交叉放在胸前，坐在黑色皮质高背椅上，深色木质法庭或律师办公室背景，前景有虚化的木槌、玻璃杯、文件和钢笔，深色抛光木桌反光，暖色壁灯，背景局部徽章标识，低机位正面构图，权威感姿态.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "young man seated in a dark courtroom inspired interior, messy black wavy hair, serious calm expression, direct eye contact, dark gray suit jacket, black shirt, hands clasped in front of him, sitting in a black leather executive chair, dark wood panel background, warm wall lamp, blurred gavel and glass in the foreground, polished wooden desk reflection, low angle frontal composition, moody cinematic lighting, shallow depth of field, luxury legal drama atmosphere, corporate power portrait, realistic photography, no text",
+        "original_title": "暗调法庭权力感人像，年轻男性中近景坐姿，黑色自然微卷短发，冷静克制表情，直视镜头，深灰色西装外套，黑色衬衫，双手交叉放在胸前，坐在黑色皮质高背椅上，深色木质法庭或律师办公室背景，前景有虚化的木槌、玻璃杯、文件和钢笔，深色抛光木桌反光，暖色壁灯，背景局部徽章标识，低机位正面构图，权威感姿态"
+      }
+    },
+    {
+      "prompt_id": "P022",
+      "title": "高级眼镜品牌广告海报，年轻亚洲男性全身坐姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，微微仰头，黑色西装外套，黑色内搭，银色链条项链，宽松黑色长裤，坐在黑色金属设计椅上，极简灰褐色摄影棚背景，左上方斜向暖色光束，地面清晰阴影，低饱和高级",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_022",
+      "prompt": "高级眼镜品牌广告海报，年轻亚洲男性全身坐姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，微微仰头，黑色西装外套，黑色内搭，银色链条项链，宽松黑色长裤，坐在黑色金属设计椅上，极简灰褐色摄影棚背景，左上方斜向暖色光束，地面清晰阴影，低饱和高级色调，黑色造型，现代男装广告，luxury eyewear campaign poster, modern menswear editorial, seated fashion portrait, minimalist studio photography, warm directional spotlight, dramatic but clean shadows, black tailoring, designer chair, premium brand aesthetic, calm confident expression, elegant posture, refined skin texture, sharp eyes, high-end commercial portrait, muted beige gray background, cinematic studio lighting, oversized red serif brand typography across the lower center, minimal luxury layout, clean contemporary advertising design",
+      "negative_prompt": "复杂背景，街拍环境，杂乱室内，廉价商业写真，过度复古颗粒，撕纸拼贴，半调网点，赛博朋克霓虹，红黑脏污海报，动漫感，AI插画感，皮肤塑料感，过度磨皮，脸部过曝，高光死白，暗部死黑，五官变形，眼神涣散，头发糊成块，西装结构变形，腿部比例错误，坐姿不自然，椅子结构错误，手指畸形，多余手指，鞋子变形，项链乱掉，背景过亮，阴影太脏，文字乱码，品牌字拼错，廉价字体，排版拥挤，低清晰度，噪点过重，色彩过饱和",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/高级眼镜品牌广告海报，年轻亚洲男性全身坐姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，微微仰头，黑色西装外套，黑色内搭，银色链条项链，宽松黑色长裤，坐在黑色金属设计椅上，极简灰褐色摄影棚背景，左上方斜向暖色光束，地面清晰阴影，低饱和高级色调，黑色造型，现代男装广告.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲男性全身坐姿肖像，黑色凌乱微卷短发，冷静直视镜头，黑色西装外套，黑色内搭，银色链条项链，宽松黑色长裤，坐在黑色金属设计椅上，极简灰褐色摄影棚背景，左上方斜向暖色光束，地面和椅子形成清晰阴影，低饱和黑灰褐色调，minimal luxury menswear editorial, seated fashion portrait, modern studio photography, clean background, warm directional spotlight, elegant black tailoring, designer chair, calm premium advertising mood, realistic photography, no text",
+        "original_title": "高级眼镜品牌广告海报，年轻亚洲男性全身坐姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，微微仰头，黑色西装外套，黑色内搭，银色链条项链，宽松黑色长裤，坐在黑色金属设计椅上，极简灰褐色摄影棚背景，左上方斜向暖色光束，地面清晰阴影，低饱和高级色调，黑色造型，现代男装广告"
+      }
+    },
+    {
+      "prompt_id": "P023",
+      "title": "韩系独立电影海报，年轻亚洲男性半身肖像，黑色自然微卷短发，冷静忧郁表情，直视镜头，黑色西装外套，白色内搭，银色链条项链，一只手伸向镜头，手掌靠近镜头并大幅虚化，脸部清晰，隔着潮湿玻璃拍摄，玻璃反光，雾面质感，低饱和灰绿色调，深绿色树林背景，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_023",
+      "prompt": "韩系独立电影海报，年轻亚洲男性半身肖像，黑色自然微卷短发，冷静忧郁表情，直视镜头，黑色西装外套，白色内搭，银色链条项链，一只手伸向镜头，手掌靠近镜头并大幅虚化，脸部清晰，隔着潮湿玻璃拍摄，玻璃反光，雾面质感，低饱和灰绿色调，深绿色树林背景，背景高度虚化，柔和自然光，轻微面部阴影，浅景深，cinematic Korean arthouse film poster, melancholic portrait, looking through misty window glass, out-of-focus hand in foreground, sharp eyes, muted green gray color grading, soft diffused daylight, subtle haze, glass reflection, film grain, dark vignette, quiet emotional mood, minimal poster composition, elegant thin sans serif typography, wide letter spacing title, small Korean text, film festival laurel, premium independent movie poster aesthetic, realistic photography, 35mm film still",
+      "negative_prompt": "高饱和颜色，明亮商业写真，棚拍杂志封面，硬黑白高反差，复古拼贴海报，霓虹灯，赛博朋克，动漫感，AI插画感，韩系美颜过重，皮肤塑料感，过度磨皮，五官变形，眼神涣散，脸部过锐，手指畸形，多余手指，手掌结构错误，手部过清晰，背景太清楚，背景杂乱，廉价字体，文字乱码，错误韩文，片名字母变形，排版拥挤，过度脏污，划痕过多，恐怖氛围，血迹，低清晰度，过曝，高光死白",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/韩系独立电影海报，年轻亚洲男性半身肖像，黑色自然微卷短发，冷静忧郁表情，直视镜头，黑色西装外套，白色内搭，银色链条项链，一只手伸向镜头，手掌靠近镜头并大幅虚化，脸部清晰，隔着潮湿玻璃拍摄，玻璃反光，雾面质感，低饱和灰绿色调，深绿色树林背景，背景高度虚化，柔和自然光，轻微面部阴影，浅景深，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "韩系独立电影海报，年轻亚洲男性半身肖像，黑色自然微卷短发，冷静忧郁表情，直视镜头，黑色西装外套，白色内搭，银色链条项链，一只手伸向镜头，手掌靠近镜头并大幅虚化，脸部清晰，隔着潮湿玻璃拍摄，玻璃反光，雾面质感，低饱和灰绿色调，深绿色树林背景，背景高度虚化，柔和自然光，轻微面部阴影，浅景深，"
+      }
+    },
+    {
+      "prompt_id": "P024",
+      "title": "韩式潮流杂志封面，年轻亚洲男性近景肖像，黑色微卷蓬松短发，侧脸低头，眼神看向左下方，手指轻触嘴唇，灰黑格纹衬衫，米白色纸张背景，硬光棚拍，强烈面部阴影",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_024",
+      "prompt": "韩式潮流杂志封面，年轻亚洲男性近景肖像，黑色微卷蓬松短发，侧脸低头，眼神看向左下方，手指轻触嘴唇，灰黑格纹衬衫，米白色纸张背景，硬光棚拍，强烈面部阴影，high fashion youth magazine cover, Korean editorial poster, close-up portrait, oversized red bold typography behind the subject, semi transparent red block letters over the portrait, bright yellow Korean text accents, yellow numbers, rough paper texture, subtle grain, printed magazine texture, experimental layout, street fashion editorial, clean but bold composition, zine cover design, sharp facial details, dramatic cropped framing。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/韩式潮流杂志封面，年轻亚洲男性近景肖像，黑色微卷蓬松短发，侧脸低头，眼神看向左下方，手指轻触嘴唇，灰黑格纹衬衫，米白色纸张背景，硬光棚拍，强烈面部阴影.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "韩式潮流杂志封面，年轻亚洲男性近景肖像，黑色微卷蓬松短发，侧脸低头，眼神看向左下方，手指轻触嘴唇，灰黑格纹衬衫，米白色纸张背景，硬光棚拍，强烈面部阴影"
+      }
+    },
+    {
+      "prompt_id": "P025",
+      "title": "复古棕褐色时尚封面，年轻亚洲男性近景肖像，黑色微卷凌乱短发，脸部微微仰起，低角度拍摄，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，极简米色背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_025",
+      "prompt": "复古棕褐色时尚封面，年轻亚洲男性近景肖像，黑色微卷凌乱短发，脸部微微仰起，低角度拍摄，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，极简米色背景，sepia tone portrait, vintage magazine cover, retro fashion editorial, old paper texture, monochrome brown ink print, halftone grain, soft but contrasty lighting, close-up crop, elegant serif typography, large retro serif title at bottom left, small italic tagline, date text at bottom right, nostalgic literary poster, analog print texture, faded paper, refined minimal layout, quiet luxury mood。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古棕褐色时尚封面，年轻亚洲男性近景肖像，黑色微卷凌乱短发，脸部微微仰起，低角度拍摄，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，极简米色背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "复古棕褐色时尚封面，年轻亚洲男性近景肖像，黑色微卷凌乱短发，脸部微微仰起，低角度拍摄，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，极简米色背景"
+      }
+    },
+    {
+      "prompt_id": "P026",
+      "title": "复古实验杂志海报，年轻男性时尚肖像，浅金色凌乱蓬松头发，黑色粗框眼镜，黑色大衣，侧身回头看向镜头，冷淡锐利眼神，脸部近景占据画面中心，黑白高反差人像，橙色几何色块背景，右侧黑色阴影区域",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_026",
+      "prompt": "复古实验杂志海报，年轻男性时尚肖像，浅金色凌乱蓬松头发，黑色粗框眼镜，黑色大衣，侧身回头看向镜头，冷淡锐利眼神，脸部近景占据画面中心，黑白高反差人像，橙色几何色块背景，右侧黑色阴影区域，vintage editorial poster, alternative music album cover, experimental fashion magazine layout, orange and black graphic design, xerox photocopy texture, halftone print, rough paper grain, distressed ink, grunge typography, oversized vertical bold serif title on the right, narrow white serif name at the top, condensed small text block on orange panel, black abstract graffiti stamp at bottom left, asymmetrical composition, gritty analog print, 90s magazine poster aesthetic, cinematic side portrait, sharp glasses, dramatic contrast。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古实验杂志海报，年轻男性时尚肖像，浅金色凌乱蓬松头发，黑色粗框眼镜，黑色大衣，侧身回头看向镜头，冷淡锐利眼神，脸部近景占据画面中心，黑白高反差人像，橙色几何色块背景，右侧黑色阴影区域.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "复古实验杂志海报，年轻男性时尚肖像，浅金色凌乱蓬松头发，黑色粗框眼镜，黑色大衣，侧身回头看向镜头，冷淡锐利眼神，脸部近景占据画面中心，黑白高反差人像，橙色几何色块背景，右侧黑色阴影区域"
+      }
+    },
+    {
+      "prompt_id": "P027",
+      "title": "黑白纪实感男性肖像，年轻亚洲男性半身坐姿，黑色自然凌乱卷发，冷静疲惫表情，直视镜头，身体微微前倾，黑色西装外套，白色圆领 T 恤，银色链条项链，坐在木椅上，粗糙灰色水泥墙背景，大面积顶部留白，低调独立电影人物海报，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_027",
+      "prompt": "黑白纪实感男性肖像，年轻亚洲男性半身坐姿，黑色自然凌乱卷发，冷静疲惫表情，直视镜头，身体微微前倾，黑色西装外套，白色圆领 T 恤，银色链条项链，坐在木椅上，粗糙灰色水泥墙背景，大面积顶部留白，低调独立电影人物海报，black and white portrait, young Asian man, seated half body portrait, messy wavy black hair, calm tired expression, direct eye contact, leaning slightly forward, black blazer, white crew neck shirt, silver chain necklace, rough concrete wall background, minimal composition, documentary photography, arthouse film still, subtle soft light, natural facial texture, gentle shadows, high quality monochrome, film grain, dark vignette, black film border, raw emotional mood, quiet cinematic atmosphere, realistic photography, 35mm film portrait",
+      "negative_prompt": "彩色照片，高饱和颜色，商业棚拍时尚大片，过度精修，塑料皮肤，韩系美颜过重，脸部过度锐化，动漫感，AI插画感，复古拼贴，文字海报排版过多，背景杂乱，豪华室内背景，强烈霓虹光，赛博朋克，极端硬光，脸部死黑，过曝，高光死白，头发糊成一团，五官变形，眼神涣散，脖子比例错误，西装结构变形，项链变形，手指畸形，多余手指，椅子结构错误，胶片颗粒过重，划痕过多，廉价滤镜，低清晰度，低质感，恐怖氛围",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白纪实感男性肖像，年轻亚洲男性半身坐姿，黑色自然凌乱卷发，冷静疲惫表情，直视镜头，身体微微前倾，黑色西装外套，白色圆领 T 恤，银色链条项链，坐在木椅上，粗糙灰色水泥墙背景，大面积顶部留白，低调独立电影人物海报，.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "young Asian man seated portrait, black and white documentary photography, messy wavy black hair, calm tired expression, looking directly at camera, leaning forward, black blazer, white crew neck shirt, silver chain necklace, wooden chair, rough gray concrete wall, large empty space above the head, minimal composition, soft directional light, subtle facial shadow, natural skin texture, film grain, dark vignette, black film border, arthouse cinema still, raw intimate mood, realistic 35mm portrait",
+        "original_title": "黑白纪实感男性肖像，年轻亚洲男性半身坐姿，黑色自然凌乱卷发，冷静疲惫表情，直视镜头，身体微微前倾，黑色西装外套，白色圆领 T 恤，银色链条项链，坐在木椅上，粗糙灰色水泥墙背景，大面积顶部留白，低调独立电影人物海报，"
+      }
+    },
+    {
+      "prompt_id": "P028",
+      "title": "冷调日本旅行摄影杂志封面，年轻亚洲女性半身偏三分之二肖像，短发或低马尾，自然安静表情，低头看手里的复古旁轴相机，佩戴细框眼镜或浅色墨镜，米白色高领毛衣，浅米色风衣，浅色长裤，站在日本传统街道上，背景有木质老店铺，日文招牌，电线杆，安静街道，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_028",
+      "prompt": "冷调日本旅行摄影杂志封面，年轻亚洲女性半身偏三分之二肖像，短发或低马尾，自然安静表情，低头看手里的复古旁轴相机，佩戴细框眼镜或浅色墨镜，米白色高领毛衣，浅米色风衣，浅色长裤，站在日本传统街道上，背景有木质老店铺，日文招牌，电线杆，安静街道，远处雪山和富士山，阴天柔光，冷蓝灰色调，低饱和旅行摄影风格，米白色杂志边框，Japan travel magazine cover, young Asian woman travel photographer, cream trench coat, white turtleneck, holding vintage camera, quiet Japanese street, Mount Fuji in the background, traditional wooden storefronts, soft overcast light, muted blue gray color grading, cinematic travel photography, elegant serif title at the top, minimal editorial layout, vertical magazine cover, calm wanderlust mood, refined lifestyle portrait, premium travel publication aesthetic, realistic photography",
+      "negative_prompt": "男性主体，强烈户外运动海报，红黑拼贴，暗黑犯罪风，街头涂鸦，赛博朋克霓虹，高饱和商业广告，甜美写真过重，性感姿势，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，相机结构错误，手指畸形，多余手指，拿相机姿势错误，风衣结构变形，高领毛衣糊成一团，背景杂乱，日式街道错误，富士山变形，电线杆混乱，招牌乱码，文字乱码，标题拼错，廉价字体，排版拥挤，天空过曝，高光死白，暗部死黑，低清晰度，噪点过重，廉价旅游宣传照感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/冷调日本旅行摄影杂志封面，年轻亚洲女性半身偏三分之二肖像，短发或低马尾，自然安静表情，低头看手里的复古旁轴相机，佩戴细框眼镜或浅色墨镜，米白色高领毛衣，浅米色风衣，浅色长裤，站在日本传统街道上，背景有木质老店铺，日文招牌，电线杆，安静街道，远处雪山和富士山，阴天柔光，冷蓝灰色调，低饱和旅行摄影风格，米白色杂志边框，.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性旅行摄影肖像，短发或低马尾，安静专注表情，低头看手里的复古旁轴相机，佩戴细框眼镜或浅色墨镜，米白色高领毛衣，浅米色风衣，浅色长裤，站在日本传统街道上，背景有木质老店铺、日文招牌、电线杆、空旷街道和远处富士山，阴天柔光，冷蓝灰低饱和色调，安静日本旅行氛围，Japan travel photography editorial, quiet Japanese street, Mount Fuji background, cream outfit, cinematic lifestyle portrait, premium travel magazine aesthetic, realistic photography, no text",
+        "original_title": "冷调日本旅行摄影杂志封面，年轻亚洲女性半身偏三分之二肖像，短发或低马尾，自然安静表情，低头看手里的复古旁轴相机，佩戴细框眼镜或浅色墨镜，米白色高领毛衣，浅米色风衣，浅色长裤，站在日本传统街道上，背景有木质老店铺，日文招牌，电线杆，安静街道，远处雪山和富士山，阴天柔光，冷蓝灰色调，低饱和旅行摄影风格，米白色杂志边框，"
+      }
+    },
+    {
+      "prompt_id": "P029",
+      "title": "黑白高反差电影海报，年轻男性，银白凌乱头发，黑色粗框眼镜，黑色高领大衣，手遮住嘴部，低头侧脸但直视镜头，极简白色背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_029",
+      "prompt": "黑白高反差电影海报，年轻男性，银白凌乱头发，黑色粗框眼镜，黑色高领大衣，手遮住嘴部，低头侧脸但直视镜头，极简白色背景，classic cinema poster, fashion editorial portrait, high contrast monochrome, sharp eyes, luxury serif typography, diagonal glass scratches, torn poster slashes, subtle rainbow light leak, album cover design, gritty texture, dramatic noir mood。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白高反差电影海报，年轻男性，银白凌乱头发，黑色粗框眼镜，黑色高领大衣，手遮住嘴部，低头侧脸但直视镜头，极简白色背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白高反差电影海报，年轻男性，银白凌乱头发，黑色粗框眼镜，黑色高领大衣，手遮住嘴部，低头侧脸但直视镜头，极简白色背景"
+      }
+    },
+    {
+      "prompt_id": "P030",
+      "title": "年轻亚洲女性蓝色光影概念肖像，短发或利落湿发造型，佩戴细框透明眼镜，白色衬衫，低头看向下方，冷静沉思表情，人物位于画面右上方，深蓝色单色灯光，脸部被强烈明暗阴影切割，前景有虚化黑色遮挡物形成抽象轮廓",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_030",
+      "prompt": "年轻亚洲女性蓝色光影概念肖像，短发或利落湿发造型，佩戴细框透明眼镜，白色衬衫，低头看向下方，冷静沉思表情，人物位于画面右上方，深蓝色单色灯光，脸部被强烈明暗阴影切割，前景有虚化黑色遮挡物形成抽象轮廓，blue monochrome editorial portrait, conceptual fashion poster, cinematic blue lighting, hard shadow and soft haze, mysterious introspective mood, close-up portrait, glasses reflection, white shirt glowing under blue light, abstract foreground silhouettes, shallow depth of field, minimal typography layout, futuristic music cover design, cold emotional atmosphere, grainy texture, high contrast, light and shadow theme, premium visual poster aesthetic。",
+      "negative_prompt": "男性主体、暖色人像、彩色生活照、咖啡馆日常感、明亮商业写真、柔光美颜、动漫感、塑料皮肤、过度磨皮、复杂背景、霓虹城市太重、赛博机甲感、脸部完全被阴影挡住、眼镜变形、五官变形、手指畸形、前景遮挡过乱、蓝色过曝、黑位死黑、文字乱码、廉价字体、排版拥挤、低清晰度、过度锐化、噪点太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性蓝色光影概念肖像，短发或利落湿发造型，佩戴细框透明眼镜，白色衬衫，低头看向下方，冷静沉思表情，人物位于画面右上方，深蓝色单色灯光，脸部被强烈明暗阴影切割，前景有虚化黑色遮挡物形成抽象轮廓.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性蓝色光影概念肖像，短发或利落湿发造型，佩戴细框透明眼镜，白色衬衫，低头看向下方，冷静沉思表情，人物位于画面右上方，深蓝色单色灯光，脸部被强烈明暗阴影切割，前景有虚化黑色遮挡物形成抽象轮廓"
+      }
+    },
+    {
+      "prompt_id": "P031",
+      "title": "成年亚洲女性电影海报肖像，短发或利落背头发型，穿米灰色宽肩西装，白色衬衫，丝巾领带，佩戴窄框墨镜或透明镜片眼镜，手持香烟道具，冷静直视镜头，主视觉为巨大女性脸部近景，烟雾从嘴边和脸侧散开，右上叠加半透明墨镜人像，右侧叠加小比例站姿吸烟人物，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_031",
+      "prompt": "成年亚洲女性电影海报肖像，短发或利落背头发型，穿米灰色宽肩西装，白色衬衫，丝巾领带，佩戴窄框墨镜或透明镜片眼镜，手持香烟道具，冷静直视镜头，主视觉为巨大女性脸部近景，烟雾从嘴边和脸侧散开，右上叠加半透明墨镜人像，右侧叠加小比例站姿吸烟人物，底部是一辆红色低趴超跑在雨夜城市道路上疾驰，湿润地面反射灯光，cinematic crime poster, luxury noir car chase, female underworld boss aesthetic, smoky portrait montage, red supercar, night rain street, motion light trails, teal and orange color grading, gritty film texture, scratches, dust, double exposure, layered collage, dramatic lighting, high contrast, vintage action movie poster, premium editorial design, mysterious powerful female lead, urban speed, smoke haze, analog print grain。",
+      "negative_prompt": "男性主体、普通汽车广告、白底棚拍、明亮商业写真、甜美笑容、动漫感、赛博机甲过重、科幻城市太假、血腥暴力、爆炸火焰、廉价黑帮 cosplay、过度磨皮、塑料皮肤、脸部变形、五官错位、墨镜变形、手指畸形、香烟变形、西装结构错误、车辆结构错误、车标乱码、光轨过乱、烟雾完全遮脸、拼贴层次混乱、低清晰度、过度锐化、噪点糊成脏块、颜色过脏、AI感强。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/成年亚洲女性电影海报肖像，短发或利落背头发型，穿米灰色宽肩西装，白色衬衫，丝巾领带，佩戴窄框墨镜或透明镜片眼镜，手持香烟道具，冷静直视镜头，主视觉为巨大女性脸部近景，烟雾从嘴边和脸侧散开，右上叠加半透明墨镜人像，右侧叠加小比例站姿吸烟人物，底部是一辆红色低趴超跑在雨夜城市道路上疾驰，湿润地面反射灯光.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "成年亚洲女性电影海报肖像，短发或利落背头发型，穿米灰色宽肩西装，白色衬衫，丝巾领带，佩戴窄框墨镜或透明镜片眼镜，手持香烟道具，冷静直视镜头，主视觉为巨大女性脸部近景，烟雾从嘴边和脸侧散开，右上叠加半透明墨镜人像，右侧叠加小比例站姿吸烟人物，底部是一辆红色低趴超跑在雨夜城市道路上疾驰，湿润地面反射灯光"
+      }
+    },
+    {
+      "prompt_id": "P032",
+      "title": "成年亚洲女性复古电影海报肖像，短发或利落背头发型，穿黑色西装外套和白色衬衫，冷静直视镜头，手持细长香烟道具或黑色小道具，高反差黑白半调人像，米黄色旧纸背景，黑色几何拼贴块，橙红色太阳圆形，右下角红橙扇形图案，左侧黄褐色斜向色块",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_032",
+      "prompt": "成年亚洲女性复古电影海报肖像，短发或利落背头发型，穿黑色西装外套和白色衬衫，冷静直视镜头，手持细长香烟道具或黑色小道具，高反差黑白半调人像，米黄色旧纸背景，黑色几何拼贴块，橙红色太阳圆形，右下角红橙扇形图案，左侧黄褐色斜向色块，retro constructivist poster, vintage fashion cinema poster, Bauhaus inspired graphic design, Japanese modernist poster aesthetic, halftone portrait, distressed paper texture, rough ink print, bold black sans serif title, minimal narrow typography, asymmetrical composition, red orange black cream color palette, quiet mysterious female model, analog print grain, cinematic editorial mood。",
+      "negative_prompt": "男性主体、真实全彩照片、普通商业写真、柔光美颜、动漫感、塑料皮肤、复杂背景、现代霓虹、赛博科技、廉价拼贴、颜色过多、脸部变形、手指畸形、道具变形、半调纹理太脏、纸张纹理过重、几何块杂乱、文字乱码、字体廉价、排版拥挤、低清晰度、过度锐化、黑位死黑、橙色过曝、复古滤镜太假。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/成年亚洲女性复古电影海报肖像，短发或利落背头发型，穿黑色西装外套和白色衬衫，冷静直视镜头，手持细长香烟道具或黑色小道具，高反差黑白半调人像，米黄色旧纸背景，黑色几何拼贴块，橙红色太阳圆形，右下角红橙扇形图案，左侧黄褐色斜向色块.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "成年亚洲女性复古电影海报肖像，短发或利落背头发型，穿黑色西装外套和白色衬衫，冷静直视镜头，手持细长香烟道具或黑色小道具，高反差黑白半调人像，米黄色旧纸背景，黑色几何拼贴块，橙红色太阳圆形，右下角红橙扇形图案，左侧黄褐色斜向色块"
+      }
+    },
+    {
+      "prompt_id": "P033",
+      "title": "暗绿电影感男装人像，年轻亚洲男性，黑色微卷短发，米色风衣，黑色衬衫，深红色领带，站在昏暗走廊或楼梯间，手抓住风衣前襟，冷静直视镜头，前景有模糊栏杆或门框遮挡，狭窄空间构图，背景为绿色暗调室内环境，暖黄色顶灯",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_033",
+      "prompt": "暗绿电影感男装人像，年轻亚洲男性，黑色微卷短发，米色风衣，黑色衬衫，深红色领带，站在昏暗走廊或楼梯间，手抓住风衣前襟，冷静直视镜头，前景有模糊栏杆或门框遮挡，狭窄空间构图，背景为绿色暗调室内环境，暖黄色顶灯，cinematic noir portrait, moody hallway photography, detective film aesthetic, vintage trench coat styling, shallow depth of field, foreground obstruction, voyeuristic framing, warm tungsten light, green shadow color grading, low key lighting, film grain, realistic editorial portrait, mysterious atmosphere, 50mm lens, analog movie still, quiet suspense mood。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暗绿电影感男装人像，年轻亚洲男性，黑色微卷短发，米色风衣，黑色衬衫，深红色领带，站在昏暗走廊或楼梯间，手抓住风衣前襟，冷静直视镜头，前景有模糊栏杆或门框遮挡，狭窄空间构图，背景为绿色暗调室内环境，暖黄色顶灯.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "暗绿电影感男装人像，年轻亚洲男性，黑色微卷短发，米色风衣，黑色衬衫，深红色领带，站在昏暗走廊或楼梯间，手抓住风衣前襟，冷静直视镜头，前景有模糊栏杆或门框遮挡，狭窄空间构图，背景为绿色暗调室内环境，暖黄色顶灯"
+      }
+    },
+    {
+      "prompt_id": "P034",
+      "title": "高精度日系二次元插画，史诗级游戏主视觉，商稿级完成度，精致厚涂，细节极丰富，电影级光影，强烈明暗反差，边缘光，体积光，深蓝紫冷色调，能量粒子，流光轨迹，发光碎片，空间纵深感，画面恢弘，通透华丽，史诗氛围，高级视觉冲击",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_034",
+      "prompt": "高精度日系二次元插画，史诗级游戏主视觉，商稿级完成度，精致厚涂，细节极丰富，电影级光影，强烈明暗反差，边缘光，体积光，深蓝紫冷色调，能量粒子，流光轨迹，发光碎片，空间纵深感，画面恢弘，通透华丽，史诗氛围，高级视觉冲击",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/高精度日系二次元插画，史诗级游戏主视觉，商稿级完成度，精致厚涂，细节极丰富，电影级光影，强烈明暗反差，边缘光，体积光，深蓝紫冷色调，能量粒子，流光轨迹，发光碎片，空间纵深感，画面恢弘，通透华丽，史诗氛围，高级视觉冲击.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "高精度日系二次元插画，史诗级游戏主视觉，商稿级完成度，精致厚涂，细节极丰富，电影级光影，强烈明暗反差，边缘光，体积光，深蓝紫冷色调，能量粒子，流光轨迹，发光碎片，空间纵深感，画面恢弘，通透华丽，史诗氛围，高级视觉冲击"
+      }
+    },
+    {
+      "prompt_id": "P035",
+      "title": "朋克霓虹涂鸦海报，年轻亚洲男性半身肖像，黑色凌乱微卷短发，白色 T 恤，黑色西装外套，银色链条项链，冷淡直视镜头，人物居中，强烈荧光粉色背景，荧光绿色喷漆，黑色油墨污渍，街头拼贴元素",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_035",
+      "prompt": "朋克霓虹涂鸦海报，年轻亚洲男性半身肖像，黑色凌乱微卷短发，白色 T 恤，黑色西装外套，银色链条项链，冷淡直视镜头，人物居中，强烈荧光粉色背景，荧光绿色喷漆，黑色油墨污渍，街头拼贴元素，handwritten graffiti notes, punk zine poster, neon magenta and toxic green color palette, grunge editorial portrait, underground music poster, anti fashion magazine cover, rough xerox texture, paint splatter, torn paper collage, barcode sticker, black cross symbol, scribbled slogans, distressed typography, chaotic layout, high contrast studio portrait, sharp face, clean skin against dirty graphic background, rebellious youth culture aesthetic。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/朋克霓虹涂鸦海报，年轻亚洲男性半身肖像，黑色凌乱微卷短发，白色 T 恤，黑色西装外套，银色链条项链，冷淡直视镜头，人物居中，强烈荧光粉色背景，荧光绿色喷漆，黑色油墨污渍，街头拼贴元素.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "朋克霓虹涂鸦海报，年轻亚洲男性半身肖像，黑色凌乱微卷短发，白色 T 恤，黑色西装外套，银色链条项链，冷淡直视镜头，人物居中，强烈荧光粉色背景，荧光绿色喷漆，黑色油墨污渍，街头拼贴元素"
+      }
+    },
+    {
+      "prompt_id": "P036",
+      "title": "秋季户外潮流杂志封面，年轻亚洲男性全身或半身时尚肖像，黑色微卷短发，冷淡直视镜头，粉色工装夹克，橄榄绿色高领毛衣，红棕色高腰裤，站在草坡前，蓝色晴朗天空背景，复古秋日配色",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_036",
+      "prompt": "秋季户外潮流杂志封面，年轻亚洲男性全身或半身时尚肖像，黑色微卷短发，冷淡直视镜头，粉色工装夹克，橄榄绿色高领毛衣，红棕色高腰裤，站在草坡前，蓝色晴朗天空背景，复古秋日配色，fashion editorial outdoor portrait, autumn fashion magazine cover, pastel pink jacket, olive green turtleneck, rust orange pants, blue sky and dry grass field, clean youth fashion styling, bold red oversized sans serif masthead, pale pink Chinese calligraphy overlay, circular graphic elements behind the model, date typography on the left, soft vintage color grading, subtle film grain, Japanese Korean youth magazine aesthetic, playful but clean layout, seasonal fashion poster。",
+      "negative_prompt": "棚拍白底、黑白高反差、朋克涂鸦、暗黑电影感、商务西装、赛博霓虹、动漫感、过度磨皮、塑料皮肤、背景杂乱、城市街景、衣服颜色脏灰、天空过曝、草地太乱、人物比例错误、手指畸形、五官变形、头发糊成块、衣服纽扣错乱、裤子结构变形、文字乱码、中文乱码、廉价字体、排版拥挤、低清晰度、过度锐化、颗粒太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/秋季户外潮流杂志封面，年轻亚洲男性全身或半身时尚肖像，黑色微卷短发，冷淡直视镜头，粉色工装夹克，橄榄绿色高领毛衣，红棕色高腰裤，站在草坡前，蓝色晴朗天空背景，复古秋日配色.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "秋季户外潮流杂志封面，年轻亚洲男性全身或半身时尚肖像，黑色微卷短发，冷淡直视镜头，粉色工装夹克，橄榄绿色高领毛衣，红棕色高腰裤，站在草坡前，蓝色晴朗天空背景，复古秋日配色"
+      }
+    },
+    {
+      "prompt_id": "P037",
+      "title": "黑底街头涂鸦艺术人像海报，成年男性近景肖像，短发侧分，黄色圆形墨镜，黑色高领上衣，银色链条项链，金色圆形吊坠，手里夹着香烟，放松自信的笑容，微微侧脸看向远处，黑色纯背景，人物周围叠加手绘涂鸦，黄色皇冠画在头顶，白色线稿骷髅下颌叠在脸侧，红色",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_037",
+      "prompt": "黑底街头涂鸦艺术人像海报，成年男性近景肖像，短发侧分，黄色圆形墨镜，黑色高领上衣，银色链条项链，金色圆形吊坠，手里夹着香烟，放松自信的笑容，微微侧脸看向远处，黑色纯背景，人物周围叠加手绘涂鸦，黄色皇冠画在头顶，白色线稿骷髅下颌叠在脸侧，红色解剖心脏，怪物脸涂鸦，眼睛符号，箭头，梯子，手写文字，划掉的单词，红黄蓝白油漆笔触，粗糙街头艺术质感，graffiti portrait poster, black background, street art collage, hand drawn doodles, neo expressionist poster style, raw marker strokes, chalk drawing texture, paint splashes, rebellious artist portrait, urban music cover, contemporary streetwear poster, chaotic handwritten annotations, crown icon, skull sketch, anatomical heart drawing, bold black composition, vibrant primary color accents, edgy visual identity, gritty art zine aesthetic, realistic photography mixed with hand drawn graphics",
+      "negative_prompt": "干净白底棚拍，普通商务人像，柔和韩系写真，极简杂志封面，复古棕褐海报，黑白纪实照片，过度精致商业广告，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，墨镜变形，香烟变形，手指畸形，多余手指，项链变形，吊坠糊掉，涂鸦太少，涂鸦太整齐，涂鸦像儿童画，背景杂乱但无设计感，颜色过饱和，霓虹赛博朋克，文字乱码，廉价字体，排版拥挤，符号堆砌过乱，脸被涂鸦完全遮住，低清晰度，噪点过重，暗部死黑无层次，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑底街头涂鸦艺术人像海报，成年男性近景肖像，短发侧分，黄色圆形墨镜，黑色高领上衣，银色链条项链，金色圆形吊坠，手里夹着香烟，放松自信的笑容，微微侧脸看向远处，黑色纯背景，人物周围叠加手绘涂鸦，黄色皇冠画在头顶，白色线稿骷髅下颌叠在脸侧，红色解剖心脏，怪物脸涂鸦，眼睛符号，箭头，梯子，手写文字，划掉的单词，红黄蓝白油漆笔触，粗糙街头艺术质感.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "成年男性黑底近景肖像，短发侧分，黄色圆形墨镜，黑色高领上衣，银色链条项链，金色圆形吊坠，手里夹着香烟，放松自信的笑容，微微侧脸，黑色纯背景，人物周围有红黄蓝白手绘涂鸦，头顶黄色皇冠，白色骷髅下颌线稿，红色心脏涂鸦，怪物脸，眼睛符号，箭头，梯子，粗糙油漆笔触，street art portrait, graffiti collage, black background, raw marker drawing, edgy music cover aesthetic, rebellious artist poster, realistic photography, no readable text",
+        "original_title": "黑底街头涂鸦艺术人像海报，成年男性近景肖像，短发侧分，黄色圆形墨镜，黑色高领上衣，银色链条项链，金色圆形吊坠，手里夹着香烟，放松自信的笑容，微微侧脸看向远处，黑色纯背景，人物周围叠加手绘涂鸦，黄色皇冠画在头顶，白色线稿骷髅下颌叠在脸侧，红色解剖心脏，怪物脸涂鸦，眼睛符号，箭头，梯子，手写文字，划掉的单词，红黄蓝白油漆笔触，粗糙街头艺术质感"
+      }
+    },
+    {
+      "prompt_id": "P038",
+      "title": "黑白街头时装海报，亚洲男性全身或七分身肖像，短黑发，浅色窄框墨镜，灰色宽肩复古西装套装，白色衬衫，丝巾领带，双手插兜，身体微微前倾，冷淡直视镜头，昏暗城市街巷背景，高反差黑白摄影",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_038",
+      "prompt": "黑白街头时装海报，亚洲男性全身或七分身肖像，短黑发，浅色窄框墨镜，灰色宽肩复古西装套装，白色衬衫，丝巾领带，双手插兜，身体微微前倾，冷淡直视镜头，昏暗城市街巷背景，高反差黑白摄影，urban fashion editorial portrait, cinematic street photography, dark alley background, luxury oversized suit styling, noir city mood, shallow depth of field, gritty monochrome texture, sharp face, confident posture, oversized neon magenta Chinese typography, bold graphic poster layout, cyber zine editorial, pink UI corner marks, vertical small Chinese text, “luck +1” concept poster, modern Chinese streetwear magazine cover, high contrast black and pink design。",
+      "negative_prompt": "彩色真实照片、明亮棚拍、白底商务照、柔光美颜、韩系清新、动漫感、赛博机甲背景、复杂霓虹街景、廉价黑帮 cosplay、表情夸张、人物太油腻、皮肤塑料感、过度磨皮、五官变形、墨镜变形、手指畸形、西装结构错误、裤子比例错误、背景杂乱抢主体、粉色文字过多、中文乱码、字体廉价、排版拥挤、低清晰度、过度锐化、黑位死黑、噪点太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白街头时装海报，亚洲男性全身或七分身肖像，短黑发，浅色窄框墨镜，灰色宽肩复古西装套装，白色衬衫，丝巾领带，双手插兜，身体微微前倾，冷淡直视镜头，昏暗城市街巷背景，高反差黑白摄影.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白街头时装海报，亚洲男性全身或七分身肖像，短黑发，浅色窄框墨镜，灰色宽肩复古西装套装，白色衬衫，丝巾领带，双手插兜，身体微微前倾，冷淡直视镜头，昏暗城市街巷背景，高反差黑白摄影"
+      }
+    },
+    {
+      "prompt_id": "P039",
+      "title": "黑白低机位时尚女装大片，年轻亚洲女性全身肖像，短发，利落背头，冷静强势表情，低头俯视镜头，黑色长款大衣，黑色高领毛衣，黑色西裤，黑色厚底皮靴，双手插兜，一只脚高高抬向镜头，巨大鞋底占据画面左侧前景，鞋底强烈透视虚化，另一只脚站立支撑，极简白",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_039",
+      "prompt": "黑白低机位时尚女装大片，年轻亚洲女性全身肖像，短发，利落背头，冷静强势表情，低头俯视镜头，黑色长款大衣，黑色高领毛衣，黑色西裤，黑色厚底皮靴，双手插兜，一只脚高高抬向镜头，巨大鞋底占据画面左侧前景，鞋底强烈透视虚化，另一只脚站立支撑，极简白色摄影棚背景，低角度仰拍，强烈空间压迫感，black and white fashion editorial, young Asian woman full body portrait, low angle shot, oversized boot sole in foreground, dramatic perspective, all black outfit, long black coat, black turtleneck, black trousers, leather boots, hands in pockets, confident dominant pose, minimalist studio photography, clean white background, high contrast monochrome, avant-garde womenswear campaign, sharp facial expression, powerful fashion portrait, premium magazine editorial, realistic photography",
+      "negative_prompt": "男性主体，彩色照片，复杂背景，街拍环境，复古棕褐海报，红黑拼贴，涂鸦海报，赛博朋克霓虹，甜美少女写真，柔和韩系写真，普通站姿，低角度不明显，鞋底太小，鞋底不在前景，鞋子变形，脚部比例错误，腿部比例错误，身体姿势不自然，手指畸形，多余手指，插兜姿势错误，黑色衣服糊成一团，衣服结构变形，脸部过曝，高光死白，暗部死黑，五官变形，眼神涣散，头发糊成块，皮肤塑料感，过度磨皮，动漫感，AI插画感，低清晰度，噪点过重，背景脏污，文字乱码，廉价滤镜",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白低机位时尚女装大片，年轻亚洲女性全身肖像，短发，利落背头，冷静强势表情，低头俯视镜头，黑色长款大衣，黑色高领毛衣，黑色西裤，黑色厚底皮靴，双手插兜，一只脚高高抬向镜头，巨大鞋底占据画面左侧前景，鞋底强烈透视虚化，另一只脚站立支撑，极简白色摄影棚背景，低角度仰拍，强烈空间压迫感.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性全身时尚肖像，短发或利落背头，冷静强势表情，低头俯视镜头，黑色长款大衣，黑色高领毛衣，黑色西裤，黑色厚底皮靴，双手插兜，一只脚高高抬向镜头，巨大鞋底占据左侧前景，鞋底透视夸张并轻微虚化，另一只脚站立支撑，极简白色摄影棚背景，黑白高对比摄影，低角度仰拍，avant-garde womenswear editorial, dramatic perspective, minimalist studio fashion portrait, powerful dominant pose, realistic photography, no text",
+        "original_title": "黑白低机位时尚女装大片，年轻亚洲女性全身肖像，短发，利落背头，冷静强势表情，低头俯视镜头，黑色长款大衣，黑色高领毛衣，黑色西裤，黑色厚底皮靴，双手插兜，一只脚高高抬向镜头，巨大鞋底占据画面左侧前景，鞋底强烈透视虚化，另一只脚站立支撑，极简白色摄影棚背景，低角度仰拍，强烈空间压迫感"
+      }
+    },
+    {
+      "prompt_id": "P040",
+      "title": "成年亚洲女性暗黑权力肖像，黑色高领上衣，黑色宽肩西装外套，银色项链和戒指，坐在雕花高背椅上，冷静直视镜头，手持香烟道具，烟雾缭绕在脸侧，身后站着另一位黑衣女性，远处有多位戴墨镜的黑衣女性保镖，背景是巨大的东方龙形浮雕，黑色宫殿式室内空间，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_040",
+      "prompt": "成年亚洲女性暗黑权力肖像，黑色高领上衣，黑色宽肩西装外套，银色项链和戒指，坐在雕花高背椅上，冷静直视镜头，手持香烟道具，烟雾缭绕在脸侧，身后站着另一位黑衣女性，远处有多位戴墨镜的黑衣女性保镖，背景是巨大的东方龙形浮雕，黑色宫殿式室内空间，dramatic black and white portrait, dark cinematic power poster, dragon throne room, noir underworld boss aesthetic, low key lighting, high contrast monochrome, smoke haze, ornate carved chair, sharp eyes, mysterious female leader, luxury black suit styling, symmetrical composition, cinematic shadows, rim light on smoke, gothic oriental atmosphere, gritty film texture, powerful editorial photography。",
+      "negative_prompt": "男性主体、彩色照片、明亮棚拍、普通商务照、柔光美颜、动漫感、奇幻游戏感过重、廉价黑帮 cosplay、血腥暴力、武器、恐怖怪物、表情夸张、烟雾完全挡脸、龙像塑料玩具、背景太假、人物脸部变形、多人脸错乱、手指畸形、香烟变形、西装结构错误、椅子透视错误、黑位死黑没有层次、低清晰度、过度锐化、噪点太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/成年亚洲女性暗黑权力肖像，黑色高领上衣，黑色宽肩西装外套，银色项链和戒指，坐在雕花高背椅上，冷静直视镜头，手持香烟道具，烟雾缭绕在脸侧，身后站着另一位黑衣女性，远处有多位戴墨镜的黑衣女性保镖，背景是巨大的东方龙形浮雕，黑色宫殿式室内空间，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "成年亚洲女性暗黑权力肖像，黑色高领上衣，黑色宽肩西装外套，银色项链和戒指，坐在雕花高背椅上，冷静直视镜头，手持香烟道具，烟雾缭绕在脸侧，身后站着另一位黑衣女性，远处有多位戴墨镜的黑衣女性保镖，背景是巨大的东方龙形浮雕，黑色宫殿式室内空间，"
+      }
+    },
+    {
+      "prompt_id": "P041",
+      "title": "年轻亚洲女性复古生活方式海报肖像，坐在咖啡馆桌边，短发或利落中短发，佩戴浅色透明圆框眼镜，黑色宽松上衣，金色圆牌项链，手持香烟道具，自然放松地微笑，看向画面右侧，桌上有咖啡杯、蛋糕、烟盒和托盘，米黄色旧纸背景，复古几何拼贴，黑色竖向色块，橙",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_041",
+      "prompt": "年轻亚洲女性复古生活方式海报肖像，坐在咖啡馆桌边，短发或利落中短发，佩戴浅色透明圆框眼镜，黑色宽松上衣，金色圆牌项链，手持香烟道具，自然放松地微笑，看向画面右侧，桌上有咖啡杯、蛋糕、烟盒和托盘，米黄色旧纸背景，复古几何拼贴，黑色竖向色块，橙色斜向色块，深绿色大矩形，蓝绿色底部几何块，vintage lifestyle poster, retro constructivist collage, coffee table portrait, quiet luxury mood, old paper texture, muted green orange blue and black palette, halftone grain, analog print texture, elegant serif micro typography, Bauhaus inspired layout, relaxed cafe atmosphere, graphic editorial design, warm nostalgic tone, clean but textured composition。",
+      "negative_prompt": "男性主体、现代高清咖啡馆写真、真实背景太杂乱、柔光美颜过重、塑料皮肤、动漫感、赛博霓虹、朋克涂鸦、颜色过饱和、几何块杂乱、廉价拼贴、人物脸部变形、眼镜变形、手指畸形、香烟变形、咖啡杯变形、蛋糕糊成一团、桌面物体混乱、文字乱码、字体廉价、排版拥挤、纸张纹理过脏、低清晰度、过度锐化。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性复古生活方式海报肖像，坐在咖啡馆桌边，短发或利落中短发，佩戴浅色透明圆框眼镜，黑色宽松上衣，金色圆牌项链，手持香烟道具，自然放松地微笑，看向画面右侧，桌上有咖啡杯、蛋糕、烟盒和托盘，米黄色旧纸背景，复古几何拼贴，黑色竖向色块，橙色斜向色块，深绿色大矩形，蓝绿色底部几何块.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性复古生活方式海报肖像，坐在咖啡馆桌边，短发或利落中短发，佩戴浅色透明圆框眼镜，黑色宽松上衣，金色圆牌项链，手持香烟道具，自然放松地微笑，看向画面右侧，桌上有咖啡杯、蛋糕、烟盒和托盘，米黄色旧纸背景，复古几何拼贴，黑色竖向色块，橙色斜向色块，深绿色大矩形，蓝绿色底部几何块"
+      }
+    },
+    {
+      "prompt_id": "P042",
+      "title": "白墙硬闪时尚海报，年轻亚洲男性半身肖像，黑色凌乱湿发感，白色衬衫，黑色领带松散下垂，衬衫和脸颈有少量红色血浆式喷溅，疲惫冷淡的眼神，微微仰头直视镜头，极简白色背景，背后投射巨大夸张的人物阴影",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_042",
+      "prompt": "白墙硬闪时尚海报，年轻亚洲男性半身肖像，黑色凌乱湿发感，白色衬衫，黑色领带松散下垂，衬衫和脸颈有少量红色血浆式喷溅，疲惫冷淡的眼神，微微仰头直视镜头，极简白色背景，背后投射巨大夸张的人物阴影，after hours editorial poster, psychological thriller fashion portrait, stark white wall, hard flash photography, dramatic cast shadow, messy party aftermath, beauty lies in chaos, minimal black serif typography on the left, small red type details, high contrast studio lighting, raw youth portrait, cinematic tension, clean negative space, fashion horror mood, subtle grain, sharp face, chaotic elegance。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/白墙硬闪时尚海报，年轻亚洲男性半身肖像，黑色凌乱湿发感，白色衬衫，黑色领带松散下垂，衬衫和脸颈有少量红色血浆式喷溅，疲惫冷淡的眼神，微微仰头直视镜头，极简白色背景，背后投射巨大夸张的人物阴影.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "白墙硬闪时尚海报，年轻亚洲男性半身肖像，黑色凌乱湿发感，白色衬衫，黑色领带松散下垂，衬衫和脸颈有少量红色血浆式喷溅，疲惫冷淡的眼神，微微仰头直视镜头，极简白色背景，背后投射巨大夸张的人物阴影"
+      }
+    },
+    {
+      "prompt_id": "P043",
+      "title": "黑白赛博故障街头海报，亚洲男性半身肖像，短黑发，窄框浅色墨镜，浅色宽肩西装，白色围巾式领带，靠在敞篷车或车门旁，手持香烟道具，冷淡直视镜头，城市街头背景，高反差黑白摄影",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_043",
+      "prompt": "黑白赛博故障街头海报，亚洲男性半身肖像，短黑发，窄框浅色墨镜，浅色宽肩西装，白色围巾式领带，靠在敞篷车或车门旁，手持香烟道具，冷淡直视镜头，城市街头背景，高反差黑白摄影，cyber glitch poster, monochrome street fashion portrait, analog video distortion, RGB chromatic aberration, cyan and magenta ghosting, digital noise, scanline typography, pixelated blocks, neon green bars, neon magenta accents, blue glitch streaks, futuristic streetwear editorial, VHS damage texture, hacked interface aesthetic, bold glowing Chinese typography at bottom, “luck +1” concept, gritty but premium poster design, cinematic urban mood。",
+      "negative_prompt": "全彩正常照片、干净商务写真、白底棚拍、复古棕褐、柔光美颜、动漫感、赛博机甲过重、科幻城市过度复杂、背景抢主体、脸部变形、墨镜变形、手指畸形、香烟变形、西装结构错误、皮肤塑料感、过度磨皮、故障效果遮住眼睛、文字乱码、中文乱码、廉价字体、故障块太多、画面过脏、低清晰度、过度锐化、黑位死黑。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白赛博故障街头海报，亚洲男性半身肖像，短黑发，窄框浅色墨镜，浅色宽肩西装，白色围巾式领带，靠在敞篷车或车门旁，手持香烟道具，冷淡直视镜头，城市街头背景，高反差黑白摄影.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白赛博故障街头海报，亚洲男性半身肖像，短黑发，窄框浅色墨镜，浅色宽肩西装，白色围巾式领带，靠在敞篷车或车门旁，手持香烟道具，冷淡直视镜头，城市街头背景，高反差黑白摄影"
+      }
+    },
+    {
+      "prompt_id": "P044",
+      "title": "年轻亚洲女性复古偶像海报肖像，短发或利落中短发，穿黑色西装外套，白色衬衫，黑色领带，正面超近景肖像，冷静直视镜头，高反差黑白人像，粗糙半调网点印刷质感，白色背景，深红色巨大几何字母背景，复古杂志拼贴排版",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_044",
+      "prompt": "年轻亚洲女性复古偶像海报肖像，短发或利落中短发，穿黑色西装外套，白色衬衫，黑色领带，正面超近景肖像，冷静直视镜头，高反差黑白人像，粗糙半调网点印刷质感，白色背景，深红色巨大几何字母背景，复古杂志拼贴排版，red black white poster design, halftone portrait, vintage idol magazine cover, punk zine typography, bold red serif and sans serif mixed typography, oversized text overlay, distressed ink texture, newspaper print grain, dramatic close-up crop, retro pop editorial poster, chaotic but stylish layout, layered quotes and titles, rough photocopy texture, graphic fashion poster, sharp eyes, old print aesthetic。",
+      "negative_prompt": "男性主体、真实全彩照片、柔光美颜、韩系清新写真、动漫感、塑料皮肤、过度磨皮、复杂背景、赛博霓虹、颜色过多、廉价海报感、半调网点太脏、脸部糊掉、五官变形、眼睛错位、领带变形、西装结构错误、文字乱码、字体过于现代、排版无秩序、红色过曝、黑位死黑、低清晰度、过度锐化、AI感强的假印刷纹理。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性复古偶像海报肖像，短发或利落中短发，穿黑色西装外套，白色衬衫，黑色领带，正面超近景肖像，冷静直视镜头，高反差黑白人像，粗糙半调网点印刷质感，白色背景，深红色巨大几何字母背景，复古杂志拼贴排版.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性复古偶像海报肖像，短发或利落中短发，穿黑色西装外套，白色衬衫，黑色领带，正面超近景肖像，冷静直视镜头，高反差黑白人像，粗糙半调网点印刷质感，白色背景，深红色巨大几何字母背景，复古杂志拼贴排版"
+      }
+    },
+    {
+      "prompt_id": "P045",
+      "title": "夜间都市入口，年轻男性，黑色蓬松头发，黑框眼镜，穿黑色亮面羽绒服，蹲在暗色走廊里，抬头直视镜头，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_045",
+      "prompt": "如果用 AI 复现，提示词可以这样写：夜间都市入口，年轻男性，黑色蓬松头发，黑框眼镜，穿黑色亮面羽绒服，蹲在暗色走廊里，抬头直视镜头，双手伸向镜头形成夸张手势，超广角 0.5x 视角，手指巨大前景透视变形，direct flash photography，dark urban background, warm strip lights, high contrast, fashion editorial street snapshot, gritty texture, sharp eyes, cinematic flash, 14mm wide angle。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/夜间都市入口，年轻男性，黑色蓬松头发，黑框眼镜，穿黑色亮面羽绒服，蹲在暗色走廊里，抬头直视镜头，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "夜间都市入口，年轻男性，黑色蓬松头发，黑框眼镜，穿黑色亮面羽绒服，蹲在暗色走廊里，抬头直视镜头，"
+      }
+    },
+    {
+      "prompt_id": "P046",
+      "title": "复古双色印刷时尚杂志封面，年轻亚洲男性近景侧脸肖像，黑色凌乱微卷短发，黑色外套，白色内搭，银色链条项链，头部微微后仰，冷静看向右侧，强烈侧脸轮廓，米白旧纸背景，芥末黄色几何色块，深蓝黑高反差人像",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_046",
+      "prompt": "复古双色印刷时尚杂志封面，年轻亚洲男性近景侧脸肖像，黑色凌乱微卷短发，黑色外套，白色内搭，银色链条项链，头部微微后仰，冷静看向右侧，强烈侧脸轮廓，米白旧纸背景，芥末黄色几何色块，深蓝黑高反差人像，duotone fashion editorial cover, navy and mustard yellow print, vintage magazine poster, luxury serif masthead, thin rectangular frame lines, halftone grain, rough paper texture, distressed ink, geometric light slice across the face, minimalist editorial layout, avant garde portrait, high fashion cover design, analog print texture, sharp jawline, moody refined atmosphere。",
+      "negative_prompt": "真实全彩照片、普通棚拍写真、柔光美颜、塑料皮肤、韩系清新感、动漫感、赛博霓虹、朋克涂鸦、复杂背景、过度脏污、廉价复古滤镜、脸部变形、眼睛错位、鼻梁变形、头发糊成块、项链乱码、衣领结构错误、文字乱码、廉价字体、排版拥挤、黄色过曝、蓝色死黑、低清晰度、过度锐化、颗粒糊成脏块。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古双色印刷时尚杂志封面，年轻亚洲男性近景侧脸肖像，黑色凌乱微卷短发，黑色外套，白色内搭，银色链条项链，头部微微后仰，冷静看向右侧，强烈侧脸轮廓，米白旧纸背景，芥末黄色几何色块，深蓝黑高反差人像.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "复古双色印刷时尚杂志封面，年轻亚洲男性近景侧脸肖像，黑色凌乱微卷短发，黑色外套，白色内搭，银色链条项链，头部微微后仰，冷静看向右侧，强烈侧脸轮廓，米白旧纸背景，芥末黄色几何色块，深蓝黑高反差人像"
+      }
+    },
+    {
+      "prompt_id": "P047",
+      "title": "温暖纸面铅笔素描人物肖像，年轻亚洲女性半身坐姿肖像，短发或利落微卷短发，透明细框眼镜，开朗自然笑容，头微微仰起，表情真诚放松，浅蓝灰色西装外套，白色衬衫，领口有小领结或丝巾细节，双手自然放在身前，米黄色素描纸背景，左上角手写中文书法字，铅笔",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_047",
+      "prompt": "温暖纸面铅笔素描人物肖像，年轻亚洲女性半身坐姿肖像，短发或利落微卷短发，透明细框眼镜，开朗自然笑容，头微微仰起，表情真诚放松，浅蓝灰色西装外套，白色衬衫，领口有小领结或丝巾细节，双手自然放在身前，米黄色素描纸背景，左上角手写中文书法字，铅笔线稿，细腻交叉排线，淡彩铅上色，手绘人物插画，warm pencil sketch portrait, young Asian woman portrait, smiling expression, hand drawn illustration, beige paper texture, graphite pencil lines, colored pencil shading, elegant blazer, soft blue gray tones, natural gesture, documentary portrait illustration, literary magazine portrait, personal biography cover, warm nostalgic mood, refined facial details, realistic hand drawn style, subtle paper grain, artistic commemorative portrait",
+      "negative_prompt": "男性主体，真实摄影，3D 渲染，动漫感过强，卡通大眼，油画厚涂，水彩晕染过重，赛博朋克，暗黑电影感，拼贴海报，复杂背景，过度精修，塑料皮肤，五官变形，眼镜变形，牙齿变形，笑容僵硬，头发糊成块，西装结构错误，领口细节混乱，手指畸形，多余手指，排线杂乱，纸张过脏，颜色过饱和，廉价滤镜，低清晰度，边缘脏污，水印，文字乱码，中文乱码，手写字太乱，背景出现多余图案",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/温暖纸面铅笔素描人物肖像，年轻亚洲女性半身坐姿肖像，短发或利落微卷短发，透明细框眼镜，开朗自然笑容，头微微仰起，表情真诚放松，浅蓝灰色西装外套，白色衬衫，领口有小领结或丝巾细节，双手自然放在身前，米黄色素描纸背景，左上角手写中文书法字，铅笔线稿，细腻交叉排线，淡彩铅上色，手绘人物插画.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身坐姿铅笔素描肖像，短发或利落微卷短发，透明细框眼镜，开朗自然笑容，头微微仰起，浅蓝灰色西装外套，白色衬衫，领口有小领结或丝巾细节，双手自然放在身前，米黄色素描纸背景，细腻铅笔线稿，交叉排线，淡彩铅上色，温暖文艺人物插画，realistic pencil sketch portrait, beige paper texture, hand drawn illustration, soft colored pencil shading, warm nostalgic mood, no text, no watermark",
+        "original_title": "温暖纸面铅笔素描人物肖像，年轻亚洲女性半身坐姿肖像，短发或利落微卷短发，透明细框眼镜，开朗自然笑容，头微微仰起，表情真诚放松，浅蓝灰色西装外套，白色衬衫，领口有小领结或丝巾细节，双手自然放在身前，米黄色素描纸背景，左上角手写中文书法字，铅笔线稿，细腻交叉排线，淡彩铅上色，手绘人物插画"
+      }
+    },
+    {
+      "prompt_id": "P048",
+      "title": "高饱和户外冒险杂志海报，年轻亚洲女性全身近景肖像，短发或高马尾，轻松自信表情，看向远处，穿亮蓝色户外冲锋衣，黑色登山裤，登山靴，黑色登山背包，坐在山地岩石上，一只手大幅伸向镜头，手掌占据前景并形成夸张透视，另一只脚靠近镜头，登山靴前景虚化，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_048",
+      "prompt": "高饱和户外冒险杂志海报，年轻亚洲女性全身近景肖像，短发或高马尾，轻松自信表情，看向远处，穿亮蓝色户外冲锋衣，黑色登山裤，登山靴，黑色登山背包，坐在山地岩石上，一只手大幅伸向镜头，手掌占据前景并形成夸张透视，另一只脚靠近镜头，登山靴前景虚化，背景是壮阔高山、岩石山峰、夕阳云层和深蓝天空，橙色阳光照亮山体，强烈蓝橙对比，adventure outdoor magazine poster, young Asian woman hiking portrait, blue shell jacket, black hiking pants, hiking boots, backpack, hand reaching toward camera, dramatic wide angle perspective, mountain landscape, golden sunset, cinematic clouds, rugged rocks, energetic outdoor campaign, bold oversized distressed typography, orange and white headline, halftone texture, grunge border, altitude adventure theme, dynamic composition, high contrast color grading, premium sports lifestyle poster, realistic photography",
+      "negative_prompt": "男性主体，室内棚拍，普通旅行照，平淡风景照，低饱和灰色电影感，黑白复古海报，暗黑犯罪风，豪车场景，街头涂鸦，赛博朋克霓虹，甜美写真，性感姿势，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼神涣散，手指畸形，多余手指，伸手透视错误，手掌变形，鞋子变形，脚部比例错误，冲锋衣结构错误，背包结构混乱，山体变形，天空过曝，橙色过饱和，蓝色刺眼，背景杂乱，文字乱码，标题拼错，廉价字体，排版拥挤，半调网点过重，颗粒过多，低清晰度，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/高饱和户外冒险杂志海报，年轻亚洲女性全身近景肖像，短发或高马尾，轻松自信表情，看向远处，穿亮蓝色户外冲锋衣，黑色登山裤，登山靴，黑色登山背包，坐在山地岩石上，一只手大幅伸向镜头，手掌占据前景并形成夸张透视，另一只脚靠近镜头，登山靴前景虚化，背景是壮阔高山、岩石山峰、夕阳云层和深蓝天空，橙色阳光照亮山体，强烈蓝橙对比.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性户外全身近景肖像，短发或高马尾，穿亮蓝色冲锋衣，黑色登山裤，登山靴，黑色背包，坐在山地岩石上，一只手大幅伸向镜头，手掌占据前景形成夸张透视，另一只脚靠近镜头，登山靴前景虚化，表情轻松自信，看向远处，背景是壮阔高山、岩石山峰、夕阳云层和深蓝天空，橙色阳光，蓝橙对比，wide angle adventure portrait, outdoor hiking campaign, dramatic mountain landscape, energetic sports lifestyle photography, realistic photography, no text",
+        "original_title": "高饱和户外冒险杂志海报，年轻亚洲女性全身近景肖像，短发或高马尾，轻松自信表情，看向远处，穿亮蓝色户外冲锋衣，黑色登山裤，登山靴，黑色登山背包，坐在山地岩石上，一只手大幅伸向镜头，手掌占据前景并形成夸张透视，另一只脚靠近镜头，登山靴前景虚化，背景是壮阔高山、岩石山峰、夕阳云层和深蓝天空，橙色阳光照亮山体，强烈蓝橙对比"
+      }
+    },
+    {
+      "prompt_id": "P049",
+      "title": "黑白复古电影海报，年轻亚洲女性半身坐姿肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静克制表情，直视镜头，浅灰色宽肩西装，白色衬衫，浅色丝巾，手里拿着雪茄或香烟，身体微微前倾，坐在汽车车门旁或车内边缘，背景有车窗和车门结构，经典电影海报构图",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_049",
+      "prompt": "黑白复古电影海报，年轻亚洲女性半身坐姿肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静克制表情，直视镜头，浅灰色宽肩西装，白色衬衫，浅色丝巾，手里拿着雪茄或香烟，身体微微前倾，坐在汽车车门旁或车内边缘，背景有车窗和车门结构，经典电影海报构图，左侧黑色竖向信息栏，右侧大幅黑白人物照片，复古胶片质感，低对比黑白灰色调，old cinema poster, young Asian woman portrait, vintage crime film poster, black and white photography, woman in tailored suit, narrow tinted sunglasses, silk scarf, cigar in hand, sitting by a car door, cinematic still, vertical poster layout, dark sidebar typography, festival selection marks, bold block title, small production credits, grainy film texture, elegant noir atmosphere, calm powerful gaze, refined skin texture, realistic photography, premium arthouse movie poster design",
+      "negative_prompt": "男性主体，彩色高饱和，现代干净棚拍，白底杂志封面，甜美写真，性感姿势，韩系柔光美颜过重，红黑拼贴，街头涂鸦，赛博朋克霓虹，复杂背景，豪车广告过度商业化，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，墨镜镜片错误，手指畸形，多余手指，夹雪茄姿势错误，雪茄变形，丝巾乱掉，西装结构变形，车门结构错误，车窗透视混乱，背景太清楚，胶片颗粒过重，划痕过多，暗部死黑，脸部过曝，高光死白，低清晰度，文字乱码，电影标题拼错，廉价字体，排版拥挤",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白复古电影海报，年轻亚洲女性半身坐姿肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静克制表情，直视镜头，浅灰色宽肩西装，白色衬衫，浅色丝巾，手里拿着雪茄或香烟，身体微微前倾，坐在汽车车门旁或车内边缘，背景有车窗和车门结构，经典电影海报构图，左侧黑色竖向信息栏，右侧大幅黑白人物照片，复古胶片质感，低对比黑白灰色调.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身坐姿肖像，短发或利落湿感背头，佩戴窄框茶色墨镜，冷静克制表情，直视镜头，浅灰色宽肩西装，白色衬衫，浅色丝巾，手里拿着雪茄或香烟，身体微微前倾，坐在汽车车门旁或车内边缘，背景有车窗和车门结构，黑白灰低对比胶片摄影，复古犯罪电影剧照氛围，vintage noir portrait, woman in tailored suit, cigar in hand, car door background, grainy black and white film still, calm powerful gaze, realistic photography, no text",
+        "original_title": "黑白复古电影海报，年轻亚洲女性半身坐姿肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静克制表情，直视镜头，浅灰色宽肩西装，白色衬衫，浅色丝巾，手里拿着雪茄或香烟，身体微微前倾，坐在汽车车门旁或车内边缘，背景有车窗和车门结构，经典电影海报构图，左侧黑色竖向信息栏，右侧大幅黑白人物照片，复古胶片质感，低对比黑白灰色调"
+      }
+    },
+    {
+      "prompt_id": "P050",
+      "title": "黑白时装插画海报，年轻亚洲男性坐姿，全身时尚肖像，黑色微卷凌乱短发，冷静直视镜头，黑色宽松西装外套，白色 T 恤，黑色宽松长裤，白色运动鞋，银色细链条项链，坐在现代金属扶手椅上，手里拿着一本书或杂志，米白色纸张背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_050",
+      "prompt": "黑白时装插画海报，年轻亚洲男性坐姿，全身时尚肖像，黑色微卷凌乱短发，冷静直视镜头，黑色宽松西装外套，白色 T 恤，黑色宽松长裤，白色运动鞋，银色细链条项链，坐在现代金属扶手椅上，手里拿着一本书或杂志，米白色纸张背景，fashion editorial illustration, monochrome ink sketch, charcoal drawing, pencil rough lines, black ink wash, expressive brush strokes, loose fashion croquis, elegant menswear sketch, high contrast black blazer, visible construction lines, textured paper, handwritten quote on the right, artist signature, minimal composition, quiet confidence mood, luxury fashion illustration, raw yet refined linework。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白时装插画海报，年轻亚洲男性坐姿，全身时尚肖像，黑色微卷凌乱短发，冷静直视镜头，黑色宽松西装外套，白色 T 恤，黑色宽松长裤，白色运动鞋，银色细链条项链，坐在现代金属扶手椅上，手里拿着一本书或杂志，米白色纸张背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白时装插画海报，年轻亚洲男性坐姿，全身时尚肖像，黑色微卷凌乱短发，冷静直视镜头，黑色宽松西装外套，白色 T 恤，黑色宽松长裤，白色运动鞋，银色细链条项链，坐在现代金属扶手椅上，手里拿着一本书或杂志，米白色纸张背景"
+      }
+    },
+    {
+      "prompt_id": "P051",
+      "title": "年轻亚洲女性夏日复古海报肖像，近景半身，戴亮黄色棒球帽，佩戴黄色透明圆框太阳镜，穿黄色夏季夹克或针织上衣，侧身回头看向镜头，冷静但轻松的表情，蓝天背景，粉紫色柔软云朵，明亮夏日阳光",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_051",
+      "prompt": "年轻亚洲女性夏日复古海报肖像，近景半身，戴亮黄色棒球帽，佩戴黄色透明圆框太阳镜，穿黄色夏季夹克或针织上衣，侧身回头看向镜头，冷静但轻松的表情，蓝天背景，粉紫色柔软云朵，明亮夏日阳光，retro summer magazine cover, Y2K poster design, playful pastel sky, vibrant blue and yellow color palette, huge “2026” typography covering the frame, oversized rounded blue numbers with white outline and drop shadow, layered text over portrait, bold italic “SUMMER” title, handwritten yellow script caption, grainy print texture, nostalgic 90s vacation poster, clean fashion editorial, cheerful but cool summer vibe, high saturation, soft film grain, crisp face details。",
+      "negative_prompt": "男性主体、暗黑电影感、黑白高反差、商务西装、咖啡馆生活照、朋克涂鸦、赛博霓虹、动漫感、塑料皮肤、过度磨皮、背景杂乱、阴天灰暗、颜色脏污、帽子变形、眼镜变形、五官变形、手指畸形、衣服结构错误、数字乱码、文字乱码、字体廉价、排版拥挤、云朵太假、低清晰度、过度锐化、颗粒太脏。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性夏日复古海报肖像，近景半身，戴亮黄色棒球帽，佩戴黄色透明圆框太阳镜，穿黄色夏季夹克或针织上衣，侧身回头看向镜头，冷静但轻松的表情，蓝天背景，粉紫色柔软云朵，明亮夏日阳光.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性夏日复古海报肖像，近景半身，戴亮黄色棒球帽，佩戴黄色透明圆框太阳镜，穿黄色夏季夹克或针织上衣，侧身回头看向镜头，冷静但轻松的表情，蓝天背景，粉紫色柔软云朵，明亮夏日阳光"
+      }
+    },
+    {
+      "prompt_id": "P052",
+      "title": "冷调暗黑奢华眼镜广告，年轻亚洲女性近景肖像，黑色利落短发，湿感背头，冷静克制表情，微微低头侧脸，佩戴红色窄框透明墨镜，黑色高领上衣，怀里抱着一只灰棕色兔子，兔子靠近人物脸部，手轻轻托住兔子，深蓝色粗糙墙面背景，冷色低调灯光，黑蓝红配色，高级",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_052",
+      "prompt": "冷调暗黑奢华眼镜广告，年轻亚洲女性近景肖像，黑色利落短发，湿感背头，冷静克制表情，微微低头侧脸，佩戴红色窄框透明墨镜，黑色高领上衣，怀里抱着一只灰棕色兔子，兔子靠近人物脸部，手轻轻托住兔子，深蓝色粗糙墙面背景，冷色低调灯光，黑蓝红配色，高级怪诞氛围，luxury eyewear campaign, young Asian woman portrait, red narrow sunglasses, black turtleneck, holding a small rabbit, rabbit close to her face, cool dark blue textured background, moody editorial lighting, avant-garde fashion photography, mysterious elegant mood, refined skin texture, glossy highlights, cinematic close-up, dark luxury aesthetic, high fashion magazine editorial, sharp facial contour, soft animal contrast, surreal but realistic portrait, premium eyewear advertisement, realistic photography",
+      "negative_prompt": "男性主体，明亮白底棚拍，普通甜美宠物写真，可爱卡通风，动漫感，AI插画感，柔光美颜过重，塑料皮肤，过度磨皮，五官变形，眼镜变形，红色镜片变形，兔子结构错误，兔子像玩偶，动物毛发糊掉，手指畸形，多余手指，抱兔姿势错误，黑色高领糊成一团，背景杂乱，廉价影楼感，赛博朋克霓虹过重，颜色过饱和，脸部过曝，高光死白，暗部死黑，低清晰度，噪点过重，恐怖血腥感，文字乱码，廉价滤镜",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/冷调暗黑奢华眼镜广告，年轻亚洲女性近景肖像，黑色利落短发，湿感背头，冷静克制表情，微微低头侧脸，佩戴红色窄框透明墨镜，黑色高领上衣，怀里抱着一只灰棕色兔子，兔子靠近人物脸部，手轻轻托住兔子，深蓝色粗糙墙面背景，冷色低调灯光，黑蓝红配色，高级怪诞氛围.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性近景肖像，黑色利落短发，湿感背头，冷静克制表情，佩戴红色窄框透明墨镜，黑色高领上衣，怀里抱着一只灰棕色兔子，兔子靠近人物脸部，手轻轻托住兔子，深蓝色粗糙墙面背景，冷调暗光，黑蓝红配色，高级眼镜广告氛围，luxury eyewear editorial, dark blue textured background, moody cinematic lighting, avant-garde fashion portrait, mysterious elegant mood, realistic photography, no text",
+        "original_title": "冷调暗黑奢华眼镜广告，年轻亚洲女性近景肖像，黑色利落短发，湿感背头，冷静克制表情，微微低头侧脸，佩戴红色窄框透明墨镜，黑色高领上衣，怀里抱着一只灰棕色兔子，兔子靠近人物脸部，手轻轻托住兔子，深蓝色粗糙墙面背景，冷色低调灯光，黑蓝红配色，高级怪诞氛围"
+      }
+    },
+    {
+      "prompt_id": "P053",
+      "title": "近距离黑白时尚人像，年轻男性，凌乱蓬松黑发，粗黑方框眼镜，穿黑色破洞针织高领毛衣",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_053",
+      "prompt": "如果用 AI 复现，提示词的主干应该是这样的：近距离黑白时尚人像，年轻男性，凌乱蓬松黑发，粗黑方框眼镜，穿黑色破洞针织高领毛衣，双手拉起领口遮住嘴部，直视镜头，极简浅色墙面背景，硬光从左前上方照射，右侧墙面有强烈投影，高反差，胶片颗粒，时尚杂志大片，85mm portrait, sharp eyes, dramatic monochrome lighting。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/近距离黑白时尚人像，年轻男性，凌乱蓬松黑发，粗黑方框眼镜，穿黑色破洞针织高领毛衣.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "近距离黑白时尚人像，年轻男性，凌乱蓬松黑发，粗黑方框眼镜，穿黑色破洞针织高领毛衣"
+      }
+    },
+    {
+      "prompt_id": "P054",
+      "title": "年轻亚洲女性半身生活方式肖像，坐在咖啡馆靠窗座位，自然放松地微笑，看向画面右侧，短发或利落中短发，佩戴浅黄色透明镜片眼镜，深色宽松 T 恤，金色圆牌项链，手里拿着一杯分层咖啡，桌上有一块精致蛋糕，室内咖啡馆环境，左侧大窗户引入柔和自然光，背",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_054",
+      "prompt": "年轻亚洲女性半身生活方式肖像，坐在咖啡馆靠窗座位，自然放松地微笑，看向画面右侧，短发或利落中短发，佩戴浅黄色透明镜片眼镜，深色宽松 T 恤，金色圆牌项链，手里拿着一杯分层咖啡，桌上有一块精致蛋糕，室内咖啡馆环境，左侧大窗户引入柔和自然光，背景有虚化树木与浅色建筑元素，warm lifestyle portrait, candid cafe photography, soft natural light, cozy modern cafe interior, shallow depth of field, clean composition, relaxed elegant mood, warm neutral tones, subtle bokeh, editorial lifestyle shoot, realistic skin texture, casual chic aesthetic。这一部分属于复现用途的推理，不是原图自带文字信息。",
+      "negative_prompt": "过度摆拍、夸张表情、浓重棚拍感、硬闪光、塑料皮肤、过度磨皮、动漫感、复杂杂乱背景、咖啡杯变形、手指畸形、眼镜变形、项链结构错误、桌面物体混乱、低清晰度、过曝高光、脏污色调、廉价网红滤镜、背景人物抢镜、透视错误、面部不自然、姿势僵硬。这一部分同样是为了压住 AI 常见跑偏，属于推理。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性半身生活方式肖像，坐在咖啡馆靠窗座位，自然放松地微笑，看向画面右侧，短发或利落中短发，佩戴浅黄色透明镜片眼镜，深色宽松 T 恤，金色圆牌项链，手里拿着一杯分层咖啡，桌上有一块精致蛋糕，室内咖啡馆环境，左侧大窗户引入柔和自然光，背景有虚化树木与浅色建筑元素.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性半身生活方式肖像，坐在咖啡馆靠窗座位，自然放松地微笑，看向画面右侧，短发或利落中短发，佩戴浅黄色透明镜片眼镜，深色宽松 T 恤，金色圆牌项链，手里拿着一杯分层咖啡，桌上有一块精致蛋糕，室内咖啡馆环境，左侧大窗户引入柔和自然光，背景有虚化树木与浅色建筑元素"
+      }
+    },
+    {
+      "prompt_id": "P055",
+      "title": "复古汽车广告拼贴杂志海报，年轻亚洲女性半身偏三分之二肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静疏离表情，侧脸看向远处，浅灰色宽肩西装套装，白色衬衫，丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在豪华汽车旁，汽车正面局部和车身局部作",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_055",
+      "prompt": "复古汽车广告拼贴杂志海报，年轻亚洲女性半身偏三分之二肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静疏离表情，侧脸看向远处，浅灰色宽肩西装套装，白色衬衫，丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在豪华汽车旁，汽车正面局部和车身局部作为背景元素，米色旧纸背景，黑色竖向信息栏，橙色大几何色块，深蓝色汽车色块，复古杂志排版，modern vintage automotive poster, young Asian woman fashion portrait, luxury car editorial, sepia monochrome portrait, geometric collage background, orange and blue color blocks, black vertical sidebar, old paper texture, elegant narrow serif typography, fashion magazine layout, sophisticated power mood, luxury womenswear editorial, cinematic vintage advertisement, calm confident expression, tinted sunglasses, tailored suit, cigar in hand, premium graphic design, realistic photography mixed with poster collage",
+      "negative_prompt": "男性主体，普通商业棚拍，纯白背景，现代干净杂志封面，暗黑犯罪电影合成，红黑拼贴海报，街头涂鸦，赛博朋克霓虹，甜美少女写真，性感姿势，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，墨镜变形，手指畸形，多余手指，夹烟姿势错误，西装结构变形，丝巾乱掉，车体变形，车标变形，车轮结构错误，几何色块混乱，背景过脏，纸张纹理过重，颜色过饱和，橙色刺眼，蓝色廉价，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度，过曝，高光死白，暗部死黑",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古汽车广告拼贴杂志海报，年轻亚洲女性半身偏三分之二肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静疏离表情，侧脸看向远处，浅灰色宽肩西装套装，白色衬衫，丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在豪华汽车旁，汽车正面局部和车身局部作为背景元素，米色旧纸背景，黑色竖向信息栏，橙色大几何色块，深蓝色汽车色块，复古杂志排版.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身偏三分之三时尚肖像，短发或利落湿感背头，窄框茶色墨镜，冷静疏离表情，侧脸看向远处，浅灰色宽肩西装套装，白色衬衫，丝巾，一只手插兜，另一只手夹着雪茄或香烟，站在豪华汽车旁，汽车正面局部和车身局部作为背景，米色旧纸质感，黑色竖向版面块，橙色几何色块，深蓝色汽车色块，现代复古汽车广告风格，vintage automotive fashion editorial, sepia portrait, geometric poster collage, luxury car campaign, premium magazine design, realistic photography, no text",
+        "original_title": "复古汽车广告拼贴杂志海报，年轻亚洲女性半身偏三分之二肖像，短发，利落湿感背头，佩戴窄框茶色墨镜，冷静疏离表情，侧脸看向远处，浅灰色宽肩西装套装，白色衬衫，丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在豪华汽车旁，汽车正面局部和车身局部作为背景元素，米色旧纸背景，黑色竖向信息栏，橙色大几何色块，深蓝色汽车色块，复古杂志排版"
+      }
+    },
+    {
+      "prompt_id": "P056",
+      "title": "复古棕褐色单色时尚封面，年轻男性近距离肖像，黑色微卷凌乱短发，脸部微微仰起，低机位近景，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，米色旧纸背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_056",
+      "prompt": "复古棕褐色单色时尚封面，年轻男性近距离肖像，黑色微卷凌乱短发，脸部微微仰起，低机位近景，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，米色旧纸背景，sepia tone portrait, vintage fashion magazine cover, retro editorial poster, monochrome brown ink print, old paper texture, halftone grain, xerox print texture, soft contrast lighting, close-up crop, elegant serif typography, large retro serif title at bottom left, small italic tagline, date text at bottom right, nostalgic literary magazine aesthetic, faded paper, analog print grain, quiet luxury mood, refined minimal layout。",
+      "negative_prompt": "彩色真实照片、现代高清商业写真、冷白棚拍、黑白高反差、橙黑拼贴、朋克涂鸦、赛博霓虹、动漫感、AI塑料皮肤、过度磨皮、油腻美颜、复杂背景、杂乱道具、夸张表情、五官变形、脖子比例错误、头发糊成块、衣领变形、项链乱码、文字乱码、廉价字体、排版拥挤、纸张纹理过脏、划痕太重、低清晰度、过度锐化。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/复古棕褐色单色时尚封面，年轻男性近距离肖像，黑色微卷凌乱短发，脸部微微仰起，低机位近景，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，米色旧纸背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "复古棕褐色单色时尚封面，年轻男性近距离肖像，黑色微卷凌乱短发，脸部微微仰起，低机位近景，冷静直视镜头，黑色大衣外套，白色高领内搭，细银色链条项链，米色旧纸背景"
+      }
+    },
+    {
+      "prompt_id": "P057",
+      "title": "黑白橙潮流杂志封面，双人成年男性时尚肖像，两位亚洲男性，黑色墨镜，黑色西装外套，冷静慵懒表情，前景人物坐在旧金属浴缸或圆形容器里，身体后仰，双脚靠近镜头，鞋底前景虚化，后方人物趴在容器边缘，双手自然垂下，黑色背景，黑白灰主色调，局部橙色内搭",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_057",
+      "prompt": "黑白橙潮流杂志封面，双人成年男性时尚肖像，两位亚洲男性，黑色墨镜，黑色西装外套，冷静慵懒表情，前景人物坐在旧金属浴缸或圆形容器里，身体后仰，双脚靠近镜头，鞋底前景虚化，后方人物趴在容器边缘，双手自然垂下，黑色背景，黑白灰主色调，局部橙色内搭，少量橙色图形点缀，巨大白色粗体无衬线标题，超大排版压在画面顶部和底部，small editorial text blocks, black and white fashion magazine cover, orange accent color, streetwear editorial poster, music duo album cover, passive mode concept, oversized bold typography, high contrast black background, gritty paper texture, subtle grain, relaxed confident pose, sunglasses, urban cool mood, contemporary graphic design, premium street fashion aesthetic, dramatic perspective, foreground shoes blur, realistic photography, modern magazine layout",
+      "negative_prompt": "干净白底棚拍，普通商务合照，柔和韩系写真，复古棕褐海报，红黑高饱和拼贴，赛博朋克霓虹，过度彩色，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，墨镜变形，手指畸形，多余手指，脚部比例错误，鞋底变形，身体姿势不自然，浴缸结构错误，人物融合错误，前后人物遮挡混乱，黑色背景死黑无层次，橙色过曝，文字乱码，标题拼错，廉价字体，排版拥挤，小字太乱，颗粒过重，低清晰度，噪点过多，恐怖血腥感，杂乱室内背景",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白橙潮流杂志封面，双人成年男性时尚肖像，两位亚洲男性，黑色墨镜，黑色西装外套，冷静慵懒表情，前景人物坐在旧金属浴缸或圆形容器里，身体后仰，双脚靠近镜头，鞋底前景虚化，后方人物趴在容器边缘，双手自然垂下，黑色背景，黑白灰主色调，局部橙色内搭，少量橙色图形点缀，巨大白色粗体无衬线标题，超大排版压在画面顶部和底部.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "two adult Asian men fashion portrait, both wearing black sunglasses and black blazers, relaxed confident expressions, sitting inside an old metal bathtub or round industrial container, front man leaning back with feet close to camera, blurred shoe soles in foreground, second man leaning over the back edge with hands hanging down, black background, mostly black and white image with selective orange shirt accent, subtle gritty paper texture, streetwear editorial photography, music duo album cover mood, high contrast urban cool aesthetic, dramatic perspective, realistic photography, no text",
+        "original_title": "黑白橙潮流杂志封面，双人成年男性时尚肖像，两位亚洲男性，黑色墨镜，黑色西装外套，冷静慵懒表情，前景人物坐在旧金属浴缸或圆形容器里，身体后仰，双脚靠近镜头，鞋底前景虚化，后方人物趴在容器边缘，双手自然垂下，黑色背景，黑白灰主色调，局部橙色内搭，少量橙色图形点缀，巨大白色粗体无衬线标题，超大排版压在画面顶部和底部"
+      }
+    },
+    {
+      "prompt_id": "P058",
+      "title": "蓝黑视觉实验时尚封面，年轻亚洲男性超近距离脸部特写，重点突出眼睛，黑色凌乱短发，手部靠近脸部形成前景遮挡，强烈明暗对比，深蓝色摄影棚背景，黑色阴影区域，双层人像拼贴，上下两段脸部重复裁切，斜向撕裂纸张边缘",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_058",
+      "prompt": "蓝黑视觉实验时尚封面，年轻亚洲男性超近距离脸部特写，重点突出眼睛，黑色凌乱短发，手部靠近脸部形成前景遮挡，强烈明暗对比，深蓝色摄影棚背景，黑色阴影区域，双层人像拼贴，上下两段脸部重复裁切，斜向撕裂纸张边缘，torn paper collage fashion poster, visual essence magazine cover, deep cobalt blue background, dramatic close-up portrait, sharp eyes, layered expression, fragmented face composition, high contrast shadow, editorial photography, luxury serif typography, oversized white serif letters, minimal micro typography, paper texture, ripped poster edges, conceptual portrait series, moody blue hour aesthetic, clean but experimental layout。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/蓝黑视觉实验时尚封面，年轻亚洲男性超近距离脸部特写，重点突出眼睛，黑色凌乱短发，手部靠近脸部形成前景遮挡，强烈明暗对比，深蓝色摄影棚背景，黑色阴影区域，双层人像拼贴，上下两段脸部重复裁切，斜向撕裂纸张边缘.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "蓝黑视觉实验时尚封面，年轻亚洲男性超近距离脸部特写，重点突出眼睛，黑色凌乱短发，手部靠近脸部形成前景遮挡，强烈明暗对比，深蓝色摄影棚背景，黑色阴影区域，双层人像拼贴，上下两段脸部重复裁切，斜向撕裂纸张边缘"
+      }
+    },
+    {
+      "prompt_id": "P059",
+      "title": "年轻亚洲女性黑白棚拍时尚肖像，短发或利落湿发造型，穿白色宽松衬衫，领口自然敞开但保持高级克制，黑色长领带松散垂在两侧，黑色高腰西裤，黑色皮带，双手插兜，身体微微后仰，下巴轻抬，冷静自信地直视镜头，浅灰色极简摄影棚背景，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_059",
+      "prompt": "年轻亚洲女性黑白棚拍时尚肖像，短发或利落湿发造型，穿白色宽松衬衫，领口自然敞开但保持高级克制，黑色长领带松散垂在两侧，黑色高腰西裤，黑色皮带，双手插兜，身体微微后仰，下巴轻抬，冷静自信地直视镜头，浅灰色极简摄影棚背景，black and white fashion editorial portrait, minimal studio portrait, relaxed tailoring, undone white shirt, loose black tie, high waisted black trousers, confident female model, soft studio lighting, clean grey backdrop, androgynous fashion mood, elegant monochrome, refined skin texture, modern menswear inspired styling, quiet luxury, magazine editorial photography, subtle film grain, high fashion simplicity。",
+      "negative_prompt": "男性主体、彩色照片、复杂背景、廉价商务照、证件照、过度性感、暴露过度、动漫感、塑料皮肤、过度磨皮、浓妆网红感、姿势僵硬、衬衫结构错误、领带变形、皮带变形、手指畸形、手插兜不自然、身体比例错误、脸部变形、头发糊成块、背景脏污、低清晰度、过度锐化、黑白灰阶丢失、阴影死黑、白衬衫过曝。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性黑白棚拍时尚肖像，短发或利落湿发造型，穿白色宽松衬衫，领口自然敞开但保持高级克制，黑色长领带松散垂在两侧，黑色高腰西裤，黑色皮带，双手插兜，身体微微后仰，下巴轻抬，冷静自信地直视镜头，浅灰色极简摄影棚背景，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性黑白棚拍时尚肖像，短发或利落湿发造型，穿白色宽松衬衫，领口自然敞开但保持高级克制，黑色长领带松散垂在两侧，黑色高腰西裤，黑色皮带，双手插兜，身体微微后仰，下巴轻抬，冷静自信地直视镜头，浅灰色极简摄影棚背景，"
+      }
+    },
+    {
+      "prompt_id": "P060",
+      "title": "极简黑白时尚杂志封面，年轻亚洲女性近景半身肖像，短发，利落湿感背头，佩戴细金属框眼镜，冷静克制表情，微微仰头，直视镜头，黑色高领毛衣，黑色西装外套，低机位拍摄，肩部宽大，黑色服装形成强烈暗部，米白色干净背景，黑白灰高级色调，红色透明方框叠加",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_060",
+      "prompt": "极简黑白时尚杂志封面，年轻亚洲女性近景半身肖像，短发，利落湿感背头，佩戴细金属框眼镜，冷静克制表情，微微仰头，直视镜头，黑色高领毛衣，黑色西装外套，低机位拍摄，肩部宽大，黑色服装形成强烈暗部，米白色干净背景，黑白灰高级色调，红色透明方框叠加在一只眼睛上，眼部焦点视觉，modern fashion magazine cover, young Asian woman portrait, black and white editorial portrait, thin metal glasses, black turtleneck, black blazer, low angle close-up, calm confident gaze, minimal off-white background, oversized black serif masthead at the top, elegant magazine layout, red translucent square over one eye, focus graphic, clean typography, luxury editorial design, high contrast monochrome, refined skin texture, sharp facial contour, contemporary fashion publication aesthetic, premium eyewear editorial, realistic photography",
+      "negative_prompt": "男性主体，彩色高饱和，复杂背景，复古脏污海报，红黑拼贴，街头涂鸦，赛博朋克霓虹，甜美写真，性感姿势，普通证件照，廉价影楼感，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，镜片不对称，眼神涣散，头发糊成块，黑色高领糊成一团，西装结构变形，肩膀比例错误，红色方框位置错误，红色遮住整张脸，背景过曝，高光死白，暗部死黑无细节，文字乱码，中文乱码，标题拼错，廉价字体，排版拥挤，低清晰度，噪点过重",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/极简黑白时尚杂志封面，年轻亚洲女性近景半身肖像，短发，利落湿感背头，佩戴细金属框眼镜，冷静克制表情，微微仰头，直视镜头，黑色高领毛衣，黑色西装外套，低机位拍摄，肩部宽大，黑色服装形成强烈暗部，米白色干净背景，黑白灰高级色调，红色透明方框叠加在一只眼睛上，眼部焦点视觉.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性近景半身肖像，短发或利落湿感背头，佩戴细金属框眼镜，冷静克制表情，微微仰头，直视镜头，黑色高领毛衣，黑色西装外套，低机位拍摄，宽肩构图，米白色干净背景，黑白灰高级色调，高对比黑白时尚摄影，minimal fashion editorial portrait, luxury eyewear campaign, refined skin texture, sharp facial contour, calm confident mood, clean studio background, realistic photography, no text",
+        "original_title": "极简黑白时尚杂志封面，年轻亚洲女性近景半身肖像，短发，利落湿感背头，佩戴细金属框眼镜，冷静克制表情，微微仰头，直视镜头，黑色高领毛衣，黑色西装外套，低机位拍摄，肩部宽大，黑色服装形成强烈暗部，米白色干净背景，黑白灰高级色调，红色透明方框叠加在一只眼睛上，眼部焦点视觉"
+      }
+    },
+    {
+      "prompt_id": "P061",
+      "title": "暖金色电影感男性肖像，年轻亚洲男性，黑色微卷短发，黑色西装外套，米白色立领衬衫或高领内搭，坐姿半身，身体位于画面右下，微微抬头直视镜头，冷静疏离表情，棕色粗糙纹理墙面背景，强烈暖色侧光，脸部被金色光线照亮，墙上有清晰人物阴影，左上角大面积柔",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_061",
+      "prompt": "暖金色电影感男性肖像，年轻亚洲男性，黑色微卷短发，黑色西装外套，米白色立领衬衫或高领内搭，坐姿半身，身体位于画面右下，微微抬头直视镜头，冷静疏离表情，棕色粗糙纹理墙面背景，强烈暖色侧光，脸部被金色光线照亮，墙上有清晰人物阴影，左上角大面积柔和光斑，左下角虚化烛火前景，cinematic portrait, warm amber lighting, dramatic low key photography, textured wall background, soft foreground bokeh, moody indoor editorial portrait, film still aesthetic, old cinema atmosphere, chiaroscuro lighting, shallow depth of field, elegant black suit, refined skin texture, quiet luxury mood, 85mm lens, warm color grading, subtle grain, intimate dramatic composition。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暖金色电影感男性肖像，年轻亚洲男性，黑色微卷短发，黑色西装外套，米白色立领衬衫或高领内搭，坐姿半身，身体位于画面右下，微微抬头直视镜头，冷静疏离表情，棕色粗糙纹理墙面背景，强烈暖色侧光，脸部被金色光线照亮，墙上有清晰人物阴影，左上角大面积柔和光斑，左下角虚化烛火前景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "暖金色电影感男性肖像，年轻亚洲男性，黑色微卷短发，黑色西装外套，米白色立领衬衫或高领内搭，坐姿半身，身体位于画面右下，微微抬头直视镜头，冷静疏离表情，棕色粗糙纹理墙面背景，强烈暖色侧光，脸部被金色光线照亮，墙上有清晰人物阴影，左上角大面积柔和光斑，左下角虚化烛火前景"
+      }
+    },
+    {
+      "prompt_id": "P062",
+      "title": "日系精致二次元插画风，商业级完成度，细腻厚涂，柔光感，通透感，梦幻发光氛围，高明度低对比粉彩配色，细节丰富，现代高质感动画插画风",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_062",
+      "prompt": "日系精致二次元插画风，商业级完成度，细腻厚涂，柔光感，通透感，梦幻发光氛围，高明度低对比粉彩配色，细节丰富，现代高质感动画插画风",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/日系精致二次元插画风，商业级完成度，细腻厚涂，柔光感，通透感，梦幻发光氛围，高明度低对比粉彩配色，细节丰富，现代高质感动画插画风.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "日系精致二次元插画风，商业级完成度，细腻厚涂，柔光感，通透感，梦幻发光氛围，高明度低对比粉彩配色，细节丰富，现代高质感动画插画风"
+      }
+    },
+    {
+      "prompt_id": "P063",
+      "title": "成年亚洲女性街头复古电影海报，穿灰色宽肩西装套装，白色衬衫，丝巾领带，佩戴浅色窄框墨镜，短发或利落背头发型，站在城市街边豪车旁，一手插兜，一手夹着香烟道具，侧身抬头看向远处，冷淡自信气质，城市街道背景，黑色轿车，复古棕褐色调",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_063",
+      "prompt": "成年亚洲女性街头复古电影海报，穿灰色宽肩西装套装，白色衬衫，丝巾领带，佩戴浅色窄框墨镜，短发或利落背头发型，站在城市街边豪车旁，一手插兜，一手夹着香烟道具，侧身抬头看向远处，冷淡自信气质，城市街道背景，黑色轿车，复古棕褐色调，vintage street editorial poster, cinematic fashion portrait, old newspaper texture, sepia black and brown duotone, luxury suit styling, urban film still, gritty analog print, halftone grain, distressed ink texture, orange translucent text block on the left, oversized vertical bold serif title on the right, small condensed typography, grunge magazine layout, 90s editorial poster aesthetic, calm powerful female lead, noir street mood。",
+      "negative_prompt": "男性主体、现代高清彩色写真、柔光美颜、韩系清新、动漫感、赛博霓虹、朋克荧光色、复杂街景抢主体、廉价黑帮 cosplay、过度吸烟感、血腥暴力、人物表情夸张、皮肤塑料感、过度磨皮、五官变形、墨镜变形、手指畸形、香烟变形、西装结构错误、车辆变形、文字乱码、中文乱码、廉价字体、排版拥挤、纸张纹理过脏、低清晰度、过度锐化、黑位死黑。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/成年亚洲女性街头复古电影海报，穿灰色宽肩西装套装，白色衬衫，丝巾领带，佩戴浅色窄框墨镜，短发或利落背头发型，站在城市街边豪车旁，一手插兜，一手夹着香烟道具，侧身抬头看向远处，冷淡自信气质，城市街道背景，黑色轿车，复古棕褐色调.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "成年亚洲女性街头复古电影海报，穿灰色宽肩西装套装，白色衬衫，丝巾领带，佩戴浅色窄框墨镜，短发或利落背头发型，站在城市街边豪车旁，一手插兜，一手夹着香烟道具，侧身抬头看向远处，冷淡自信气质，城市街道背景，黑色轿车，复古棕褐色调"
+      }
+    },
+    {
+      "prompt_id": "P064",
+      "title": "年轻亚洲女性冷蓝色时尚封面肖像，短发或利落湿发造型，佩戴细框透明眼镜，穿深色西装外套或黑色大衣，手持一束白色兰花或白色花枝，身体微侧，冷静看向镜头，脸部被蓝色侧光切割，一半明亮一半沉入阴影，深蓝黑渐变背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_064",
+      "prompt": "年轻亚洲女性冷蓝色时尚封面肖像，短发或利落湿发造型，佩戴细框透明眼镜，穿深色西装外套或黑色大衣，手持一束白色兰花或白色花枝，身体微侧，冷静看向镜头，脸部被蓝色侧光切割，一半明亮一半沉入阴影，深蓝黑渐变背景，cold blue editorial portrait, cinematic blue lighting, luxury fashion magazine cover, light and shadow concept, white orchid flowers, elegant glasses, mysterious quiet expression, high contrast low key lighting, refined skin texture, minimal composition, large pale blue serif typography, “COLD LIGHT” title, subtle Chinese text, date typography, cool monochrome color grading, premium visual poster, soft grain, shadow and flower contrast, calm futuristic mood。",
+      "negative_prompt": "男性主体、暖色人像、咖啡馆生活照、彩色杂乱背景、普通商业写真、柔光美颜、动漫感、塑料皮肤、过度磨皮、五官变形、眼镜变形、花朵变形、手指畸形、衣服结构错误、脸部完全黑掉、蓝色过曝、背景太脏、文字乱码、廉价字体、排版拥挤、低清晰度、过度锐化、噪点太重、赛博机甲感过强。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性冷蓝色时尚封面肖像，短发或利落湿发造型，佩戴细框透明眼镜，穿深色西装外套或黑色大衣，手持一束白色兰花或白色花枝，身体微侧，冷静看向镜头，脸部被蓝色侧光切割，一半明亮一半沉入阴影，深蓝黑渐变背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性冷蓝色时尚封面肖像，短发或利落湿发造型，佩戴细框透明眼镜，穿深色西装外套或黑色大衣，手持一束白色兰花或白色花枝，身体微侧，冷静看向镜头，脸部被蓝色侧光切割，一半明亮一半沉入阴影，深蓝黑渐变背景"
+      }
+    },
+    {
+      "prompt_id": "P065",
+      "title": "Q版二次元插画，日系漫画风，手绘线稿，草稿感线条，线条粗细变化，钢笔勾线，网点阴影，漫画网点质感，低饱和粉彩配色，柔和色调，复古漫画氛围",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_065",
+      "prompt": "Q版二次元插画，日系漫画风，手绘线稿，草稿感线条，线条粗细变化，钢笔勾线，网点阴影，漫画网点质感，低饱和粉彩配色，柔和色调，复古漫画氛围",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/Q版二次元插画，日系漫画风，手绘线稿，草稿感线条，线条粗细变化，钢笔勾线，网点阴影，漫画网点质感，低饱和粉彩配色，柔和色调，复古漫画氛围.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "Q版二次元插画，日系漫画风，手绘线稿，草稿感线条，线条粗细变化，钢笔勾线，网点阴影，漫画网点质感，低饱和粉彩配色，柔和色调，复古漫画氛围"
+      }
+    },
+    {
+      "prompt_id": "P066",
+      "title": "橙黑灰工业拼贴杂志海报，年轻亚洲男性近景肖像，黑色凌乱微卷短发，锐利冷静眼神，直视镜头，黑色外套，白色圆领内搭，银色链条项链，手臂或黑色衣袖斜向遮住下半张脸，只露出眼睛和部分鼻梁，黑白人物照片，白色粗糙纸张背景，橙色矩形色块，黑色油墨刮痕，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_066",
+      "prompt": "橙黑灰工业拼贴杂志海报，年轻亚洲男性近景肖像，黑色凌乱微卷短发，锐利冷静眼神，直视镜头，黑色外套，白色圆领内搭，银色链条项链，手臂或黑色衣袖斜向遮住下半张脸，只露出眼睛和部分鼻梁，黑白人物照片，白色粗糙纸张背景，橙色矩形色块，黑色油墨刮痕，竖向脏污纹理，半调网点，复印机颗粒，工业感平面设计，experimental magazine cover, black and white editorial portrait, orange black white graphic poster, grunge typography layout, brutalist poster design, halftone texture, distressed ink marks, rough print texture, layered collage, cropped face detail, inset close-up image, bold oversized sans serif headline, small editorial text blocks, handwritten signature accent, quiet intense mood, contemporary street fashion editorial, premium graphic design, sharp eyes, high contrast monochrome photo with orange accents",
+      "negative_prompt": "干净白底棚拍，普通商业写真，柔和韩系写真，低饱和电影节海报，复古棕褐老照片，红黑高饱和海报，赛博朋克霓虹，动漫感，AI插画感，皮肤塑料感，过度磨皮，五官变形，眼神涣散，头发糊成块，手臂结构错误，手指畸形，多余手指，衣服遮挡不自然，项链变形，背景杂乱无章，拼贴层次过乱，橙色色块过多，脏污纹理过重，文字乱码，标题拼错，廉价字体，排版拥挤，小字不可读，嘴唇局部图变形，低清晰度，过曝，高光死白，暗部死黑，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/橙黑灰工业拼贴杂志海报，年轻亚洲男性近景肖像，黑色凌乱微卷短发，锐利冷静眼神，直视镜头，黑色外套，白色圆领内搭，银色链条项链，手臂或黑色衣袖斜向遮住下半张脸，只露出眼睛和部分鼻梁，黑白人物照片，白色粗糙纸张背景，橙色矩形色块，黑色油墨刮痕，竖向脏污纹理，半调网点，复印机颗粒，工业感平面设计.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲男性近景肖像，黑色凌乱微卷短发，锐利冷静眼神，直视镜头，黑色外套，白色圆领内搭，银色链条项链，黑色衣袖斜向遮住下半张脸，只露出眼睛和部分鼻梁，黑白人像照片，白色粗糙纸张背景，橙色矩形色块，黑色油墨刮痕，灰色半调网点，竖向脏污印刷纹理，复印机颗粒，工业拼贴视觉，experimental editorial portrait, orange black white grunge poster design, brutalist magazine cover composition, sharp eyes, layered graphic collage, inset cropped mouth detail, realistic photography, no text",
+        "original_title": "橙黑灰工业拼贴杂志海报，年轻亚洲男性近景肖像，黑色凌乱微卷短发，锐利冷静眼神，直视镜头，黑色外套，白色圆领内搭，银色链条项链，手臂或黑色衣袖斜向遮住下半张脸，只露出眼睛和部分鼻梁，黑白人物照片，白色粗糙纸张背景，橙色矩形色块，黑色油墨刮痕，竖向脏污纹理，半调网点，复印机颗粒，工业感平面设计"
+      }
+    },
+    {
+      "prompt_id": "P067",
+      "title": "年轻亚洲女性时尚大片肖像，穿深蓝色修身西装套装，白色衬衫，深色领带，黑色皮鞋，佩戴黑色墨镜，坐在红色复古敞篷车严重变形的车头上，双臂自然展开，一条腿交叠，冷静直视镜头，破碎挡风玻璃，撞毁的红色经典汽车，水边码头，混凝土堤岸，强烈正午阳光",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_067",
+      "prompt": "年轻亚洲女性时尚大片肖像，穿深蓝色修身西装套装，白色衬衫，深色领带，黑色皮鞋，佩戴黑色墨镜，坐在红色复古敞篷车严重变形的车头上，双臂自然展开，一条腿交叠，冷静直视镜头，破碎挡风玻璃，撞毁的红色经典汽车，水边码头，混凝土堤岸，强烈正午阳光，high fashion editorial photography, cinematic car crash scene, luxury disaster aesthetic, red vintage convertible, broken windshield, dramatic power pose, fashion campaign, sharp sunlight, realistic outdoor lighting, glossy chrome details, bold red and navy color contrast, confident female lead, stylish crime movie mood, cinematic magazine editorial, ultra realistic, crisp details。",
+      "negative_prompt": "男性主体、动漫感、科幻机甲、血腥事故、受伤人物、恐怖场景、爆炸火焰、廉价车模写真、过度美颜、塑料皮肤、五官变形、墨镜变形、手指畸形、腿部比例错误、西装结构错误、汽车结构完全错误、挡风玻璃像塑料、车身糊成一团、背景杂乱、低清晰度、过度锐化、过曝、阴影死黑、色彩脏污、假反光、AI感强。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性时尚大片肖像，穿深蓝色修身西装套装，白色衬衫，深色领带，黑色皮鞋，佩戴黑色墨镜，坐在红色复古敞篷车严重变形的车头上，双臂自然展开，一条腿交叠，冷静直视镜头，破碎挡风玻璃，撞毁的红色经典汽车，水边码头，混凝土堤岸，强烈正午阳光.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性时尚大片肖像，穿深蓝色修身西装套装，白色衬衫，深色领带，黑色皮鞋，佩戴黑色墨镜，坐在红色复古敞篷车严重变形的车头上，双臂自然展开，一条腿交叠，冷静直视镜头，破碎挡风玻璃，撞毁的红色经典汽车，水边码头，混凝土堤岸，强烈正午阳光"
+      }
+    },
+    {
+      "prompt_id": "P068",
+      "title": "黑白科幻音乐专辑封面，年轻亚洲男性双重人像，黑色微卷短发，黑色外套，银色链条项链，冷静疏离表情，上方正面人像被巨大粗体标题字母遮挡并嵌入文字内部，下方横向分屏侧脸肖像，黑色背景，灰色摄影区域，高反差单色影像，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_068",
+      "prompt": "黑白科幻音乐专辑封面，年轻亚洲男性双重人像，黑色微卷短发，黑色外套，银色链条项链，冷静疏离表情，上方正面人像被巨大粗体标题字母遮挡并嵌入文字内部，下方横向分屏侧脸肖像，黑色背景，灰色摄影区域，高反差单色影像，futuristic monochrome album cover, experimental sound experience poster, bold condensed sans serif typography, giant title letters masking the portrait, split layout, black and white editorial photography, gritty film grain, xerox texture, analog print noise, minimal white micro typography, tracklist at bottom, sci fi music poster, dark cinematic mood, sharp eyes, premium graphic design, rounded white outer border, collectible vinyl sleeve design。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白科幻音乐专辑封面，年轻亚洲男性双重人像，黑色微卷短发，黑色外套，银色链条项链，冷静疏离表情，上方正面人像被巨大粗体标题字母遮挡并嵌入文字内部，下方横向分屏侧脸肖像，黑色背景，灰色摄影区域，高反差单色影像，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白科幻音乐专辑封面，年轻亚洲男性双重人像，黑色微卷短发，黑色外套，银色链条项链，冷静疏离表情，上方正面人像被巨大粗体标题字母遮挡并嵌入文字内部，下方横向分屏侧脸肖像，黑色背景，灰色摄影区域，高反差单色影像，"
+      }
+    },
+    {
+      "prompt_id": "P069",
+      "title": "暗调洛杉矶犯罪电影拼贴海报，年轻亚洲女性近景肖像，短发，湿感背头，佩戴窄框茶色墨镜，冷静强势表情，直视镜头，黑色皮衣，黑色内搭，手里夹着雪茄，烟雾从手边和脸侧升起，人物大头像占据画面上半部分，右侧有半透明侧脸重影，多重曝光效果，下方是洛杉矶",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_069",
+      "prompt": "暗调洛杉矶犯罪电影拼贴海报，年轻亚洲女性近景肖像，短发，湿感背头，佩戴窄框茶色墨镜，冷静强势表情，直视镜头，黑色皮衣，黑色内搭，手里夹着雪茄，烟雾从手边和脸侧升起，人物大头像占据画面上半部分，右侧有半透明侧脸重影，多重曝光效果，下方是洛杉矶夜景，高速公路灯轨，棕榈树剪影，城市天际线，黑色豪华跑车，女性站在车旁的小比例全身身影，黑金暗橙色调，cinematic crime movie poster, young Asian woman portrait, smoking cigar, tinted narrow sunglasses, black leather jacket, Los Angeles night city, luxury sports car, palm trees, freeway light trails, double exposure portrait, ghost reflection face, gritty film texture, scratched poster surface, dark noir atmosphere, luxury gangster aesthetic, moody urban album cover, dramatic composite design, warm orange highlights, deep shadows, realistic photography, premium cinematic poster",
+      "negative_prompt": "男性主体，明亮白底棚拍，普通商业写真，甜美少女写真，柔和韩系美颜，干净极简杂志封面，彩色过饱和，赛博朋克霓虹过重，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼神涣散，墨镜变形，雪茄变形，手指畸形，多余手指，烟雾像火灾，烟雾遮住整张脸，皮衣质感错误，跑车变形，车灯错误，城市夜景混乱，人物重影太乱，拼贴层次失控，低清晰度，噪点过重，划痕过多，暗部死黑，脸部过曝，高光死白，文字乱码，签名乱码，廉价电影海报感，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/暗调洛杉矶犯罪电影拼贴海报，年轻亚洲女性近景肖像，短发，湿感背头，佩戴窄框茶色墨镜，冷静强势表情，直视镜头，黑色皮衣，黑色内搭，手里夹着雪茄，烟雾从手边和脸侧升起，人物大头像占据画面上半部分，右侧有半透明侧脸重影，多重曝光效果，下方是洛杉矶夜景，高速公路灯轨，棕榈树剪影，城市天际线，黑色豪华跑车，女性站在车旁的小比例全身身影，黑金暗橙色调，.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性暗调犯罪电影海报，短发或湿感背头，窄框茶色墨镜，冷静强势表情，直视镜头，黑色皮衣，手里夹着雪茄，烟雾环绕脸侧，画面上半部分为女性大头像，右侧有半透明侧脸重影，多重曝光效果，下方是洛杉矶夜景、公路灯轨、棕榈树、城市天际线和黑色豪华跑车，女性小比例全身站在车旁，黑金暗橙色调，dark noir crime poster, Los Angeles night city, luxury sports car, double exposure portrait, gritty film texture, scratches, cinematic urban album cover, realistic photography, no text",
+        "original_title": "暗调洛杉矶犯罪电影拼贴海报，年轻亚洲女性近景肖像，短发，湿感背头，佩戴窄框茶色墨镜，冷静强势表情，直视镜头，黑色皮衣，黑色内搭，手里夹着雪茄，烟雾从手边和脸侧升起，人物大头像占据画面上半部分，右侧有半透明侧脸重影，多重曝光效果，下方是洛杉矶夜景，高速公路灯轨，棕榈树剪影，城市天际线，黑色豪华跑车，女性站在车旁的小比例全身身影，黑金暗橙色调，"
+      }
+    },
+    {
+      "prompt_id": "P070",
+      "title": "红色暗调时尚男士肖像，年轻亚洲男性近景半身，黑色凌乱微卷短发，冷静慵懒表情，直视镜头，黑色西装外套，暖色皮肤高光，深红色摄影棚背景，前景有两只玻璃杯，玻璃杯里有深红色液体，低矮玻璃杯在左下角虚化，高玻璃杯在右侧前景遮挡部分脸部，玻璃折射，前",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_070",
+      "prompt": "红色暗调时尚男士肖像，年轻亚洲男性近景半身，黑色凌乱微卷短发，冷静慵懒表情，直视镜头，黑色西装外套，暖色皮肤高光，深红色摄影棚背景，前景有两只玻璃杯，玻璃杯里有深红色液体，低矮玻璃杯在左下角虚化，高玻璃杯在右侧前景遮挡部分脸部，玻璃折射，前景虚化，近距离人像构图，shallow depth of field, luxury menswear editorial portrait, cinematic red studio lighting, dark red background, glossy skin highlights, black tailoring, elegant bar atmosphere, glass refraction, foreground drinking glasses, warm dramatic light, intimate close-up, premium fashion magazine aesthetic, moody red and black color palette, sophisticated nightlife mood, sharp eyes, realistic photography, high-end editorial lighting, refined skin texture, cinematic portrait",
+      "negative_prompt": "明亮白底棚拍，极简杂志封面，黑白纪实照片，复古颗粒过重，拼贴海报，半调网点，动漫感，AI插画感，赛博朋克霓虹，廉价酒吧背景，背景杂乱，过度磨皮，塑料皮肤，脸部过曝，高光死白，暗部死黑，五官变形，眼神涣散，头发糊成块，西装结构变形，玻璃杯变形，液体悬浮，杯子比例错误，多余杯子，手指畸形，多余手指，文字乱码，廉价字体，低清晰度，噪点过重，红色溢出，皮肤太橙，表情夸张，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/红色暗调时尚男士肖像，年轻亚洲男性近景半身，黑色凌乱微卷短发，冷静慵懒表情，直视镜头，黑色西装外套，暖色皮肤高光，深红色摄影棚背景，前景有两只玻璃杯，玻璃杯里有深红色液体，低矮玻璃杯在左下角虚化，高玻璃杯在右侧前景遮挡部分脸部，玻璃折射，前景虚化，近距离人像构图.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "young Asian man close-up portrait, messy black wavy hair, calm lazy expression, direct eye contact, black blazer, dark red studio background, warm dramatic lighting, glossy natural skin highlights, two drinking glasses in the foreground with dark red liquid, blurred low glass in the lower left foreground, tall glass in front of the right side of the face, glass refraction, shallow depth of field, red and black luxury fashion editorial, intimate cinematic portrait, sophisticated nightlife atmosphere, realistic photography, high-end menswear campaign style, no text",
+        "original_title": "红色暗调时尚男士肖像，年轻亚洲男性近景半身，黑色凌乱微卷短发，冷静慵懒表情，直视镜头，黑色西装外套，暖色皮肤高光，深红色摄影棚背景，前景有两只玻璃杯，玻璃杯里有深红色液体，低矮玻璃杯在左下角虚化，高玻璃杯在右侧前景遮挡部分脸部，玻璃折射，前景虚化，近距离人像构图"
+      }
+    },
+    {
+      "prompt_id": "P071",
+      "title": "年轻亚洲女性时尚海报肖像，短发或利落湿发造型，穿黑白竖条纹宽松西装套装，黑色内搭，黑色乐福鞋，坐在巨大白色粗体标题字母上，身体前倾，一只手扶住太阳穴，另一只手自然垂下，冷静直视镜头，黑色粗糙纸张背景，黑白高反差人像",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_071",
+      "prompt": "年轻亚洲女性时尚海报肖像，短发或利落湿发造型，穿黑白竖条纹宽松西装套装，黑色内搭，黑色乐福鞋，坐在巨大白色粗体标题字母上，身体前倾，一只手扶住太阳穴，另一只手自然垂下，冷静直视镜头，黑色粗糙纸张背景，黑白高反差人像，minimal black and white fashion poster, conceptual magazine cover, oversized white bold typography, model sitting on giant letters, striped suit editorial styling, gritty paper texture, subtle grain, small white micro typography, muted gold rectangle accent, gold and white dot details, modern graphic design layout, independent fashion zine aesthetic, clean but raw composition, quiet confidence mood。",
+      "negative_prompt": "男性主体、彩色写真、柔光美颜、韩系清新棚拍、动漫感、塑料皮肤、复杂背景、霓虹赛博、朋克涂鸦过重、廉价商务照、姿势僵硬、手指畸形、脸部变形、条纹衣服错乱、鞋子变形、巨大文字透视错误、人物没有坐在字上、背景太干净、纹理太脏、文字乱码、字体廉价、排版拥挤、低清晰度、过度锐化、黑位死黑。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性时尚海报肖像，短发或利落湿发造型，穿黑白竖条纹宽松西装套装，黑色内搭，黑色乐福鞋，坐在巨大白色粗体标题字母上，身体前倾，一只手扶住太阳穴，另一只手自然垂下，冷静直视镜头，黑色粗糙纸张背景，黑白高反差人像.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性时尚海报肖像，短发或利落湿发造型，穿黑白竖条纹宽松西装套装，黑色内搭，黑色乐福鞋，坐在巨大白色粗体标题字母上，身体前倾，一只手扶住太阳穴，另一只手自然垂下，冷静直视镜头，黑色粗糙纸张背景，黑白高反差人像"
+      }
+    },
+    {
+      "prompt_id": "P072",
+      "title": "蓝橙光效未来感眼镜杂志封面，年轻亚洲女性半身侧脸肖像，黑色利落短发，湿感背头，冷静克制表情，身体侧向，头部回看镜头，佩戴细金属框眼镜，黑色高领上衣，深蓝色摄影棚背景，橙色横向光轨穿过眼睛和脸部，蓝橙对比色调，极简高级构图，未来感时尚人像",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_072",
+      "prompt": "蓝橙光效未来感眼镜杂志封面，年轻亚洲女性半身侧脸肖像，黑色利落短发，湿感背头，冷静克制表情，身体侧向，头部回看镜头，佩戴细金属框眼镜，黑色高领上衣，深蓝色摄影棚背景，橙色横向光轨穿过眼睛和脸部，蓝橙对比色调，极简高级构图，未来感时尚人像，luxury eyewear editorial, young Asian woman portrait, side profile looking back, thin metal glasses, black turtleneck, deep blue studio background, orange horizontal light streak across the face, motion blur light trail, cinematic blue and orange lighting, sharp facial contour, refined skin texture, calm confident expression, modern artist portrait, creative direction magazine cover, minimal futuristic layout, wide letter spacing typography, clean editorial design, premium fashion portrait, realistic photography",
+      "negative_prompt": "男性主体，复古棕褐海报，黑白纪实照片，红黑拼贴，街头涂鸦，撕纸拼贴，半调网点过重，普通证件照，甜美写真，过度柔光美颜，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，镜腿断裂，眼神涣散，头发糊成块，脖子比例错误，黑色高领糊成一团，橙色光轨过曝，光效遮住整张脸，背景杂乱，颜色过饱和，脸部高光死白，暗部死黑，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度，噪点过重，赛博朋克霓虹过度",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/蓝橙光效未来感眼镜杂志封面，年轻亚洲女性半身侧脸肖像，黑色利落短发，湿感背头，冷静克制表情，身体侧向，头部回看镜头，佩戴细金属框眼镜，黑色高领上衣，深蓝色摄影棚背景，橙色横向光轨穿过眼睛和脸部，蓝橙对比色调，极简高级构图，未来感时尚人像.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身侧脸肖像，黑色利落短发，湿感背头，冷静克制表情，身体侧向，头部回看镜头，佩戴细金属框眼镜，黑色高领上衣，深蓝色摄影棚背景，橙色横向光轨穿过眼睛和脸部，蓝橙对比色调，motion blur light trail, futuristic eyewear editorial, luxury fashion portrait, minimal studio composition, sharp facial contour, refined skin texture, calm confident mood, realistic photography, no text",
+        "original_title": "蓝橙光效未来感眼镜杂志封面，年轻亚洲女性半身侧脸肖像，黑色利落短发，湿感背头，冷静克制表情，身体侧向，头部回看镜头，佩戴细金属框眼镜，黑色高领上衣，深蓝色摄影棚背景，橙色横向光轨穿过眼睛和脸部，蓝橙对比色调，极简高级构图，未来感时尚人像"
+      }
+    },
+    {
+      "prompt_id": "P073",
+      "title": "时尚杂志封面，年轻男性近距离特写，凌乱湿感黑发，黑色粗框眼镜，穿黑色破洞高领针织毛衣，双手拉起领口遮住嘴，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_073",
+      "prompt": "时尚杂志封面，年轻男性近距离特写，凌乱湿感黑发，黑色粗框眼镜，穿黑色破洞高领针织毛衣，双手拉起领口遮住嘴，直视镜头，硬质棚拍主光，红橙色侧光打在左脸和眼镜上，米灰色背景，高反差，暖色皮肤质感，editorial fashion portrait, luxury magazine cover, dramatic lighting, sharp eyes, cinematic color grading, close-up composition, serif typography, minimal layout。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/时尚杂志封面，年轻男性近距离特写，凌乱湿感黑发，黑色粗框眼镜，穿黑色破洞高领针织毛衣，双手拉起领口遮住嘴，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "时尚杂志封面，年轻男性近距离特写，凌乱湿感黑发，黑色粗框眼镜，穿黑色破洞高领针织毛衣，双手拉起领口遮住嘴，"
+      }
+    },
+    {
+      "prompt_id": "P074",
+      "title": "人物还原度提示词1",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_074",
+      "prompt": "**平视正脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。参考人物的脸部角度保持为当前正脸或接近正脸角度，不要为了贴合目标图模特而强行改变头部朝向。目标图只作为服装、姿势、构图、光线、背景和整体画面风格参考，不要继承目标图原人物的脸型、五官结构、骨相和头部角度。但是需要继承发型，服装，神态，动作等美学要素 请严格保留参考人物正脸身份特征，重点对齐以下要素： 【一、脸型与骨相】 保留整体脸长脸宽比例、额头宽窄与高度、太阳穴饱满或凹陷程度、颧骨位置与外扩程度、面中部宽度、腮部宽窄、下颌角位置与宽窄、下巴长度、下巴宽窄、下巴尖圆程度，以及左右脸轻微不对称特征。 【二、眉眼系统】 保留眉毛粗细、浓淡、眉形走向、眉峰位置、眉尾方向；保留眉眼距、眼睛大小、眼裂长度、眼距宽窄、内眼角与外眼角角度、单双眼皮结构、上眼睑覆盖程度、卧蚕、眼袋、泪沟，以及左右眼轻微不对称。 【三、鼻部系统】 保留鼻根起点高低、鼻梁高度与宽度、鼻背线条、鼻头大小、鼻头圆钝或精致程度、鼻翼宽度、鼻孔外露程度、鼻子长度，以及鼻子在面中部的位置比例。 【四、嘴唇与下庭】 保留嘴巴宽度、上唇厚度、下唇厚度、上下唇厚度比例、唇峰形状、嘴角自然上扬或下垂趋势、人中长度、人中深浅、下庭长度、下巴与嘴巴之间的距离，以及闭嘴时的自然神态。 【五、面部比例】 保留三庭比例、五眼比例、五官整体高低位置、鼻口距离、口颏距离，不要把五官整体上移或下移，不要改变真实面部比例。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩小鼻子、垫高鼻梁、削下颌、缩短人中、改变下巴形状，也不要生成更精致但不像本人的脸。不要把圆脸修成瓜子脸，不要把普通真实五官修成模板化网红脸或AI写真脸。 最终成功标准：熟人一眼认出这是参考人物本人，只是换了服装、姿势、背景和拍摄风格。 **平视45°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。参考人物的脸部角度保持为当前45°侧脸角度，不要为了贴合目标图模特而强行改成正脸，也不要强行掰成更大的侧脸。目标图只作为服装、姿势、构图、光线、背景和整体画面风格参考，不要继承目标图原人物的脸型、五官结构、骨相和头部转向。但是需要继承发型，服装，神态，动作等美学要素 请严格保留参考人物45°侧脸身份特征，重点对齐以下要素： 【一、整体骨相与轮廓】 保留整体脸长脸宽比例、额头宽窄、颧骨位置、面中部立体度、面部肉感和软组织厚度、下颌角位置与宽窄、下巴长度、下巴尖圆程度，以及45°角度下的真实面部轮廓。 【二、眉眼系统】 保留眉毛形状、粗细、眉峰位置、眉尾方向；保留眉眼距、近侧眼与远侧眼在透视下的真实大小关系、眼裂长度、外眼角走向、双眼间距在透视下的真实变化、上眼睑覆盖程度、卧蚕、眼袋、泪沟，不要把透视后的眼部修成对称模板脸。 【三、鼻部系统】 保留鼻根高度、鼻梁起点、鼻梁线条、鼻背高度、鼻头大小、鼻尖突出程度、鼻翼宽窄、鼻子的前突程度、鼻孔在45°角度下的显露关系。不要为了“更高级”而重塑鼻子。 【四、嘴唇与口周】 保留嘴巴宽度在透视下的真实表现、上下唇厚度、嘴角位置、人中长度、嘴唇前突或后缩程度、口周软组织厚度，以及45°侧脸时嘴巴和鼻子、下巴之间的真实关系。 【五、下巴、下颌线与侧面结构】 保留下巴前突或后缩程度、唇颏沟深浅、下颌线走向、下颌缘清晰度、颈颌角大小、下巴与脖子的连接过渡。不要把原本圆润的下颌修成刀削线条。 【六、角度特征】 必须保留45°侧脸特有的透视关系：一侧更完整，另一侧轻微缩短；保留头部朝向和脸部转向，不要改变原本转头方向，不要为了贴合目标图而改变45°角度本身。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩窄鼻翼、改变鼻梁高度、缩短人中、削下颌，也不要生成更精致但不像本人的脸。不要把参考人物修成模板化杂志脸、网红脸或AI写真脸。 最终成功标准：仍然明显是参考人物本人，45°侧脸的神态、结构、透视关系和辨识度都保留，只是换上了目标图的服装、姿势、背景和氛围。 ### **平视90°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。参考人物的脸部角度保持为当前90°侧脸角度，不要为了贴合目标图模特而强行改成正脸或45°角度。目标图只作为服装、姿势、构图、光线、背景和整体画面风格参考，不要继承目标图原人物的侧脸骨相、鼻梁、嘴唇、下巴、下颌线和头部转向。但是需要继承发型，服装，神态，动作等美学要素 请严格保留参考人物90°侧脸身份特征，重点对齐以下要素： 【一、额头、眉弓与眼窝】 保留额头倾斜角度、额头饱满或后倾程度、眉弓凸度、眉骨突出程度、眼窝深浅、额头到鼻根的过渡关系。不要把普通真实侧脸修成深眼窝混血感侧脸。 【二、眼部侧面】 保留侧眼的眼裂长度、上眼睑覆盖程度、眼缘走向、眼球在眼窝中的真实位置、眼部前突或内收程度，不要为了好看而重塑眼部立体关系。 【三、鼻部侧面轮廓】 保留鼻根高度、鼻梁高度、鼻梁弧度、鼻背线条、鼻尖高度、鼻尖朝向、鼻小柱角度、鼻翼厚度、鼻孔外露程度、鼻子整体前突程度。不要把低鼻梁修高，不要把圆鼻头修成翘鼻，不要为了侧颜好看而重塑鼻型。 【四、嘴唇与审美E线关系】 保留上唇相对E线的位置、下唇相对E线的位置、嘴唇前突或后缩程度、嘴突感、上下唇厚度、嘴角位置、唇部自然张力。不要强行把嘴突修没，也不要把嘴唇后缩成模板化标准侧颜。 【五、人中、唇颏沟与下巴】 保留人中长度、上唇倾角、下唇外翻程度、唇颏沟深浅、下巴前突或后缩程度、下巴长度、下巴圆钝或尖锐程度，以及下巴与下唇之间的真实转折关系。不要强行垫下巴，不要把后缩下巴修成前突下巴。 【六、下颌线与颈部连接】 保留下颌线走向、下颌角位置、下巴到颈部的过渡、颈颌角大小、下颌下方软组织厚度、脖子前侧轮廓，以及侧脸到脖子的整体连接关系。不要强行生成锋利的明星下颌线。 【七、耳朵、发际线与头颅轮廓】 保留耳朵大小、耳朵高低位置、发际线位置、额角形状、头顶部轮廓、后脑勺圆弧、头面比例。不要改变头颅轮廓，不要把真实发际线修成模板发际线。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、垫鼻、垫下巴、削下颌、缩短人中，也不要生成更精致但不像本人的脸。不要把真实侧脸修成模板化明星侧颜、网红侧颜或AI写真侧颜。 最终成功标准：侧脸轮廓一看就是参考人物本人，而不是目标图原人物的侧脸骨相上只套了一点参考人物特征。 **斜上方45°机位 + 正脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为正脸或接近正脸，镜头机位统一为斜上方45°俯拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的脸型、骨相、五官结构和头部特征。但是需要继承发型，服装，神态，动作等美学要素 请严格锁定参考人物在“斜上方45°俯拍 + 正脸”条件下的身份特征，重点对齐以下内容： 【一、头骨与整体脸型】 保留整体脸长脸宽比例、额头高度与宽窄、太阳穴饱满或凹陷程度、颧骨位置与外扩程度、面中部宽度、腮部宽窄、下颌角位置与宽窄、下巴长度、下巴宽窄、下巴尖圆程度，以及左右脸轻微不对称。斜上方45°俯拍下，额头与上半张脸会更显露，下庭会轻微压缩，但不要把脸压扁，不要修成模板化小脸或网红俯拍脸。 【二、眉眼系统】 保留眉毛粗细、浓淡、眉形走向、眉峰位置、眉尾方向；保留眉眼距、眼睛大小、眼裂长度、眼距宽窄、内眼角和外眼角角度、单双眼皮结构、上眼睑覆盖程度、卧蚕、眼袋、泪沟，以及左右眼轻微不对称。斜上方45°俯拍时，上眼睑与眉眼区可见度会相对增加，双眼会有轻微透视变化，但不要放大眼睛，不要改变原本眼型，不要修成夸张的俯拍大眼效果。 【三、鼻部系统】 保留鼻根起点高低、鼻梁高度与宽度、鼻背线条、鼻头大小、鼻头圆钝或精致程度、鼻翼宽度、鼻孔外露程度、鼻子长度，以及鼻子在面中部的位置比例。斜上方45°俯拍下，鼻梁上部、鼻尖与鼻孔的透视关系会发生轻微变化，必须真实自然，不要因此重塑鼻型，不要把低鼻根修成高鼻根，不要把普通鼻子修成精致翘鼻。 【四、嘴唇、人中与下庭】 保留嘴巴宽度、上唇厚度、下唇厚度、上下唇比例、唇峰形状、嘴角自然趋势、人中长度、人中深浅、下庭长度、下巴与嘴巴之间的距离，以及闭嘴时的自然神态。斜上方45°俯拍时，下庭和下巴会有轻微缩短的透视，但不要缩得过度，不要改变真实嘴型，不要把人中缩短，不要改变口唇与下巴的真实关系。 【五、正脸俯拍透视标准】 必须保留正脸本身的对称识别度，同时叠加斜上方45°俯拍透视：额头更明显、上半张脸稍占优势、下半张脸略有压缩，但五官仍然应保持正脸的稳定中轴关系。不要把斜上方45°误解成过度低头，也不要让头部严重前倾。不要为了“好看”而把原本真实五官修成模板化精致脸。 【六、年龄感与真实质感】 保留参考人物的年龄感、皮肤质感、面部肉感、轻微纹理、轻微不对称和真实神态。不要过度磨皮，不要消除所有细节，不要自动年轻化，也不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩小鼻子、垫高鼻梁、削下颌、缩短人中、改变下巴形状，也不要生成更精致但不像本人的脸。 最终成功标准：熟人一眼认出这是参考人物本人，只是处于“斜上方45°俯拍 + 正脸”镜头下，并穿上了目标图的服装，出现在目标图的姿势、背景和光线环境里。 **斜上方45°机位 + 45°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为45°侧脸，镜头机位统一为斜上方45°俯拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的脸型、骨相、五官结构和头部特征。 请严格锁定参考人物在“斜上方45°俯拍 + 45°侧脸”条件下的身份特征，重点对齐以下内容： 【一、整体骨相与面部轮廓】 保留整体脸长脸宽比例、额头宽窄、面中部立体度、颧骨位置、近侧与远侧脸颊的真实厚度关系、面部肉感、下颌角位置与宽窄、下巴长度和尖圆程度，以及45°侧脸状态下的真实轮廓。斜上方45°俯拍时，额头、眉骨上缘、颧骨上缘会更突出，下颌与下庭会略微压缩，但不要把脸压扁，也不要把原本圆润的脸修成尖锐模板脸。 【二、45°侧脸的透视标准】 必须保留45°侧脸本身的核心识别关系：近侧更完整，远侧略缩短；近侧轮廓更清楚，远侧五官受透视影响略弱。同时叠加斜上方45°俯拍时的透视效果：上半张脸可见度更高，下半张脸略压缩。不要改变原本转头方向，不要把45°脸修成几乎正脸，也不要修成接近90°大侧脸。 【三、眉眼系统】 保留眉毛形状、粗细、浓淡、眉峰位置、眉尾方向；保留近侧眼与远侧眼在透视下的真实大小关系、眼裂长度、眼睛高度、眉眼距、外眼角走向、上眼睑覆盖程度、卧蚕、眼袋、泪沟，以及左右眼轻微不对称。斜上方45°俯拍叠加45°侧脸时，近侧眼通常更完整，远侧眼更短更窄，这种透视要真实，不要把眼睛修成模板化不对称大眼，也不要丢失参考人物的真实眼型和神态。 【四、鼻部系统】 保留鼻根高度、鼻梁起点、鼻梁线条、鼻背高度、鼻头大小、鼻尖突出程度、鼻翼宽窄、鼻子的整体前突程度，以及鼻孔在45°侧脸 + 斜上方45°机位下的真实显露关系。鼻梁、鼻尖和鼻孔的透视必须自然，不要为了“高级感”而重塑鼻子，不要把普通真实鼻型修成网红鼻或明星鼻。 【五、嘴唇、人中与口周】 保留嘴巴宽度在透视下的真实表现、上唇与下唇厚度、嘴角位置、人中长度、唇峰形状、嘴唇前突或后缩程度、口周软组织厚度，以及嘴唇与鼻子、下巴之间的真实空间关系。斜上方45°俯拍时，上唇、唇峰和嘴角的可见比例会有变化，但不要改变真实嘴型，不要缩短人中，不要把嘴突修没，也不要把嘴唇修得过薄或过厚。 【六、下巴、下颌线与颈颌角】 保留下巴前突或后缩程度、唇颏沟深浅、下颌线走向、下颌缘清晰度、下巴与脖子的连接过渡、颈颌角大小，以及下颌下方软组织厚度。斜上方45°俯拍时，下颌线会受到压缩，更容易被模型修坏，必须保留真实骨相，不要把原本柔和的轮廓修成刀削下颌线，不要把真实颈颌角改掉。 【七、耳朵、发际线与头颅轮廓】 保留耳朵大小、耳朵位置、发际线位置、额角形状、头顶部轮廓、后脑勺圆弧和头面比例。斜上方45°机位下，头顶与后脑轮廓可能更显露，不要改变头颅轮廓，不要把真实发际线修成模板化发际线。 【八、年龄感与真实质感】 保留参考人物的年龄感、皮肤纹理、面部肉感、轻微不对称和真实神态。不要过度磨皮，不要自动年轻化，不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩窄鼻翼、改变鼻梁高度、缩短人中、削下颌，也不要生成更精致但不像本人的脸。 最终成功标准：仍然明显是参考人物本人，45°侧脸的方向感、骨相、透视关系和辨识度都保留，同时明确处于“斜上方45°俯拍”镜头下，只是换上了目标图的服装、姿势、背景和光线氛围。 **斜上方45°机位 + 90°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为90°标准侧脸，镜头机位统一为斜上方45°俯拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的侧脸骨相、鼻梁、嘴唇、下巴、下颌线和头部特征。但是需要继承发型，服装，神态，动作等美学要素 请严格锁定参考人物在“斜上方45°俯拍 + 90°侧脸”条件下的身份特征，重点对齐以下内容： 【一、额头、眉弓与眼窝】 保留额头倾斜角度、额头饱满或后倾程度、眉弓凸度、眉骨突出程度、眼窝深浅、额头到鼻根的过渡关系。斜上方45°俯拍下，额头与眉弓上缘更容易被看见，这种上方视角下的轮廓必须真实，不要把普通真实侧脸修成深眼窝混血侧脸。 【二、侧眼结构】 保留侧眼的眼裂长度、上眼睑覆盖程度、眼缘走向、眼球在眼窝中的真实位置、眼部前突或内收程度。斜上方45°俯拍下，侧眼上缘与眼窝关系会更明显，但不要为了“高级感”重塑眼部立体关系，不要让眼型变成另一个人。 【三、鼻部侧面轮廓】 保留鼻根高度、鼻梁高度、鼻梁弧度、鼻背线条、鼻尖高度、鼻尖朝向、鼻小柱角度、鼻翼厚度、鼻孔外露程度、鼻子的整体前突程度。斜上方45°俯拍下，鼻梁顶部、鼻尖和鼻孔的透视关系会更明显，必须自然保真，不要把低鼻梁修高，不要把圆鼻头修成翘鼻，不要重塑鼻型以追求模板化好看侧颜。 【四、嘴唇与审美E线关系】 保留上唇相对E线的位置、下唇相对E线的位置、嘴唇前突或后缩程度、嘴突感、上下唇厚度、嘴角位置、唇部自然张力。斜上方45°俯拍时，唇部上缘与下缘的可见比例会略有变化，但不要强行把嘴突修没，不要把嘴唇后缩成模板化标准侧颜，也不要改变真实上下唇厚度。 【五、人中、唇颏沟与下巴】 保留人中长度、上唇倾角、下唇外翻程度、唇颏沟深浅、下巴前突或后缩程度、下巴长度、下巴宽窄、下巴圆钝或尖锐程度，以及下巴与下唇之间的真实转折关系。斜上方45°俯拍下，下巴轮廓和下庭会轻微透视压缩，但不要强行垫下巴，不要把后缩下巴修成前突下巴，不要把圆下巴修成尖下巴。 【六、下颌线、下颌角与颈颌角】 保留下颌线走向、下颌角位置、下巴到颈部的过渡、颈颌角大小、下颌下方软组织厚度、脖子前侧轮廓，以及侧脸到脖子的整体连接关系。斜上方45°俯拍时，下颌与颈部关系最容易失真，必须保留真实骨相，不要强行生成锋利的明星下颌线，不要改变真实颈颌角。 【七、耳朵、发际线与头颅轮廓】 保留耳朵大小、耳朵高低位置、耳朵前后位置、发际线位置、额角形状、头顶部轮廓、后脑勺圆弧和头面比例。斜上方45°机位下，头顶部与后脑轮廓会更明显，不要改变头颅轮廓，不要把真实发际线修成模板化发际线。 【八、90°侧脸 + 斜上方45°俯拍的透视标准】 必须保留标准侧脸本身的轮廓识别度，同时叠加斜上方45°俯拍的透视效果：上部结构更可见，下部结构略有压缩，但整体侧脸骨相、鼻唇颏关系、下颌线和头颅轮廓仍然应明显属于参考人物本人。不要把“斜上方45°”误解成大幅低头，也不要改变参考人物本来的侧脸方向。 【九、年龄感与真实质感】 保留参考人物的年龄感、皮肤质感、轻微纹理、面部肉感、轻微不对称和真实神态。不要过度磨皮，不要自动年轻化，不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、垫鼻、垫下巴、削下颌、缩短人中，也不要生成更精致但不像本人的脸。不要把真实侧脸修成模板化明星侧颜、网红侧颜或AI写真侧颜。 最终成功标准：侧脸轮廓一看就是参考人物本人，并且清楚地处于“斜上方45°俯拍 + 90°标准侧脸”镜头下，而不是目标图原人物的骨相上只套了一点参考人物特征。 **斜下方45°机位 + 正脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为正脸或接近正脸，镜头机位统一为斜下方45°仰拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的脸型、骨相、五官结构和头部特征。但是需要继承发型，服装，神态，动作等美学要素 请严格锁定参考人物在“斜下方45°仰拍 + 正脸”条件下的身份特征，重点对齐以下内容： 【一、头骨与整体脸型】 保留整体脸长脸宽比例、额头高度与宽窄、太阳穴饱满或凹陷程度、颧骨位置与外扩程度、面中部宽度、腮部宽窄、下颌角位置与宽窄、下巴长度、下巴宽窄、下巴尖圆程度，以及左右脸轻微不对称。斜下方45°仰拍下，下庭、下巴、鼻底与下颌区域会更显露，上庭会相对缩短，这种透视必须自然真实，不要把脸拉长过度，也不要修成模板化小脸。 【二、眉眼系统】 保留眉毛粗细、浓淡、眉形走向、眉峰位置、眉尾方向；保留眉眼距、眼睛大小、眼裂长度、眼距宽窄、内眼角和外眼角角度、单双眼皮结构、上眼睑覆盖程度、卧蚕、眼袋、泪沟，以及左右眼轻微不对称。斜下方45°仰拍时，眼部会有仰拍透视，上眼睑显示可能减少，下眼睑和眼白关系会略有变化，但不要放大眼睛，不要改变原本眼型，不要修成模板化仰拍大眼脸。 【三、鼻部系统】 保留鼻根起点高低、鼻梁高度与宽度、鼻背线条、鼻头大小、鼻头圆钝或精致程度、鼻翼宽度、鼻孔外露程度、鼻子长度，以及鼻子在面中部的位置比例。斜下方45°仰拍时，鼻底、鼻孔和鼻小柱会更明显，鼻尖与鼻翼的透视关系尤为关键，必须自然保真，不要把鼻孔夸张放大，也不要借机重塑鼻型，不要把普通真实鼻子修成精致翘鼻。 【四、嘴唇、人中与下庭】 保留嘴巴宽度、上唇厚度、下唇厚度、上下唇比例、唇峰形状、嘴角自然趋势、人中长度、人中深浅、下庭长度、下巴与嘴巴之间的距离，以及闭嘴时的自然神态。斜下方45°仰拍时，下庭通常会被拉长，人中、上唇、下巴与颏部更突出，这种变化应真实但不能过度，不要缩短或拉长人中过头，不要改变口唇与下巴的真实关系。 【五、下巴、下颌线与颈部连接】 保留下巴前突或后缩程度、下颌线走向、下颌角位置、颏部厚度、颈颌角大小、下巴下方软组织厚度、下巴到脖子的过渡，以及脖子前侧轮廓。斜下方45°仰拍时，下巴和下颌线非常容易被模型修坏，必须保留真实骨相，不要强行生成锋利下颌线，不要把圆下巴修尖，不要把轻微软组织修没。 【六、正脸仰拍透视标准】 必须保留正脸本身的对称识别度，同时叠加斜下方45°仰拍透视：下半张脸、鼻底、下巴和颈部相对更明显，上半张脸略缩短，但五官中轴和对称关系必须稳定。不要把斜下方45°误解成夸张仰头，不要让头部后仰过度，也不要为了“气场”而改变真实脸型和骨相。 【七、年龄感与真实质感】 保留参考人物的年龄感、皮肤质感、面部肉感、轻微纹理、轻微不对称和真实神态。不要过度磨皮，不要自动年轻化，不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩小鼻子、垫高鼻梁、削下颌、缩短或拉长人中过度、改变下巴形状，也不要生成更精致但不像本人的脸。 最终成功标准：熟人一眼认出这是参考人物本人，只是处于“斜下方45°仰拍 + 正脸”镜头下，并穿上了目标图的服装，出现在目标图的姿势、背景和光线环境里。 **斜下方45°机位 + 45°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为45°侧脸，镜头机位统一为斜下方45°仰拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的脸型、骨相、五官结构和头部特征。但是需要继承发型，服装，神态，动作等美学要素 请严格锁定参考人物在“斜下方45°仰拍 + 45°侧脸”条件下的身份特征，重点对齐以下内容： 【一、整体骨相与面部轮廓】 保留整体脸长脸宽比例、额头宽窄、面中部立体度、颧骨位置、近侧与远侧脸颊的真实厚度关系、面部肉感、下颌角位置与宽窄、下巴长度和尖圆程度，以及45°侧脸状态下的真实轮廓。斜下方45°仰拍时，下巴、下颌下缘、鼻底和下庭会更突出，面中部和上庭相对缩短，这种透视必须真实，不要把脸拉得过长，也不要把原本圆润的脸修成尖锐模板脸。 【二、45°侧脸的透视标准】 必须保留45°侧脸本身的核心识别关系：近侧更完整，远侧略缩短；近侧轮廓更清楚，远侧五官受透视影响略弱。同时叠加斜下方45°仰拍时的透视效果：下半张脸和鼻底更显露，颏部和下颌线更突出。不要改变原本转头方向，不要把45°脸修成几乎正脸，也不要修成接近90°大侧脸。 【三、眉眼系统】 保留眉毛形状、粗细、浓淡、眉峰位置、眉尾方向；保留近侧眼与远侧眼在透视下的真实大小关系、眼裂长度、眼睛高度、眉眼距、外眼角走向、上眼睑覆盖程度、卧蚕、眼袋、泪沟，以及左右眼轻微不对称。斜下方45°仰拍叠加45°侧脸时，近侧眼通常更完整，远侧眼更短更窄，同时眼下缘和眼白关系会更明显，这种透视要真实，不要修成模板化不对称大眼，也不要丢失参考人物的真实眼型和神态。 【四、鼻部系统】 保留鼻根高度、鼻梁起点、鼻梁线条、鼻背高度、鼻头大小、鼻尖突出程度、鼻翼宽窄、鼻子的整体前突程度，以及鼻孔在45°侧脸 + 斜下方45°机位下的真实显露关系。仰拍时鼻底、鼻孔、鼻小柱和鼻尖的透视尤为关键，必须自然保真，不要夸张鼻孔，不要为了“高级感”重塑鼻子，不要把普通真实鼻型修成网红鼻或明星鼻。 【五、嘴唇、人中与口周】 保留嘴巴宽度在透视下的真实表现、上唇与下唇厚度、嘴角位置、人中长度、唇峰形状、嘴唇前突或后缩程度、口周软组织厚度，以及嘴唇与鼻子、下巴之间的真实空间关系。斜下方45°仰拍时，人中、上唇、下唇和下巴的纵向透视会增强，必须真实但不能夸张，不要缩短或拉长人中过头，不要把嘴突修没，不要把嘴唇修得过薄或过厚。 【六、下巴、下颌线与颈颌角】 保留下巴前突或后缩程度、唇颏沟深浅、下颌线走向、下颌缘清晰度、下巴与脖子的连接过渡、颈颌角大小，以及下颌下方软组织厚度。斜下方45°仰拍时，下颌线、颏下区和颈部连接最容易被模型修坏，必须保留真实骨相，不要把原本柔和的轮廓修成刀削下颌线，不要把轻微软组织去掉，也不要把真实颈颌角改掉。 【七、耳朵、发际线与头颅轮廓】 保留耳朵大小、耳朵位置、发际线位置、额角形状、头顶部轮廓、后脑勺圆弧和头面比例。斜下方45°机位下，下颌与耳部、头颅底部关系会更明显，不要改变头颅轮廓，不要把真实发际线修成模板化发际线。 【八、年龄感与真实质感】 保留参考人物的年龄感、皮肤纹理、面部肉感、轻微不对称和真实神态。不要过度磨皮，不要自动年轻化，不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、放大眼睛、缩窄鼻翼、改变鼻梁高度、缩短或拉长人中过度、削下颌，也不要生成更精致但不像本人的脸。 最终成功标准：仍然明显是参考人物本人，45°侧脸的方向感、骨相、透视关系和辨识度都保留，同时明确处于“斜下方45°仰拍”镜头下，只是换上了目标图的服装、姿势、背景和光线氛围。 **斜下方45°机位 + 90°侧脸** 请将参考人物的真实脸部替换到目标图人物身上，但必须以参考人物的身份特征为最高优先级。最终画面的人物脸部朝向保持为90°标准侧脸，镜头机位统一为斜下方45°仰拍。目标图只作为服装、姿势、构图、光线、背景和整体风格参考，不要继承目标图原人物的侧脸骨相、鼻梁、嘴唇、下巴、下颌线和头部特征。但是需要继承发型，服装，神态，动作等美学要素 请严格锁定参考人物在“斜下方45°仰拍 + 90°侧脸”条件下的身份特征，重点对齐以下内容： 【一、额头、眉弓与眼窝】 保留额头倾斜角度、额头饱满或后倾程度、眉弓凸度、眉骨突出程度、眼窝深浅、额头到鼻根的过渡关系。斜下方45°仰拍下，上庭会相对缩短，鼻底与下庭更突出，这种轮廓必须真实，不要把普通真实侧脸修成深眼窝混血侧脸。 【二、侧眼结构】 保留侧眼的眼裂长度、上眼睑覆盖程度、眼缘走向、眼球在眼窝中的真实位置、眼部前突或内收程度。斜下方45°仰拍时，眼睛下缘、眼白和眼球的透视关系会略有变化，不要为了“高级感”重塑眼部立体关系，不要让眼型变成另一个人。 【三、鼻部侧面轮廓】 保留鼻根高度、鼻梁高度、鼻梁弧度、鼻背线条、鼻尖高度、鼻尖朝向、鼻小柱角度、鼻翼厚度、鼻孔外露程度、鼻子的整体前突程度。斜下方45°仰拍下，鼻底、鼻孔、鼻小柱与鼻尖透视关系非常关键，必须自然保真，不要夸张鼻孔，不要把低鼻梁修高，不要把圆鼻头修成翘鼻，不要重塑鼻型以追求模板化好看侧颜。 【四、嘴唇与审美E线关系】 保留上唇相对E线的位置、下唇相对E线的位置、嘴唇前突或后缩程度、嘴突感、上下唇厚度、嘴角位置、唇部自然张力。斜下方45°仰拍时，唇部和下巴的纵向关系会增强，必须真实自然，不要强行把嘴突修没，不要把嘴唇后缩成模板化标准侧颜，也不要改变真实上下唇厚度。 【五、人中、唇颏沟与下巴】 保留人中长度、上唇倾角、下唇外翻程度、唇颏沟深浅、下巴前突或后缩程度、下巴长度、下巴宽窄、下巴圆钝或尖锐程度，以及下巴与下唇之间的真实转折关系。斜下方45°仰拍时，下巴轮廓、颏部厚度和下庭会明显增强，这些变化应真实但不能夸张，不要强行垫下巴，不要把后缩下巴修成前突下巴，不要把圆下巴修成尖下巴。 【六、下颌线、下颌角与颈颌角】 保留下颌线走向、下颌角位置、下巴到颈部的过渡、颈颌角大小、下颌下方软组织厚度、脖子前侧轮廓，以及侧脸到脖子的整体连接关系。斜下方45°仰拍时，下颌与颈部关系最容易失真，必须保留真实骨相，不要强行生成锋利的明星下颌线，不要改变真实颈颌角，也不要把真实颏下软组织完全去掉。 【七、耳朵、发际线与头颅轮廓】 保留耳朵大小、耳朵高低位置、耳朵前后位置、发际线位置、额角形状、头顶部轮廓、后脑勺圆弧和头面比例。斜下方45°机位下，耳部、下颌后缘和头颅底部轮廓的相对关系更重要，不要改变头颅轮廓，不要把真实发际线修成模板化发际线。 【八、90°侧脸 + 斜下方45°仰拍的透视标准】 必须保留标准侧脸本身的轮廓识别度，同时叠加斜下方45°仰拍的透视效果：鼻底、下巴、下颌与颈部相对更显露，上部结构略缩短，但整体侧脸骨相、鼻唇颏关系、下颌线和头颅轮廓仍然应明显属于参考人物本人。不要把“斜下方45°”误解成大幅仰头，也不要改变参考人物本来的侧脸方向。 【九、年龄感与真实质感】 保留参考人物的年龄感、皮肤质感、轻微纹理、面部肉感、轻微不对称和真实神态。不要过度磨皮，不要自动年轻化，不要AI写真化。 请不要生成目标人物与参考人物的混合脸。不要自动美颜、磨皮、瘦脸、垫鼻、垫下巴、削下颌、缩短或拉长人中过度，也不要生成更精致但不像本人的脸。不要把真实侧脸修成模板化明星侧颜、网红侧颜或AI写真侧颜。 最终成功标准：侧脸轮廓一看就是参考人物本人，并且清楚地处于“斜下方45°仰拍 + 90°标准侧脸”镜头下，而不是目标图原人物的骨相上只套了一点参考人物特征。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/人物还原度提示词1.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "人物还原度提示词1"
+      }
+    },
+    {
+      "prompt_id": "P075",
+      "title": "极简户外旅行杂志海报，年轻亚洲女性小比例全身坐姿，短发或扎起的利落发型，轻松自然表情，穿红色户外冲锋衣，黑色户外裤，白色运动鞋，坐在巨大黑色字母 P 的顶部，手里举着透明水瓶，黑白雪山背景，山谷公路，蜿蜒山路，远处山脉和雾气，大面积灰白天空",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_075",
+      "prompt": "极简户外旅行杂志海报，年轻亚洲女性小比例全身坐姿，短发或扎起的利落发型，轻松自然表情，穿红色户外冲锋衣，黑色户外裤，白色运动鞋，坐在巨大黑色字母 P 的顶部，手里举着透明水瓶，黑白雪山背景，山谷公路，蜿蜒山路，远处山脉和雾气，大面积灰白天空留白，极简构图，黑白灰背景与红色外套形成强烈对比，outdoor travel poster, young Asian woman hiking portrait, red shell jacket, black hiking pants, sitting on a giant black letter P, minimalist mountain landscape, grayscale mountain road background, selective color red jacket, huge typography sculpture, clean editorial layout, travel magazine cover, adventure brand campaign, calm playful mood, wide empty space, modern sans serif typography, cinematic road trip atmosphere, soft overcast light, realistic photography mixed with graphic design, premium outdoor lifestyle aesthetic",
+      "negative_prompt": "男性主体，城市街拍，暗黑犯罪海报，豪车海报，复古咖啡馆拼贴，红黑涂鸦，赛博朋克霓虹，复杂背景，过度彩色，甜美写真过重，性感姿势，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，身体比例错误，坐姿不自然，手指畸形，多余手指，水瓶变形，冲锋衣结构错误，鞋子变形，巨大字母结构错误，字母融进身体，山路透视混乱，雪山变形，背景过脏，天空颗粒过重，红色外套过曝，黑色字母死黑无层次，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/极简户外旅行杂志海报，年轻亚洲女性小比例全身坐姿，短发或扎起的利落发型，轻松自然表情，穿红色户外冲锋衣，黑色户外裤，白色运动鞋，坐在巨大黑色字母 P 的顶部，手里举着透明水瓶，黑白雪山背景，山谷公路，蜿蜒山路，远处山脉和雾气，大面积灰白天空留白，极简构图，黑白灰背景与红色外套形成强烈对比.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性小比例全身坐姿，短发或扎起的利落发型，穿红色户外冲锋衣，黑色户外裤，白色运动鞋，坐在巨大黑色字母 P 的顶部，手里举着透明水瓶，轻松自然表情，黑白雪山背景，山谷公路，蜿蜒山路，远处山脉和雾气，大面积灰白天空留白，黑白灰背景与红色外套选择性色彩对比，minimal outdoor travel poster, giant black typography sculpture, grayscale mountain landscape, adventure lifestyle campaign, clean editorial composition, realistic photography, no text",
+        "original_title": "极简户外旅行杂志海报，年轻亚洲女性小比例全身坐姿，短发或扎起的利落发型，轻松自然表情，穿红色户外冲锋衣，黑色户外裤，白色运动鞋，坐在巨大黑色字母 P 的顶部，手里举着透明水瓶，黑白雪山背景，山谷公路，蜿蜒山路，远处山脉和雾气，大面积灰白天空留白，极简构图，黑白灰背景与红色外套形成强烈对比"
+      }
+    },
+    {
+      "prompt_id": "P076",
+      "title": "现代复古男装海报，年轻亚洲男性半身侧脸肖像，黑色凌乱微卷短发，头微微抬起，侧脸看向左侧，冷静安静表情，黑色西装外套，白色圆领内搭，银色链条项链，浅米色旧纸背景，棕褐单色调",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_076",
+      "prompt": "现代复古男装海报，年轻亚洲男性半身侧脸肖像，黑色凌乱微卷短发，头微微抬起，侧脸看向左侧，冷静安静表情，黑色西装外套，白色圆领内搭，银色链条项链，浅米色旧纸背景，棕褐单色调，sepia tone portrait, modern retro fashion poster, vintage editorial portrait, side profile composition, elegant menswear styling, rough paper texture, antique print effect, halftone grain, stipple texture, monochrome brown ink, soft shadow, refined facial profile, classic magazine cover aesthetic, timeless style, large elegant serif typography at the bottom, cursive subtitle, dark gradient lower area, premium retro publication design, realistic photography mixed with vintage print texture",
+      "negative_prompt": "高饱和彩色，现代干净棚拍，赛博朋克霓虹，红黑拼贴海报，撕纸拼贴，强烈黑白高反差，韩系柔光写真，商业美颜过重，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，侧脸结构错误，鼻子变形，眼睛变形，脖子比例错误，头发糊成块，西装结构变形，项链变形，背景杂乱，纸张质感过脏，颗粒过重，低清晰度，过曝，高光死白，暗部死黑，廉价字体，文字乱码，标题拼错，排版拥挤，复古滤镜太假",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/现代复古男装海报，年轻亚洲男性半身侧脸肖像，黑色凌乱微卷短发，头微微抬起，侧脸看向左侧，冷静安静表情，黑色西装外套，白色圆领内搭，银色链条项链，浅米色旧纸背景，棕褐单色调.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "young Asian man side profile portrait, messy black wavy hair, calm expression, head slightly raised, looking to the left, black blazer, white crew neck shirt, silver chain necklace, beige vintage paper background, sepia monochrome tone, rough paper texture, halftone grain, stipple print effect, antique magazine portrait, modern retro menswear editorial, elegant side profile composition, soft shadow, realistic photography with vintage print texture, dark gradient at the bottom, no text",
+        "original_title": "现代复古男装海报，年轻亚洲男性半身侧脸肖像，黑色凌乱微卷短发，头微微抬起，侧脸看向左侧，冷静安静表情，黑色西装外套，白色圆领内搭，银色链条项链，浅米色旧纸背景，棕褐单色调"
+      }
+    },
+    {
+      "prompt_id": "P077",
+      "title": "年轻亚洲女性城市潮流海报肖像，短发或凌乱湿发造型，佩戴细框透明眼镜，穿黑色工装衬衫或黑色机能风上衣，蹲坐或前倾姿势，一只手强烈伸向镜头，手掌在前景放大，另一只手自然撑在膝盖上，冷静直视镜头，黑白高反差人物，城市高楼仰拍背景，深蓝色巨大斜向粗",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_077",
+      "prompt": "年轻亚洲女性城市潮流海报肖像，短发或凌乱湿发造型，佩戴细框透明眼镜，穿黑色工装衬衫或黑色机能风上衣，蹲坐或前倾姿势，一只手强烈伸向镜头，手掌在前景放大，另一只手自然撑在膝盖上，冷静直视镜头，黑白高反差人物，城市高楼仰拍背景，深蓝色巨大斜向粗体字母，橙色几何斜块，urban street fashion poster, dynamic perspective portrait, hand reaching toward camera, high contrast monochrome subject, blue and orange graphic collage, skyscraper texture, gritty paper grain, halftone dots, distressed poster texture, modern streetwear editorial, bold diagonal composition, energetic visual impact, sports campaign aesthetic, cinematic urban mood, sharp eyes, dramatic wide angle perspective, premium graphic design poster。",
+      "negative_prompt": "男性主体、彩色人物、柔光美颜、韩系清新写真、动漫感、塑料皮肤、过度磨皮、普通棚拍、商务照、背景太干净、城市背景杂乱抢主体、手部畸形、手指数量错误、前景手完全糊掉、脸部变形、眼镜变形、身体比例错误、衣服结构错误、蓝色过曝、橙色太脏、文字乱码、字体廉价、排版拥挤、低清晰度、过度锐化、颗粒糊成一片、AI感强的假拼贴。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性城市潮流海报肖像，短发或凌乱湿发造型，佩戴细框透明眼镜，穿黑色工装衬衫或黑色机能风上衣，蹲坐或前倾姿势，一只手强烈伸向镜头，手掌在前景放大，另一只手自然撑在膝盖上，冷静直视镜头，黑白高反差人物，城市高楼仰拍背景，深蓝色巨大斜向粗体字母，橙色几何斜块.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性城市潮流海报肖像，短发或凌乱湿发造型，佩戴细框透明眼镜，穿黑色工装衬衫或黑色机能风上衣，蹲坐或前倾姿势，一只手强烈伸向镜头，手掌在前景放大，另一只手自然撑在膝盖上，冷静直视镜头，黑白高反差人物，城市高楼仰拍背景，深蓝色巨大斜向粗体字母，橙色几何斜块"
+      }
+    },
+    {
+      "prompt_id": "P078",
+      "title": "荒原文艺电影海报，年轻亚洲女性半身偏三分之三肖像，短发，利落微卷短发，佩戴细金属框眼镜，冷静沉默表情，回头直视镜头，深色长款大衣，身体微侧站在空旷荒地上，背景有泥土小路，远处水面或灰色地平线，一棵孤独枯树，阴天柔光，大面积灰白天空留白，黑白",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_078",
+      "prompt": "荒原文艺电影海报，年轻亚洲女性半身偏三分之三肖像，短发，利落微卷短发，佩戴细金属框眼镜，冷静沉默表情，回头直视镜头，深色长款大衣，身体微侧站在空旷荒地上，背景有泥土小路，远处水面或灰色地平线，一棵孤独枯树，阴天柔光，大面积灰白天空留白，黑白灰低饱和色调，旧纸质感，孤独旅程氛围，arthouse film poster, young Asian woman portrait, lonely landscape, barren field, dirt road, leafless tree, quiet cinematic mood, monochrome photography, muted gray tones, vintage paper texture, subtle film grain, poetic loneliness, minimal composition, large serif title at the top, small editorial text, literary movie poster design, old photographic print texture, melancholic atmosphere, realistic photography, premium independent cinema aesthetic",
+      "negative_prompt": "男性主体，明亮商业棚拍，时尚杂志硬照，甜美写真，性感姿势，城市街景，豪华室内，复杂背景，彩色高饱和，红黑拼贴，涂鸦海报，赛博朋克霓虹，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，眼镜变形，头发糊成块，手指畸形，多余手指，大衣结构变形，身体比例错误，枯树变形，地平线混乱，背景太清晰，纸张纹理过脏，颗粒过重，恐怖氛围，血腥感，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度，过曝，高光死白，暗部死黑",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/荒原文艺电影海报，年轻亚洲女性半身偏三分之三肖像，短发，利落微卷短发，佩戴细金属框眼镜，冷静沉默表情，回头直视镜头，深色长款大衣，身体微侧站在空旷荒地上，背景有泥土小路，远处水面或灰色地平线，一棵孤独枯树，阴天柔光，大面积灰白天空留白，黑白灰低饱和色调，旧纸质感，孤独旅程氛围.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身偏三分之三肖像，短发或利落微卷短发，细金属框眼镜，冷静沉默表情，回头直视镜头，深色长款大衣，身体微侧站在空旷荒地，背景有泥土小路，远处水面或灰色地平线，一棵孤独枯树，阴天柔光，大面积灰白天空留白，黑白灰低饱和摄影，旧纸质感，荒原孤独氛围，arthouse film still, lonely landscape portrait, vintage paper texture, subtle film grain, melancholic cinematic mood, realistic photography, no text",
+        "original_title": "荒原文艺电影海报，年轻亚洲女性半身偏三分之三肖像，短发，利落微卷短发，佩戴细金属框眼镜，冷静沉默表情，回头直视镜头，深色长款大衣，身体微侧站在空旷荒地上，背景有泥土小路，远处水面或灰色地平线，一棵孤独枯树，阴天柔光，大面积灰白天空留白，黑白灰低饱和色调，旧纸质感，孤独旅程氛围"
+      }
+    },
+    {
+      "prompt_id": "P079",
+      "title": "蓝色高定男装杂志封面，年轻亚洲男性骑在白马上，黑色微卷短发，冷静直视镜头，黑色修身西装外套，格纹马甲，白色衬衫，白色丝质领巾，黑色皮手套，白马半身入镜，优雅马术造型，深蓝到浅蓝渐变摄影棚背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_079",
+      "prompt": "蓝色高定男装杂志封面，年轻亚洲男性骑在白马上，黑色微卷短发，冷静直视镜头，黑色修身西装外套，格纹马甲，白色衬衫，白色丝质领巾，黑色皮手套，白马半身入镜，优雅马术造型，深蓝到浅蓝渐变摄影棚背景，luxury mens fashion magazine cover, equestrian editorial portrait, high fashion styling, neo-classical aristocratic mood, elegant riding fashion, clean studio lighting, refined skin texture, soft blue backdrop, premium magazine layout, oversized beige serif masthead, large Chinese typography, vertical cover lines, modern Chinese fashion editorial, quiet luxury, polished commercial fashion photography, cinematic but clean, sharp eyes, sophisticated composition。这里如果不是做仿作，最好不要直接写真实杂志名，可以改成“luxury fashion magazine cover”。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/蓝色高定男装杂志封面，年轻亚洲男性骑在白马上，黑色微卷短发，冷静直视镜头，黑色修身西装外套，格纹马甲，白色衬衫，白色丝质领巾，黑色皮手套，白马半身入镜，优雅马术造型，深蓝到浅蓝渐变摄影棚背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "蓝色高定男装杂志封面，年轻亚洲男性骑在白马上，黑色微卷短发，冷静直视镜头，黑色修身西装外套，格纹马甲，白色衬衫，白色丝质领巾，黑色皮手套，白马半身入镜，优雅马术造型，深蓝到浅蓝渐变摄影棚背景"
+      }
+    },
+    {
+      "prompt_id": "P080",
+      "title": "黑白极简时装杂志大片，年轻男性全身站姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，黑色长款西装外套，白色圆领内搭，银色链条项链，宽松黑色长裤，黑色皮鞋，一只手插兜，松弛站姿，浅灰白摄影棚背景，干净无缝背景，巨大黑色衬线字母作为背景装置，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_080",
+      "prompt": "黑白极简时装杂志大片，年轻男性全身站姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，黑色长款西装外套，白色圆领内搭，银色链条项链，宽松黑色长裤，黑色皮鞋，一只手插兜，松弛站姿，浅灰白摄影棚背景，干净无缝背景，巨大黑色衬线字母作为背景装置，夸张高对比字体结构，字母穿插在人物身后，现代艺术排版，black and white fashion editorial, full body menswear portrait, minimalist studio photography, oversized serif typography, sculptural letterforms, avant-garde magazine layout, modern luxury fashion poster, monochrome color palette, clean gray background, elegant black tailoring, relaxed confident pose, refined skin texture, sharp eyes, high fashion magazine spread, architectural typography, minimal editorial credits, premium contemporary design, realistic photography",
+      "negative_prompt": "彩色照片，高饱和颜色，红黑拼贴海报，撕纸拼贴，复古脏污海报，半调网点过重，电影胶片划痕，复杂背景，街拍环境，廉价摄影棚，普通证件照，动漫感，AI插画感，皮肤塑料感，过度磨皮，五官变形，眼神涣散，头发糊成块，西装结构变形，腿部比例错误，手指畸形，多余手指，插兜姿势错误，鞋子变形，字体乱码，字母结构混乱，排版拥挤，廉价字体，背景过亮，高光死白，暗部死黑，低清晰度，噪点过重，人物和字母融合错误",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白极简时装杂志大片，年轻男性全身站姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，黑色长款西装外套，白色圆领内搭，银色链条项链，宽松黑色长裤，黑色皮鞋，一只手插兜，松弛站姿，浅灰白摄影棚背景，干净无缝背景，巨大黑色衬线字母作为背景装置，夸张高对比字体结构，字母穿插在人物身后，现代艺术排版.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻男性全身站姿肖像，黑色凌乱微卷短发，冷静直视镜头，黑色长款西装外套，白色圆领内搭，银色链条项链，宽松黑色长裤，黑色皮鞋，一只手插兜，松弛自信姿态，浅灰白无缝摄影棚背景，巨大黑色衬线字母装置在人物背后，黑白灰单色调，minimal studio fashion editorial, full body menswear portrait, oversized sculptural serif letters, clean modern magazine aesthetic, architectural typography background, realistic photography, no text",
+        "original_title": "黑白极简时装杂志大片，年轻男性全身站姿肖像，黑色自然凌乱微卷短发，冷静表情，直视镜头，黑色长款西装外套，白色圆领内搭，银色链条项链，宽松黑色长裤，黑色皮鞋，一只手插兜，松弛站姿，浅灰白摄影棚背景，干净无缝背景，巨大黑色衬线字母作为背景装置，夸张高对比字体结构，字母穿插在人物身后，现代艺术排版"
+      }
+    },
+    {
+      "prompt_id": "P081",
+      "title": "年轻亚洲女性黑白电影感群像肖像，空旷海边或荒野河岸背景，主角站在中景位置，黑色凌乱短发，穿黑色高领毛衣或黑色大衣，回头冷静看向镜头，左侧前景有一位戴黑框眼镜的女性脸部大面积虚化，只露出半张脸，远处有第三位女性模糊站立，三人形成前中后三层构图",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_081",
+      "prompt": "年轻亚洲女性黑白电影感群像肖像，空旷海边或荒野河岸背景，主角站在中景位置，黑色凌乱短发，穿黑色高领毛衣或黑色大衣，回头冷静看向镜头，左侧前景有一位戴黑框眼镜的女性脸部大面积虚化，只露出半张脸，远处有第三位女性模糊站立，三人形成前中后三层构图，black and white cinematic fashion portrait, shallow depth of field, blurred foreground face, sharp middle subject, distant background figure, lonely coastal landscape, overcast sky, windblown hair, noir editorial photography, arthouse film still, melancholic mood, high contrast monochrome, subtle film grain, quiet tension, mysterious female group portrait, minimalist styling, 85mm lens, natural light, raw emotional atmosphere。",
+      "negative_prompt": "男性主体、彩色照片、明亮商业棚拍、甜美笑容、韩系柔光写真、动漫感、塑料皮肤、过度磨皮、复杂城市背景、背景游客太多、人物数量过多、前景完全挡住主体、主体失焦、眼镜变形、五官变形、头发糊成块、多人脸部错乱、身体比例错误、低清晰度、过度锐化、噪点太脏、黑位死黑、灰阶层次丢失、廉价恐怖片感。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性黑白电影感群像肖像，空旷海边或荒野河岸背景，主角站在中景位置，黑色凌乱短发，穿黑色高领毛衣或黑色大衣，回头冷静看向镜头，左侧前景有一位戴黑框眼镜的女性脸部大面积虚化，只露出半张脸，远处有第三位女性模糊站立，三人形成前中后三层构图，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性黑白电影感群像肖像，空旷海边或荒野河岸背景，主角站在中景位置，黑色凌乱短发，穿黑色高领毛衣或黑色大衣，回头冷静看向镜头，左侧前景有一位戴黑框眼镜的女性脸部大面积虚化，只露出半张脸，远处有第三位女性模糊站立，三人形成前中后三层构图，"
+      }
+    },
+    {
+      "prompt_id": "P082",
+      "title": "低保真实验平面海报，当代中文独立设计风格，带有risograph孔版印刷质感、扫描纸张纹理、粗糙网点、油墨不均、轻微套印错位，颜色偏淡、偏灰、偏旧，浅绿、薄蓝、米白为主。排版松散、不对称、不像商业模板，中文大标题占据画面，英文小字像装饰信息",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_082",
+      "prompt": "低保真实验平面海报，当代中文独立设计风格，带有risograph孔版印刷质感、扫描纸张纹理、粗糙网点、油墨不均、轻微套印错位，颜色偏淡、偏灰、偏旧，浅绿、薄蓝、米白为主。排版松散、不对称、不像商业模板，中文大标题占据画面，英文小字像装饰信息一样散落，字体有手作感和实验感，画面保留不完美、未精修、学生设计作业般的生涩感，整体安静、诗意、自然、低保真。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/低保真实验平面海报，当代中文独立设计风格，带有risograph孔版印刷质感、扫描纸张纹理、粗糙网点、油墨不均、轻微套印错位，颜色偏淡、偏灰、偏旧，浅绿、薄蓝、米白为主。排版松散、不对称、不像商业模板，中文大标题占据画面，英文小字像装饰信息一样散落，字体有手作感和实验感，画面保留不完美、未精修、学生设计作业般的生涩感，整体安静、诗意、自然、低保真。.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "低保真实验平面海报，当代中文独立设计风格，带有risograph孔版印刷质感、扫描纸张纹理、粗糙网点、油墨不均、轻微套印错位，颜色偏淡、偏灰、偏旧，浅绿、薄蓝、米白为主。排版松散、不对称、不像商业模板，中文大标题占据画面，英文小字像装饰信息一样散落，字体有手作感和实验感，画面保留不完美、未精修、学生设计作业般的生涩感，整体安静、诗意、自然、低保真。"
+      }
+    },
+    {
+      "prompt_id": "P083",
+      "title": "高精度日系二次元插画，游戏主视觉风格，商稿级完成度，精致厚涂，细节丰富，电影级光影，强明暗对比，边缘光，体积光，冷色梦幻氛围，蓝紫色调，粒子光效，流光，发光碎片，空间感强，画面通透，华丽高级感",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_083",
+      "prompt": "高精度日系二次元插画，游戏主视觉风格，商稿级完成度，精致厚涂，细节丰富，电影级光影，强明暗对比，边缘光，体积光，冷色梦幻氛围，蓝紫色调，粒子光效，流光，发光碎片，空间感强，画面通透，华丽高级感",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/高精度日系二次元插画，游戏主视觉风格，商稿级完成度，精致厚涂，细节丰富，电影级光影，强明暗对比，边缘光，体积光，冷色梦幻氛围，蓝紫色调，粒子光效，流光，发光碎片，空间感强，画面通透，华丽高级感.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "高精度日系二次元插画，游戏主视觉风格，商稿级完成度，精致厚涂，细节丰富，电影级光影，强明暗对比，边缘光，体积光，冷色梦幻氛围，蓝紫色调，粒子光效，流光，发光碎片，空间感强，画面通透，华丽高级感"
+      }
+    },
+    {
+      "prompt_id": "P084",
+      "title": "黑白高定时尚杂志封面，年轻男性近景肖像，黑色凌乱湿发，黑色粗框眼镜，黑色无袖针织背心，双臂交叠在画面前景，一只手扶住头侧，手臂形成强烈构图线条，脸部居中偏右，直视镜头，冷静疏离的眼神，浅灰色极简摄影棚背景，",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_084",
+      "prompt": "黑白高定时尚杂志封面，年轻男性近景肖像，黑色凌乱湿发，黑色粗框眼镜，黑色无袖针织背心，双臂交叠在画面前景，一只手扶住头侧，手臂形成强烈构图线条，脸部居中偏右，直视镜头，冷静疏离的眼神，浅灰色极简摄影棚背景，high fashion editorial portrait, luxury fashion magazine cover, monochrome portrait, high contrast black and white, sharp eyes, sculptural arms, clean grey backdrop, oversized electric blue serif masthead across the top, elegant blue italic cover line at bottom, small white italic caption, British fashion magazine aesthetic, minimal layout, paper texture, premium editorial typography, dramatic yet clean studio lighting, 85mm portrait lens, shallow depth of field, refined skin texture。这里如果不是做仿作，最好别直接写真实杂志名，可以用“luxury fashion magazine cover”替代。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/黑白高定时尚杂志封面，年轻男性近景肖像，黑色凌乱湿发，黑色粗框眼镜，黑色无袖针织背心，双臂交叠在画面前景，一只手扶住头侧，手臂形成强烈构图线条，脸部居中偏右，直视镜头，冷静疏离的眼神，浅灰色极简摄影棚背景，.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "黑白高定时尚杂志封面，年轻男性近景肖像，黑色凌乱湿发，黑色粗框眼镜，黑色无袖针织背心，双臂交叠在画面前景，一只手扶住头侧，手臂形成强烈构图线条，脸部居中偏右，直视镜头，冷静疏离的眼神，浅灰色极简摄影棚背景，"
+      }
+    },
+    {
+      "prompt_id": "P085",
+      "title": "现代人物杂志封面，年轻亚洲男性半身肖像，黑色自然微卷短发，米色西装套装，米色衬衫，米色领带，冷静自信的表情，身体微侧，头部转向镜头，浅米色摄影棚背景，暖色商业棚拍光线",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_085",
+      "prompt": "现代人物杂志封面，年轻亚洲男性半身肖像，黑色自然微卷短发，米色西装套装，米色衬衫，米色领带，冷静自信的表情，身体微侧，头部转向镜头，浅米色摄影棚背景，暖色商业棚拍光线，clean editorial portrait, contemporary fashion journal cover, beige monochrome styling, soft warm studio lighting, subtle hard shadow on background, refined skin texture, professional educator portrait, oversized red bold sans serif masthead behind the head, red serif headline at bottom left, small red and black cover lines on both sides, minimal magazine layout, premium editorial design, clean paper texture, modern leadership profile aesthetic。",
+      "negative_prompt": "低清晰度，画面崩坏，五官变形，手指畸形，多余肢体，塑料皮肤，过度磨皮，背景杂乱，文字乱码，廉价感，AI插画感，动漫感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/现代人物杂志封面，年轻亚洲男性半身肖像，黑色自然微卷短发，米色西装套装，米色衬衫，米色领带，冷静自信的表情，身体微侧，头部转向镜头，浅米色摄影棚背景，暖色商业棚拍光线.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "现代人物杂志封面，年轻亚洲男性半身肖像，黑色自然微卷短发，米色西装套装，米色衬衫，米色领带，冷静自信的表情，身体微侧，头部转向镜头，浅米色摄影棚背景，暖色商业棚拍光线"
+      }
+    },
+    {
+      "prompt_id": "P086",
+      "title": "年轻亚洲女性黑白概念肖像，短发或利落贴头发型，佩戴细框透明眼镜，穿深色西装外套和白色衬衫，通过一面破裂的圆形手持镜子反射看向镜头，镜子靠近镜头形成强烈前景虚化，手指握住镜柄，脸部在镜面碎裂中若隐若现，冷静疏离的眼神，极简灰色背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_086",
+      "prompt": "年轻亚洲女性黑白概念肖像，短发或利落贴头发型，佩戴细框透明眼镜，穿深色西装外套和白色衬衫，通过一面破裂的圆形手持镜子反射看向镜头，镜子靠近镜头形成强烈前景虚化，手指握住镜柄，脸部在镜面碎裂中若隐若现，冷静疏离的眼神，极简灰色背景，black and white conceptual portrait, broken mirror reflection, noir editorial photography, shallow depth of field, blurred foreground mirror frame, fragmented identity, psychological fashion portrait, cinematic monochrome, soft side lighting, sharp reflected eyes, elegant suit styling, quiet tension, intimate close-up, fine skin texture, minimal background, artistic magazine portrait, mysterious refined mood。",
+      "negative_prompt": "男性主体、彩色照片、明亮商业写真、柔光美颜、动漫感、塑料皮肤、过度磨皮、复杂背景、恐怖血腥、夸张惊吓表情、镜子变形、镜面反射错误、脸部重复错位、眼镜畸形、手指畸形、手部比例错误、破碎玻璃过多、碎片遮住眼睛、低清晰度、过度锐化、噪点太脏、背景杂物、廉价滤镜、AI感强的假反射。",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/年轻亚洲女性黑白概念肖像，短发或利落贴头发型，佩戴细框透明眼镜，穿深色西装外套和白色衬衫，通过一面破裂的圆形手持镜子反射看向镜头，镜子靠近镜头形成强烈前景虚化，手指握住镜柄，脸部在镜面碎裂中若隐若现，冷静疏离的眼神，极简灰色背景.md",
+        "has_no_text_prompt": false,
+        "no_text_prompt": "",
+        "original_title": "年轻亚洲女性黑白概念肖像，短发或利落贴头发型，佩戴细框透明眼镜，穿深色西装外套和白色衬衫，通过一面破裂的圆形手持镜子反射看向镜头，镜子靠近镜头形成强烈前景虚化，手指握住镜柄，脸部在镜面碎裂中若隐若现，冷静疏离的眼神，极简灰色背景"
+      }
+    },
+    {
+      "prompt_id": "P087",
+      "title": "红橙复古街头宣言海报，年轻亚洲女性半身偏三分之三肖像，短发，湿感背头，佩戴茶色圆形墨镜或窄框墨镜，冷静疏离表情，侧脸看向远处，焦糖棕色宽肩西装套装，白色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在黑色豪华跑车旁，城市街道背景",
+      "use_case": "portrait_photography",
+      "style_name": "ai_portrait_style_087",
+      "prompt": "红橙复古街头宣言海报，年轻亚洲女性半身偏三分之三肖像，短发，湿感背头，佩戴茶色圆形墨镜或窄框墨镜，冷静疏离表情，侧脸看向远处，焦糖棕色宽肩西装套装，白色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在黑色豪华跑车旁，城市街道背景，栏杆和树影，车身轮廓，红橙色整体滤镜，高温复古色调，巨大黄色竖排衬线标题，左侧强势排版，小号歌词式文字，urban fashion poster, young Asian woman portrait, vintage street editorial, luxury car fashion campaign, red orange duotone color grading, bold vertical serif typography, powerful female lead aesthetic, tinted sunglasses, tailored suit, silk scarf, cigar in hand, cinematic street portrait, retro music cover, graphic magazine layout, warm gritty texture, confident attitude, premium poster design, realistic photography mixed with editorial typography",
+      "negative_prompt": "男性主体，明亮白底棚拍，普通商业写真，甜美少女写真，柔和韩系美颜，低饱和灰绿色电影海报，黑白纪实照片，暗黑法庭场景，赛博朋克霓虹，街头涂鸦过多，撕纸拼贴，动漫感，AI插画感，塑料皮肤，过度磨皮，五官变形，墨镜变形，雪茄变形，手指畸形，多余手指，夹烟姿势错误，西装结构变形，丝巾乱掉，车体变形，车门结构错误，背景杂乱，红色过曝，橙色过饱和，人物脸部太暗，暗部死黑，文字乱码，标题拼错，廉价字体，排版拥挤，低清晰度，噪点过重，恐怖血腥感",
+      "variables": [],
+      "ratio": "3:4",
+      "count": 1,
+      "tags": [
+        "AI人像摄影",
+        "portrait",
+        "photography"
+      ],
+      "metadata": {
+        "source_file": "ai人像摄影/红橙复古街头宣言海报，年轻亚洲女性半身偏三分之三肖像，短发，湿感背头，佩戴茶色圆形墨镜或窄框墨镜，冷静疏离表情，侧脸看向远处，焦糖棕色宽肩西装套装，白色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在黑色豪华跑车旁，城市街道背景，栏杆和树影，车身轮廓，红橙色整体滤镜，高温复古色调，巨大黄色竖排衬线标题，左侧强势排版，小号歌词式文字.md",
+        "has_no_text_prompt": true,
+        "no_text_prompt": "年轻亚洲女性半身偏三分之三时尚肖像，短发或湿感背头，佩戴茶色圆形墨镜，冷静疏离表情，侧脸看向远处，焦糖棕色宽肩西装套装，白色衬衫，浅色丝巾，一只手插兜，另一只手夹着雪茄或香烟，站在黑色豪华跑车旁，城市街道背景，栏杆和树影，车身轮廓，红橙色整体滤镜，复古街头时尚氛围，urban fashion editorial, vintage car campaign, red orange duotone poster style, powerful female lead aesthetic, cinematic street portrait, realistic photography, no text",
+        "original_title": "红橙复古街头宣言海报，年轻亚洲女性半身偏三分之三肖像，短发，湿感背头，佩戴茶色圆形墨镜或窄框墨镜，冷静疏离表情，侧脸看向远处，焦糖棕色宽肩西装套装，白色衬衫，浅色丝巾，一只手插进裤袋，另一只手夹着雪茄或香烟，站在黑色豪华跑车旁，城市街道背景，栏杆和树影，车身轮廓，红橙色整体滤镜，高温复古色调，巨大黄色竖排衬线标题，左侧强势排版，小号歌词式文字"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "profile_id": "custom_url_response",
+  "provider": "custom_http",
+  "display_name": "Custom HTTP URL Image Response",
+  "method": "POST",
+  "base_url": "https://provider.example.com/v1/images",
+  "auth_type": "bearer",
+  "api_key_env": "IMAGE_API_KEY",
+  "model": "your-image-model",
+  "payload_style": "openai_compatible",
+  "default_size": "1024x1024",
+  "download_remote": true,
+  "response_image_url_path": "data.0.url",
+  "response_base64_path": "data.0.b64_json",
+  "timeout": 60,
+  "max_retries": 2,
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}

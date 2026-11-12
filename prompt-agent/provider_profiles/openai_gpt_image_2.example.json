@@ -1,0 +1,25 @@
+{
+  "profile_id": "openai_gpt_image_2",
+  "provider": "custom_http",
+  "display_name": "OpenAI GPT Image 2",
+  "method": "POST",
+  "base_url": "https://api.openai.com/v1/images/generations",
+  "auth_type": "bearer",
+  "api_key_env": "OPENAI_API_KEY",
+  "model": "gpt-image-2",
+  "payload_style": "openai_compatible",
+  "default_size": "1024x1024",
+  "download_remote": false,
+  "response_image_url_path": "",
+  "response_base64_path": "data.0.b64_json",
+  "timeout": 180,
+  "max_retries": 2,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "output_format": "png",
+  "quality": "medium",
+  "include_negative_prompt": false,
+  "include_response_format": false,
+  "moderation": null
+}

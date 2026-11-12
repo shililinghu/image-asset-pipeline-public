@@ -1,0 +1,60 @@
+{
+  "pack": {
+    "pack_name": "Xiaohongshu Chemistry Cover Prompt Pack V1",
+    "description": "Mock-ready prompt pack for clean education chemistry cover images on Xiaohongshu.",
+    "domain": "chemistry",
+    "platform": "xiaohongshu",
+    "use_case": "cover",
+    "style": "clean_education",
+    "ratio": "3:4",
+    "status": "approved",
+    "version": "v1",
+    "quality_score": 82,
+    "match_tags": ["chemistry", "education", "cover", "xiaohongshu", "clean", "text_required"],
+    "created_from": "manual",
+    "source_prompt_ids": [],
+    "source_feedback_ids": [],
+    "source_image_result_ids": []
+  },
+  "items": [
+    {
+      "prompt_id": "sample_chemistry_cover_01",
+      "prompt_content": "Create a clean Xiaohongshu chemistry cover about {topic}. Use a 3:4 vertical layout, large readable Chinese title, simple lab glassware, soft white background, mint and cobalt accents, clear educational tone, no clutter.",
+      "negative_prompt": "messy layout, tiny text, unsafe lab scene, dark background, realistic explosion",
+      "variables": ["topic"],
+      "use_case": "cover",
+      "style_name": "clean_lab_cover",
+      "ratio": "3:4",
+      "count": 2,
+      "item_score": 82,
+      "approved_image_count": 3,
+      "tested_image_count": 5
+    },
+    {
+      "prompt_id": "sample_chemistry_cover_02",
+      "prompt_content": "Design a vertical 3:4 educational cover image for {topic}, Xiaohongshu style. Put one bold title area at the top, one simplified molecular diagram in the center, warm paper texture, clean margins, readable Chinese text.",
+      "negative_prompt": "overloaded text, low contrast, horror mood, complex unreadable diagrams",
+      "variables": ["topic"],
+      "use_case": "cover",
+      "style_name": "molecule_poster",
+      "ratio": "3:4",
+      "count": 2,
+      "item_score": 80,
+      "approved_image_count": 2,
+      "tested_image_count": 4
+    },
+    {
+      "prompt_id": "sample_chemistry_cover_03",
+      "prompt_content": "Generate a friendly science explainer cover for {topic}. 3:4 portrait, clean education visual system, one central metaphor object, short Chinese headline, calm colors, strong hierarchy, suitable for Xiaohongshu collection.",
+      "negative_prompt": "stock photo look, dense paragraphs, chaotic icons, unsafe experiment",
+      "variables": ["topic"],
+      "use_case": "cover",
+      "style_name": "friendly_science_metaphor",
+      "ratio": "3:4",
+      "count": 2,
+      "item_score": 84,
+      "approved_image_count": 4,
+      "tested_image_count": 5
+    }
+  ]
+}
